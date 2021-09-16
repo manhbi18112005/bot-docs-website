@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/hcv",
+  "id": "features/hcv",
+  "isDocsHomePage": false,
+  "title": "Health Card Validation",
+  "description": "OHIP Card Lookup quickly validates OHIP cards and automatically populate patient information in new claims. The most common reason for rejected claims is incorrect health card numbers and our validation service allows to verify a patient has coverage instantly.",
+  "source": "@site/docs\\features\\hcv.md",
+  "slug": "/features/hcv",
+  "permalink": "/docs/features/hcv",
+  "version": "current",
+  "sidebar_label": "Health Card Validation",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pre-set Favourites",
+    "permalink": "/docs/features/favourites"
+  },
+  "next": {
+    "title": "Adding Referring Physicians",
+    "permalink": "/docs/features/adding-referring-physician"
+  }
+}

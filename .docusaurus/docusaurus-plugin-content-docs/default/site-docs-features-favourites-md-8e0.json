@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/favourites",
+  "id": "features/favourites",
+  "isDocsHomePage": false,
+  "title": "Pre-set Favourites",
+  "description": "Billing and Diagnostic Codes Favourites",
+  "source": "@site/docs\\features\\favourites.md",
+  "slug": "/features/favourites",
+  "permalink": "/docs/features/favourites",
+  "version": "current",
+  "sidebar_label": "Pre-set Favourites",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Quick Copy",
+    "permalink": "/docs/features/quick-copy"
+  },
+  "next": {
+    "title": "Health Card Validation",
+    "permalink": "/docs/features/hcv"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "covid/k-codes",
+  "id": "covid/k-codes",
+  "isDocsHomePage": false,
+  "title": "Virtual Care Codes",
+  "description": "K081/K082/K083",
+  "source": "@site/docs\\covid\\k-codes.md",
+  "slug": "/covid/k-codes",
+  "permalink": "/docs/covid/k-codes",
+  "version": "current",
+  "sidebar_label": "Virtual Care",
+  "sidebar": "docs",
+  "previous": {
+    "title": "COVID Sessional Fees",
+    "permalink": "/docs/covid/sessional"
+  },
+  "next": {
+    "title": "COVID Vaccine Fees",
+    "permalink": "/docs/covid/vaccine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "covid/sessional",
+  "id": "covid/sessional",
+  "isDocsHomePage": false,
+  "title": "COVID Sessional Fees",
+  "description": "Submitting COVID Sessional Claims",
+  "source": "@site/docs\\covid\\sessional.md",
+  "slug": "/covid/sessional",
+  "permalink": "/docs/covid/sessional",
+  "version": "current",
+  "sidebar_label": "Sessional Fees",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Fractional Fees",
+    "permalink": "/docs/faq/fractional"
+  },
+  "next": {
+    "title": "Virtual Care Codes",
+    "permalink": "/docs/covid/k-codes"
+  }
+}

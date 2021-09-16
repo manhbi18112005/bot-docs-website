@@ -1,0 +1,789 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\sidebars.js",
+          "docsDirPath": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\docs",
+          "docsDirPathLocalized": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "getting-started/installation",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": false,
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "getting-started/installation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/designation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/moh_group"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Pricing",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "pricing/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "pricing/self-service"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "pricing/full-service"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "pricing/pay-as-you-go"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Features",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "features/quick-copy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/favourites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/hcv"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/adding-referring-physician"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/resubmit-claims"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "FAQ",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "faq/delete-claim"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq/sli"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq/fractional"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "COVID",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "covid/sessional"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "covid/k-codes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "covid/vaccine"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "comparison"
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/comparison": "docs",
+            "/docs/covid/k-codes": "docs",
+            "/docs/covid/sessional": "docs",
+            "/docs/covid/vaccine": "docs",
+            "/docs/faq/delete-claim": "docs",
+            "/docs/faq/fractional": "docs",
+            "/docs/faq/sli": "docs",
+            "/docs/features/adding-referring-physician": "docs",
+            "/docs/features/favourites": "docs",
+            "/docs/features/hcv": "docs",
+            "/docs/features/quick-copy": "docs",
+            "/docs/features/resubmit-claims": "docs",
+            "/docs/getting-started/designation": "docs",
+            "/docs/": "docs",
+            "/docs/getting-started/moh_group": "docs",
+            "/docs/pricing/full-service": "docs",
+            "/docs/pricing/overview": "docs",
+            "/docs/pricing/pay-as-you-go": "docs",
+            "/docs/pricing/self-service": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "comparison",
+              "id": "comparison",
+              "isDocsHomePage": false,
+              "title": "Product Comparison",
+              "description": "backgroundColor: color,",
+              "source": "@site/docs\\comparison.md",
+              "slug": "/comparison",
+              "permalink": "/docs/comparison",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "COVID Vaccine Fees",
+                "permalink": "/docs/covid/vaccine"
+              }
+            },
+            {
+              "unversionedId": "covid/k-codes",
+              "id": "covid/k-codes",
+              "isDocsHomePage": false,
+              "title": "Virtual Care Codes",
+              "description": "K081/K082/K083",
+              "source": "@site/docs\\covid\\k-codes.md",
+              "slug": "/covid/k-codes",
+              "permalink": "/docs/covid/k-codes",
+              "version": "current",
+              "sidebar_label": "Virtual Care",
+              "sidebar": "docs",
+              "previous": {
+                "title": "COVID Sessional Fees",
+                "permalink": "/docs/covid/sessional"
+              },
+              "next": {
+                "title": "COVID Vaccine Fees",
+                "permalink": "/docs/covid/vaccine"
+              }
+            },
+            {
+              "unversionedId": "covid/sessional",
+              "id": "covid/sessional",
+              "isDocsHomePage": false,
+              "title": "COVID Sessional Fees",
+              "description": "Submitting COVID Sessional Claims",
+              "source": "@site/docs\\covid\\sessional.md",
+              "slug": "/covid/sessional",
+              "permalink": "/docs/covid/sessional",
+              "version": "current",
+              "sidebar_label": "Sessional Fees",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Fractional Fees",
+                "permalink": "/docs/faq/fractional"
+              },
+              "next": {
+                "title": "Virtual Care Codes",
+                "permalink": "/docs/covid/k-codes"
+              }
+            },
+            {
+              "unversionedId": "covid/vaccine",
+              "id": "covid/vaccine",
+              "isDocsHomePage": false,
+              "title": "COVID Vaccine Fees",
+              "description": "The COVID immunization clinics use the same billing method as the COVID Assessment Center sessional codes (H409A and H410A). COVID Sessional Codes",
+              "source": "@site/docs\\covid\\vaccine.md",
+              "slug": "/covid/vaccine",
+              "permalink": "/docs/covid/vaccine",
+              "version": "current",
+              "sidebar_label": "Vaccines Fees",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Virtual Care Codes",
+                "permalink": "/docs/covid/k-codes"
+              },
+              "next": {
+                "title": "Product Comparison",
+                "permalink": "/docs/comparison"
+              }
+            },
+            {
+              "unversionedId": "faq/delete-claim",
+              "id": "faq/delete-claim",
+              "isDocsHomePage": false,
+              "title": "Deleting a Claim",
+              "description": "Deleting a Claim",
+              "source": "@site/docs\\faq\\delete.md",
+              "slug": "/faq/delete-claim",
+              "permalink": "/docs/faq/delete-claim",
+              "version": "current",
+              "sidebar_label": "Deleting a Claim",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Resubmitting Claims",
+                "permalink": "/docs/features/resubmit-claims"
+              },
+              "next": {
+                "title": "Service Location Indicator",
+                "permalink": "/docs/faq/sli"
+              }
+            },
+            {
+              "unversionedId": "faq/fractional",
+              "id": "faq/fractional",
+              "isDocsHomePage": false,
+              "title": "Fractional Fees",
+              "description": "Billing Codes with Modifiers",
+              "source": "@site/docs\\faq\\fractional.md",
+              "slug": "/faq/fractional",
+              "permalink": "/docs/faq/fractional",
+              "version": "current",
+              "sidebar_label": "Fractional Fees",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Service Location Indicator",
+                "permalink": "/docs/faq/sli"
+              },
+              "next": {
+                "title": "COVID Sessional Fees",
+                "permalink": "/docs/covid/sessional"
+              }
+            },
+            {
+              "unversionedId": "faq/payment",
+              "id": "faq/payment",
+              "isDocsHomePage": false,
+              "title": "Payments",
+              "description": "Payment Details",
+              "source": "@site/docs\\faq\\payment.md",
+              "slug": "/faq/payment",
+              "permalink": "/docs/faq/payment",
+              "version": "current",
+              "sidebar_label": "Payments"
+            },
+            {
+              "unversionedId": "faq/rmb",
+              "id": "faq/rmb",
+              "isDocsHomePage": false,
+              "title": "Reciprocal Provincial Claims",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "source": "@site/docs\\faq\\rmb.md",
+              "slug": "/faq/rmb",
+              "permalink": "/docs/faq/rmb",
+              "version": "current",
+              "sidebar_label": "Reciprocal Provincial Claims"
+            },
+            {
+              "unversionedId": "faq/sli",
+              "id": "faq/sli",
+              "isDocsHomePage": false,
+              "title": "Service Location Indicator",
+              "description": "When To Use SLIs",
+              "source": "@site/docs\\faq\\sli.md",
+              "slug": "/faq/sli",
+              "permalink": "/docs/faq/sli",
+              "version": "current",
+              "sidebar_label": "Service Location Indicator",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Deleting a Claim",
+                "permalink": "/docs/faq/delete-claim"
+              },
+              "next": {
+                "title": "Fractional Fees",
+                "permalink": "/docs/faq/fractional"
+              }
+            },
+            {
+              "unversionedId": "features/adding-referring-physician",
+              "id": "features/adding-referring-physician",
+              "isDocsHomePage": false,
+              "title": "Adding Referring Physicians",
+              "description": "IntelAGENT has an extensive database of billing number for referring physicians. You can billing number for newly practicing physicians not already in our database by tapping the referring physican field in the claims screen to bring up the referring physician menu. If the physician you're looking for isn't in the list then press the icon on the top left of the screen to bring up the \"Add Physician\" modal where you can add a new physician.",
+              "source": "@site/docs\\features\\adding-referring-physician.md",
+              "slug": "/features/adding-referring-physician",
+              "permalink": "/docs/features/adding-referring-physician",
+              "version": "current",
+              "sidebar_label": "Adding Referring Physicians",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Health Card Validation",
+                "permalink": "/docs/features/hcv"
+              },
+              "next": {
+                "title": "Resubmitting Claims",
+                "permalink": "/docs/features/resubmit-claims"
+              }
+            },
+            {
+              "unversionedId": "features/favourites",
+              "id": "features/favourites",
+              "isDocsHomePage": false,
+              "title": "Pre-set Favourites",
+              "description": "Billing and Diagnostic Codes Favourites",
+              "source": "@site/docs\\features\\favourites.md",
+              "slug": "/features/favourites",
+              "permalink": "/docs/features/favourites",
+              "version": "current",
+              "sidebar_label": "Pre-set Favourites",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Quick Copy",
+                "permalink": "/docs/features/quick-copy"
+              },
+              "next": {
+                "title": "Health Card Validation",
+                "permalink": "/docs/features/hcv"
+              }
+            },
+            {
+              "unversionedId": "features/hcv",
+              "id": "features/hcv",
+              "isDocsHomePage": false,
+              "title": "Health Card Validation",
+              "description": "OHIP Card Lookup quickly validates OHIP cards and automatically populate patient information in new claims. The most common reason for rejected claims is incorrect health card numbers and our validation service allows to verify a patient has coverage instantly.",
+              "source": "@site/docs\\features\\hcv.md",
+              "slug": "/features/hcv",
+              "permalink": "/docs/features/hcv",
+              "version": "current",
+              "sidebar_label": "Health Card Validation",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Pre-set Favourites",
+                "permalink": "/docs/features/favourites"
+              },
+              "next": {
+                "title": "Adding Referring Physicians",
+                "permalink": "/docs/features/adding-referring-physician"
+              }
+            },
+            {
+              "unversionedId": "features/quick-copy",
+              "id": "features/quick-copy",
+              "isDocsHomePage": false,
+              "title": "Quick Copy",
+              "description": "The vast majority of claims submitted by physicians repeat the details over and over again. The physician is either repeating claims for the same patient or the same combinations of codes. Our research has shown that the quickest way to submit a new claim is to make it easy to copy a previously submitted claim. With IntelAGENT you can either duplicate an entire claim or just a combination of billing codes. For those that find they'd like to just quickly add one or two billing codes then we offer you the option to setup a quick-push favorites for your billing and diagnostic codes.",
+              "source": "@site/docs\\features\\quick-copy.md",
+              "slug": "/features/quick-copy",
+              "permalink": "/docs/features/quick-copy",
+              "version": "current",
+              "sidebar_label": "Quick Copy",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Pay-As-You-Go Billing Agent",
+                "permalink": "/docs/pricing/pay-as-you-go"
+              },
+              "next": {
+                "title": "Pre-set Favourites",
+                "permalink": "/docs/features/favourites"
+              }
+            },
+            {
+              "unversionedId": "features/resubmit-claims",
+              "id": "features/resubmit-claims",
+              "isDocsHomePage": false,
+              "title": "Resubmitting Claims",
+              "description": "Claims that have been rejected through Error Report or the Remittance Advice can be fixed and resubmitted. Go to the Records tab in the app and find the claim you wish to modify. Select the claim and make the adjustments to the claim. At the botton will be the \"Submit Claim\" button which you can press to have the claim resubmitted and enter Pending Status.",
+              "source": "@site/docs\\features\\resubmit-claims.md",
+              "slug": "/features/resubmit-claims",
+              "permalink": "/docs/features/resubmit-claims",
+              "version": "current",
+              "sidebar_label": "Resubmitting Claims",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Adding Referring Physicians",
+                "permalink": "/docs/features/adding-referring-physician"
+              },
+              "next": {
+                "title": "Deleting a Claim",
+                "permalink": "/docs/faq/delete-claim"
+              }
+            },
+            {
+              "unversionedId": "getting-started/designation",
+              "id": "getting-started/designation",
+              "isDocsHomePage": false,
+              "title": "Designating IntelAGENT as your Agent",
+              "description": "Log into the MOHLTC Site using your GO Secure account.",
+              "source": "@site/docs\\getting-started\\designation.md",
+              "slug": "/getting-started/designation",
+              "permalink": "/docs/getting-started/designation",
+              "version": "current",
+              "sidebar_label": "MOH Designation",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "MOH Group Codes",
+                "permalink": "/docs/getting-started/moh_group"
+              }
+            },
+            {
+              "unversionedId": "getting-started/installation",
+              "id": "getting-started/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "Download the mobile app",
+              "source": "@site/docs\\getting-started\\installation.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "version": "current",
+              "sidebar_label": "Installation",
+              "sidebar": "docs",
+              "next": {
+                "title": "Designating IntelAGENT as your Agent",
+                "permalink": "/docs/getting-started/designation"
+              }
+            },
+            {
+              "unversionedId": "getting-started/moh_group",
+              "id": "getting-started/moh_group",
+              "isDocsHomePage": false,
+              "title": "MOH Group Codes",
+              "description": "You can add multiple MOH Group in addition to the default solo billing number. These are used to bill to academic groups, COVID assessment centres and AFAs.",
+              "source": "@site/docs\\getting-started\\moh_group.md",
+              "slug": "/getting-started/moh_group",
+              "permalink": "/docs/getting-started/moh_group",
+              "version": "current",
+              "sidebar_label": "MOH Groups",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Designating IntelAGENT as your Agent",
+                "permalink": "/docs/getting-started/designation"
+              },
+              "next": {
+                "title": "Pricing Overview",
+                "permalink": "/docs/pricing/overview"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs\\mdx.md",
+              "slug": "/mdx",
+              "permalink": "/docs/mdx",
+              "version": "current"
+            },
+            {
+              "unversionedId": "pricing/full-service",
+              "id": "pricing/full-service",
+              "isDocsHomePage": false,
+              "title": "Full Service Billing Agent",
+              "description": "Full service billing",
+              "source": "@site/docs\\pricing\\full-service.md",
+              "slug": "/pricing/full-service",
+              "permalink": "/docs/pricing/full-service",
+              "version": "current",
+              "sidebar_label": "Full-Service Billing",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Self-Service Billing",
+                "permalink": "/docs/pricing/self-service"
+              },
+              "next": {
+                "title": "Pay-As-You-Go Billing Agent",
+                "permalink": "/docs/pricing/pay-as-you-go"
+              }
+            },
+            {
+              "unversionedId": "pricing/overview",
+              "id": "pricing/overview",
+              "isDocsHomePage": false,
+              "title": "Pricing Overview",
+              "description": "Pricing Options",
+              "source": "@site/docs\\pricing\\overview.md",
+              "slug": "/pricing/overview",
+              "permalink": "/docs/pricing/overview",
+              "version": "current",
+              "sidebar_label": "Pricing Overview",
+              "sidebar": "docs",
+              "previous": {
+                "title": "MOH Group Codes",
+                "permalink": "/docs/getting-started/moh_group"
+              },
+              "next": {
+                "title": "Self-Service Billing",
+                "permalink": "/docs/pricing/self-service"
+              }
+            },
+            {
+              "unversionedId": "pricing/pay-as-you-go",
+              "id": "pricing/pay-as-you-go",
+              "isDocsHomePage": false,
+              "title": "Pay-As-You-Go Billing Agent",
+              "description": "When you select a Rejected and Partial from the Records tab you will see a header on top of the claim asking you if you want a quote from our Pay As You Go Billing Agent Service",
+              "source": "@site/docs\\pricing\\pay-as-you-go.md",
+              "slug": "/pricing/pay-as-you-go",
+              "permalink": "/docs/pricing/pay-as-you-go",
+              "version": "current",
+              "sidebar_label": "Pay-As-You-Go Billing Agent",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Full Service Billing Agent",
+                "permalink": "/docs/pricing/full-service"
+              },
+              "next": {
+                "title": "Quick Copy",
+                "permalink": "/docs/features/quick-copy"
+              }
+            },
+            {
+              "unversionedId": "pricing/self-service",
+              "id": "pricing/self-service",
+              "isDocsHomePage": false,
+              "title": "Self-Service Billing",
+              "description": "The self-service plan is free on the mobile app and allows experienced billers the opportunity to manager their own submissions. The app is full featured and makes it easy to submit, review and fix claims. We encourage users to try the app to see if its right for you.",
+              "source": "@site/docs\\pricing\\self-service.md",
+              "slug": "/pricing/self-service",
+              "permalink": "/docs/pricing/self-service",
+              "version": "current",
+              "sidebar_label": "Self-Service Billing",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Pricing Overview",
+                "permalink": "/docs/pricing/overview"
+              },
+              "next": {
+                "title": "Full Service Billing Agent",
+                "permalink": "/docs/pricing/full-service"
+              }
+            },
+            {
+              "unversionedId": "style_guide",
+              "id": "style_guide",
+              "isDocsHomePage": false,
+              "title": "Style Guide",
+              "description": "You can write content using GitHub-flavored Markdown syntax.",
+              "source": "@site/docs\\style_guide.md",
+              "slug": "/style_guide",
+              "permalink": "/docs/style_guide",
+              "version": "current",
+              "sidebar_label": "Style Guide"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog\\2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog\\2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog\\2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/donate",
+        "source": "@site/src\\pages\\donate.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src\\pages\\index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/privacy-cookie",
+        "source": "@site/src\\pages\\privacy-cookie.md"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/privacy",
+        "source": "@site/src\\pages\\privacy.md"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/signup",
+        "source": "@site/src\\pages\\signup.md"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/term",
+        "source": "@site/src\\pages\\term.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-plugin-ideal-image": {
+    "default": null
+  },
+  "docusaurus-plugin": {
+    "GTM-T2SJLRG": null
+  }
+}

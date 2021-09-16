@@ -1,0 +1,12 @@
+{
+  "unversionedId": "style_guide",
+  "id": "style_guide",
+  "isDocsHomePage": false,
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs\\style_guide.md",
+  "slug": "/style_guide",
+  "permalink": "/docs/style_guide",
+  "version": "current",
+  "sidebar_label": "Style Guide"
+}

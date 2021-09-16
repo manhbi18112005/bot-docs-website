@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/quick-copy",
+  "id": "features/quick-copy",
+  "isDocsHomePage": false,
+  "title": "Quick Copy",
+  "description": "The vast majority of claims submitted by physicians repeat the details over and over again. The physician is either repeating claims for the same patient or the same combinations of codes. Our research has shown that the quickest way to submit a new claim is to make it easy to copy a previously submitted claim. With IntelAGENT you can either duplicate an entire claim or just a combination of billing codes. For those that find they'd like to just quickly add one or two billing codes then we offer you the option to setup a quick-push favorites for your billing and diagnostic codes.",
+  "source": "@site/docs\\features\\quick-copy.md",
+  "slug": "/features/quick-copy",
+  "permalink": "/docs/features/quick-copy",
+  "version": "current",
+  "sidebar_label": "Quick Copy",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pay-As-You-Go Billing Agent",
+    "permalink": "/docs/pricing/pay-as-you-go"
+  },
+  "next": {
+    "title": "Pre-set Favourites",
+    "permalink": "/docs/features/favourites"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/installation",
+          "docs": [
+            {
+              "id": "comparison",
+              "path": "/docs/comparison",
+              "sidebar": "docs"
+            },
+            {
+              "id": "covid/k-codes",
+              "path": "/docs/covid/k-codes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "covid/sessional",
+              "path": "/docs/covid/sessional",
+              "sidebar": "docs"
+            },
+            {
+              "id": "covid/vaccine",
+              "path": "/docs/covid/vaccine",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq/delete-claim",
+              "path": "/docs/faq/delete-claim",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq/fractional",
+              "path": "/docs/faq/fractional",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq/payment",
+              "path": "/docs/faq/payment"
+            },
+            {
+              "id": "faq/rmb",
+              "path": "/docs/faq/rmb"
+            },
+            {
+              "id": "faq/sli",
+              "path": "/docs/faq/sli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/adding-referring-physician",
+              "path": "/docs/features/adding-referring-physician",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/favourites",
+              "path": "/docs/features/favourites",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/hcv",
+              "path": "/docs/features/hcv",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/quick-copy",
+              "path": "/docs/features/quick-copy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/resubmit-claims",
+              "path": "/docs/features/resubmit-claims",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/designation",
+              "path": "/docs/getting-started/designation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/moh_group",
+              "path": "/docs/getting-started/moh_group",
+              "sidebar": "docs"
+            },
+            {
+              "id": "mdx",
+              "path": "/docs/mdx"
+            },
+            {
+              "id": "pricing/full-service",
+              "path": "/docs/pricing/full-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pricing/overview",
+              "path": "/docs/pricing/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pricing/pay-as-you-go",
+              "path": "/docs/pricing/pay-as-you-go",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pricing/self-service",
+              "path": "/docs/pricing/self-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "style_guide",
+              "path": "/docs/style_guide"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

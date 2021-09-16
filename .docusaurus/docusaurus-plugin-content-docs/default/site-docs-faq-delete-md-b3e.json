@@ -1,0 +1,21 @@
+{
+  "unversionedId": "faq/delete-claim",
+  "id": "faq/delete-claim",
+  "isDocsHomePage": false,
+  "title": "Deleting a Claim",
+  "description": "Deleting a Claim",
+  "source": "@site/docs\\faq\\delete.md",
+  "slug": "/faq/delete-claim",
+  "permalink": "/docs/faq/delete-claim",
+  "version": "current",
+  "sidebar_label": "Deleting a Claim",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Resubmitting Claims",
+    "permalink": "/docs/features/resubmit-claims"
+  },
+  "next": {
+    "title": "Service Location Indicator",
+    "permalink": "/docs/faq/sli"
+  }
+}

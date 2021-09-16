@@ -1,0 +1,12 @@
+{
+  "unversionedId": "faq/payment",
+  "id": "faq/payment",
+  "isDocsHomePage": false,
+  "title": "Payments",
+  "description": "Payment Details",
+  "source": "@site/docs\\faq\\payment.md",
+  "slug": "/faq/payment",
+  "permalink": "/docs/faq/payment",
+  "version": "current",
+  "sidebar_label": "Payments"
+}

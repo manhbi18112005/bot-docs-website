@@ -1,0 +1,21 @@
+{
+  "unversionedId": "faq/fractional",
+  "id": "faq/fractional",
+  "isDocsHomePage": false,
+  "title": "Fractional Fees",
+  "description": "Billing Codes with Modifiers",
+  "source": "@site/docs\\faq\\fractional.md",
+  "slug": "/faq/fractional",
+  "permalink": "/docs/faq/fractional",
+  "version": "current",
+  "sidebar_label": "Fractional Fees",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Service Location Indicator",
+    "permalink": "/docs/faq/sli"
+  },
+  "next": {
+    "title": "COVID Sessional Fees",
+    "permalink": "/docs/covid/sessional"
+  }
+}

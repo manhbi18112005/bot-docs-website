@@ -1,0 +1,21 @@
+{
+  "unversionedId": "getting-started/designation",
+  "id": "getting-started/designation",
+  "isDocsHomePage": false,
+  "title": "Designating IntelAGENT as your Agent",
+  "description": "Log into the MOHLTC Site using your GO Secure account.",
+  "source": "@site/docs\\getting-started\\designation.md",
+  "slug": "/getting-started/designation",
+  "permalink": "/docs/getting-started/designation",
+  "version": "current",
+  "sidebar_label": "MOH Designation",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "MOH Group Codes",
+    "permalink": "/docs/getting-started/moh_group"
+  }
+}

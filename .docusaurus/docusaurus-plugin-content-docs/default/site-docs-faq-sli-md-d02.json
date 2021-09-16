@@ -1,0 +1,21 @@
+{
+  "unversionedId": "faq/sli",
+  "id": "faq/sli",
+  "isDocsHomePage": false,
+  "title": "Service Location Indicator",
+  "description": "When To Use SLIs",
+  "source": "@site/docs\\faq\\sli.md",
+  "slug": "/faq/sli",
+  "permalink": "/docs/faq/sli",
+  "version": "current",
+  "sidebar_label": "Service Location Indicator",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deleting a Claim",
+    "permalink": "/docs/faq/delete-claim"
+  },
+  "next": {
+    "title": "Fractional Fees",
+    "permalink": "/docs/faq/fractional"
+  }
+}

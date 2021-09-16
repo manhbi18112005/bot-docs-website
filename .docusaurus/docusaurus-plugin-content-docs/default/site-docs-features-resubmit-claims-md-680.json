@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/resubmit-claims",
+  "id": "features/resubmit-claims",
+  "isDocsHomePage": false,
+  "title": "Resubmitting Claims",
+  "description": "Claims that have been rejected through Error Report or the Remittance Advice can be fixed and resubmitted. Go to the Records tab in the app and find the claim you wish to modify. Select the claim and make the adjustments to the claim. At the botton will be the \"Submit Claim\" button which you can press to have the claim resubmitted and enter Pending Status.",
+  "source": "@site/docs\\features\\resubmit-claims.md",
+  "slug": "/features/resubmit-claims",
+  "permalink": "/docs/features/resubmit-claims",
+  "version": "current",
+  "sidebar_label": "Resubmitting Claims",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Adding Referring Physicians",
+    "permalink": "/docs/features/adding-referring-physician"
+  },
+  "next": {
+    "title": "Deleting a Claim",
+    "permalink": "/docs/faq/delete-claim"
+  }
+}

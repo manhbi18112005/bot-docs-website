@@ -1,0 +1,21 @@
+{
+  "unversionedId": "pricing/self-service",
+  "id": "pricing/self-service",
+  "isDocsHomePage": false,
+  "title": "Self-Service Billing",
+  "description": "The self-service plan is free on the mobile app and allows experienced billers the opportunity to manager their own submissions. The app is full featured and makes it easy to submit, review and fix claims. We encourage users to try the app to see if its right for you.",
+  "source": "@site/docs\\pricing\\self-service.md",
+  "slug": "/pricing/self-service",
+  "permalink": "/docs/pricing/self-service",
+  "version": "current",
+  "sidebar_label": "Self-Service Billing",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pricing Overview",
+    "permalink": "/docs/pricing/overview"
+  },
+  "next": {
+    "title": "Full Service Billing Agent",
+    "permalink": "/docs/pricing/full-service"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "collapsed": false,
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Installation",
+            "href": "/docs/"
+          },
+          {
+            "type": "link",
+            "label": "MOH Designation",
+            "href": "/docs/getting-started/designation"
+          },
+          {
+            "type": "link",
+            "label": "MOH Groups",
+            "href": "/docs/getting-started/moh_group"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Pricing",
+        "items": [
+          {
+            "type": "link",
+            "label": "Pricing Overview",
+            "href": "/docs/pricing/overview"
+          },
+          {
+            "type": "link",
+            "label": "Self-Service Billing",
+            "href": "/docs/pricing/self-service"
+          },
+          {
+            "type": "link",
+            "label": "Full-Service Billing",
+            "href": "/docs/pricing/full-service"
+          },
+          {
+            "type": "link",
+            "label": "Pay-As-You-Go Billing Agent",
+            "href": "/docs/pricing/pay-as-you-go"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "Quick Copy",
+            "href": "/docs/features/quick-copy"
+          },
+          {
+            "type": "link",
+            "label": "Pre-set Favourites",
+            "href": "/docs/features/favourites"
+          },
+          {
+            "type": "link",
+            "label": "Health Card Validation",
+            "href": "/docs/features/hcv"
+          },
+          {
+            "type": "link",
+            "label": "Adding Referring Physicians",
+            "href": "/docs/features/adding-referring-physician"
+          },
+          {
+            "type": "link",
+            "label": "Resubmitting Claims",
+            "href": "/docs/features/resubmit-claims"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "FAQ",
+        "items": [
+          {
+            "type": "link",
+            "label": "Deleting a Claim",
+            "href": "/docs/faq/delete-claim"
+          },
+          {
+            "type": "link",
+            "label": "Service Location Indicator",
+            "href": "/docs/faq/sli"
+          },
+          {
+            "type": "link",
+            "label": "Fractional Fees",
+            "href": "/docs/faq/fractional"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "COVID",
+        "items": [
+          {
+            "type": "link",
+            "label": "Sessional Fees",
+            "href": "/docs/covid/sessional"
+          },
+          {
+            "type": "link",
+            "label": "Virtual Care",
+            "href": "/docs/covid/k-codes"
+          },
+          {
+            "type": "link",
+            "label": "Vaccines Fees",
+            "href": "/docs/covid/vaccine"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Product Comparison",
+        "href": "/docs/comparison"
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/comparison": "docs",
+    "/docs/covid/k-codes": "docs",
+    "/docs/covid/sessional": "docs",
+    "/docs/covid/vaccine": "docs",
+    "/docs/faq/delete-claim": "docs",
+    "/docs/faq/fractional": "docs",
+    "/docs/faq/sli": "docs",
+    "/docs/features/adding-referring-physician": "docs",
+    "/docs/features/favourites": "docs",
+    "/docs/features/hcv": "docs",
+    "/docs/features/quick-copy": "docs",
+    "/docs/features/resubmit-claims": "docs",
+    "/docs/getting-started/designation": "docs",
+    "/docs/": "docs",
+    "/docs/getting-started/moh_group": "docs",
+    "/docs/pricing/full-service": "docs",
+    "/docs/pricing/overview": "docs",
+    "/docs/pricing/pay-as-you-go": "docs",
+    "/docs/pricing/self-service": "docs"
+  }
+}

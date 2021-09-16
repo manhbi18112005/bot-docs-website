@@ -1,0 +1,21 @@
+{
+  "unversionedId": "pricing/overview",
+  "id": "pricing/overview",
+  "isDocsHomePage": false,
+  "title": "Pricing Overview",
+  "description": "Pricing Options",
+  "source": "@site/docs\\pricing\\overview.md",
+  "slug": "/pricing/overview",
+  "permalink": "/docs/pricing/overview",
+  "version": "current",
+  "sidebar_label": "Pricing Overview",
+  "sidebar": "docs",
+  "previous": {
+    "title": "MOH Group Codes",
+    "permalink": "/docs/getting-started/moh_group"
+  },
+  "next": {
+    "title": "Self-Service Billing",
+    "permalink": "/docs/pricing/self-service"
+  }
+}
