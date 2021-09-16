@@ -176,7 +176,7 @@ function Home() {
     <Head>
         <meta charSet="utf-8" />
         <meta property="og:title" content={`${title} - ${tagline}`} />
-        <meta name="description" content='No Name Studio' />
+        <meta name="description" content='The best free discord leveling bot. Free role rewards, auto moderation, reaction roles and more!' />
         <meta property="og:description" content={tagline} />
         <meta property="og:url" content={url} />
         <meta property="og:image" content={ogImage} />
@@ -191,6 +191,8 @@ function Home() {
         <Hero/>
       </div>
 
+      <script async src="https://arc.io/widget.min.js#QpmUnZtS"></script>
+      <script data-ad-client="ca-pub-7236509666550150" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <AppList />
       <Pricing />
       <Highlights

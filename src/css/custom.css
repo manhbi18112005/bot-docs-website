@@ -24,6 +24,8 @@
   --ifm-code-font-size: 95%;
   --ifm-intelagent-color-primary: #2b2f33;
   --ifm-intelagent-link-color: #f8f8f8;
+  --ifm-h1-primary: #343434;
+  --ifm-h1-primary-dark: #f8f8f8;
 }
 
 .docusaurus-highlight-code-line {
@@ -109,7 +111,6 @@ button {
 .highlightsContainer {
   width: 100%;
   min-height: 200px;
-  background-color: #F8FAFC;
   color: #555555;
   position: relative;
 }
@@ -354,7 +355,7 @@ button {
   background: transparent !important;
   font-size: 14px !important;
   font-weight: 800 !important;
-  color: #000 !important;
+  color: var(--ifm-navbar-link-color) !important;
 }
 
 .nav-site li:not(:last-child) a::after {
@@ -411,7 +412,7 @@ body:not(.separateOnPageNav) .mainContainer {
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #000;
+  color: var(--ifm-navbar-link-color)
 }
 
 #main-nav .links a:hover {
@@ -667,7 +668,7 @@ h3 {
 #highlights h3 {
     font-size: 25px;
     font-weight: 800;
-    color: #343434;
+    color: var(--ifm-h1-primary);
     line-height: 32px;
 }
 

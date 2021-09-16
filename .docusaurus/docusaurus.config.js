@@ -29,13 +29,8 @@ export default {
       },
       "items": [
         {
-          "href": "http://www.health.gov.on.ca/en/pro/programs/ohip/bulletins/4000/bulletin_4000_mn.aspx",
-          "label": "Bulletins",
-          "position": "right"
-        },
-        {
-          "href": "https://www.health.gov.on.ca/en/pro/programs/ohip/sob/physserv/sob_master20200306.pdf",
-          "label": "Schedule of Benefits",
+          "href": "https://github.com/No-Name-Studio-VN",
+          "label": "GitHub",
           "position": "right"
         }
       ],
@@ -48,25 +43,8 @@ export default {
           "title": "Guides",
           "items": [
             {
-              "label": "Installation",
+              "label": "Introduction",
               "to": "/docs/"
-            }
-          ]
-        },
-        {
-          "title": "Pricing",
-          "items": [
-            {
-              "label": "Self-Service",
-              "href": "/docs/pricing/self-service"
-            },
-            {
-              "label": "Full-Service",
-              "href": "/docs/pricing/full-service"
-            },
-            {
-              "label": "Pay As You Go",
-              "href": "/docs/pricing/pay-as-you-go"
             }
           ]
         },

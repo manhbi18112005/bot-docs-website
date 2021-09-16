@@ -110,10 +110,6 @@
     "sidebar": "sidebar---blogf-9-b-ce9",
     "content": "content---blog-welcomea-9-a-cb6"
   },
-  "/donate-fa8": {
-    "component": "component---site-src-pages-donate-jsa-06-425",
-    "config": "config---5-e-9-4f3"
-  },
   "/privacy-023": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---privacy-1-d-9-14d"
@@ -130,13 +126,13 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---terme-8-b-160"
   },
-  "/docs-d8c": {
+  "/docs-97f": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docsf-97-b71"
   },
-  "/docs/-ef7": {
+  "/docs/-92c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-788-524"
+    "content": "content---docs-47-e-972"
   },
   "/docs/comparison-337": {
     "component": "component---theme-doc-item-178-a40",
@@ -153,6 +149,10 @@
   "/docs/covid/vaccine-649": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-covid-vaccine-2-b-5-bfc"
+  },
+  "/docs/donate-3ee": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-donatef-72-e40"
   },
   "/docs/faq/delete-claim-fa4": {
     "component": "component---theme-doc-item-178-a40",

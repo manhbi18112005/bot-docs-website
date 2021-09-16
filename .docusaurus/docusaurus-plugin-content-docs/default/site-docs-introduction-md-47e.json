@@ -1,0 +1,17 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "-------------------------------------------------------",
+  "source": "@site/docs\\Introduction.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar_label": "Introduction",
+  "sidebar": "docs",
+  "next": {
+    "title": "Donate",
+    "permalink": "/docs/donate"
+  }
+}

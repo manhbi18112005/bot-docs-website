@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "getting-started/installation",
+          "mainDocId": "introduction",
           "docs": [
             {
               "id": "comparison",
@@ -28,6 +28,11 @@
             {
               "id": "covid/vaccine",
               "path": "/docs/covid/vaccine",
+              "sidebar": "docs"
+            },
+            {
+              "id": "donate",
+              "path": "/docs/donate",
               "sidebar": "docs"
             },
             {
@@ -84,13 +89,13 @@
               "sidebar": "docs"
             },
             {
-              "id": "getting-started/installation",
-              "path": "/docs/",
+              "id": "getting-started/moh_group",
+              "path": "/docs/getting-started/moh_group",
               "sidebar": "docs"
             },
             {
-              "id": "getting-started/moh_group",
-              "path": "/docs/getting-started/moh_group",
+              "id": "introduction",
+              "path": "/docs/",
               "sidebar": "docs"
             },
             {

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "getting-started/introduction",
+  "id": "getting-started/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "-------------------------------------------------------",
+  "source": "@site/docs\\getting-started\\Introduction.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar_label": "Introduction",
+  "sidebar": "docs",
+  "next": {
+    "title": "Designating IntelAGENT as your Agent",
+    "permalink": "/docs/getting-started/designation"
+  }
+}

@@ -11,18 +11,22 @@
           "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\sidebars.js",
           "docsDirPath": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\docs",
           "docsDirPathLocalized": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
-          "mainDocId": "getting-started/installation",
+          "mainDocId": "introduction",
           "sidebars": {
             "docs": [
+              {
+                "type": "doc",
+                "id": "introduction"
+              },
+              {
+                "type": "doc",
+                "id": "donate"
+              },
               {
                 "collapsed": false,
                 "type": "category",
                 "label": "Getting Started",
                 "items": [
-                  {
-                    "type": "doc",
-                    "id": "getting-started/installation"
-                  },
                   {
                     "type": "doc",
                     "id": "getting-started/designation"
@@ -132,6 +136,7 @@
             "/docs/covid/k-codes": "docs",
             "/docs/covid/sessional": "docs",
             "/docs/covid/vaccine": "docs",
+            "/docs/donate": "docs",
             "/docs/faq/delete-claim": "docs",
             "/docs/faq/fractional": "docs",
             "/docs/faq/sli": "docs",
@@ -141,8 +146,8 @@
             "/docs/features/quick-copy": "docs",
             "/docs/features/resubmit-claims": "docs",
             "/docs/getting-started/designation": "docs",
-            "/docs/": "docs",
             "/docs/getting-started/moh_group": "docs",
+            "/docs/": "docs",
             "/docs/pricing/full-service": "docs",
             "/docs/pricing/overview": "docs",
             "/docs/pricing/pay-as-you-go": "docs",
@@ -226,6 +231,26 @@
               "next": {
                 "title": "Product Comparison",
                 "permalink": "/docs/comparison"
+              }
+            },
+            {
+              "unversionedId": "donate",
+              "id": "donate",
+              "isDocsHomePage": false,
+              "title": "Donate",
+              "description": "Đô nết đi đô nết đi, thỏ nhận nè UwU",
+              "source": "@site/docs\\donate.md",
+              "slug": "/donate",
+              "permalink": "/docs/donate",
+              "version": "current",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Designating IntelAGENT as your Agent",
+                "permalink": "/docs/getting-started/designation"
               }
             },
             {
@@ -320,7 +345,7 @@
               "id": "features/adding-referring-physician",
               "isDocsHomePage": false,
               "title": "Adding Referring Physicians",
-              "description": "IntelAGENT has an extensive database of billing number for referring physicians. You can billing number for newly practicing physicians not already in our database by tapping the referring physican field in the claims screen to bring up the referring physician menu. If the physician you're looking for isn't in the list then press the icon on the top left of the screen to bring up the \"Add Physician\" modal where you can add a new physician.",
+              "description": "Over 50 commands and more commands over days!",
               "source": "@site/docs\\features\\adding-referring-physician.md",
               "slug": "/features/adding-referring-physician",
               "permalink": "/docs/features/adding-referring-physician",
@@ -433,29 +458,12 @@
               "sidebar_label": "MOH Designation",
               "sidebar": "docs",
               "previous": {
-                "title": "Installation",
-                "permalink": "/docs/"
+                "title": "Donate",
+                "permalink": "/docs/donate"
               },
               "next": {
                 "title": "MOH Group Codes",
                 "permalink": "/docs/getting-started/moh_group"
-              }
-            },
-            {
-              "unversionedId": "getting-started/installation",
-              "id": "getting-started/installation",
-              "isDocsHomePage": false,
-              "title": "Installation",
-              "description": "Download the mobile app",
-              "source": "@site/docs\\getting-started\\installation.md",
-              "slug": "/",
-              "permalink": "/docs/",
-              "version": "current",
-              "sidebar_label": "Installation",
-              "sidebar": "docs",
-              "next": {
-                "title": "Designating IntelAGENT as your Agent",
-                "permalink": "/docs/getting-started/designation"
               }
             },
             {
@@ -477,6 +485,23 @@
               "next": {
                 "title": "Pricing Overview",
                 "permalink": "/docs/pricing/overview"
+              }
+            },
+            {
+              "unversionedId": "introduction",
+              "id": "introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "-------------------------------------------------------",
+              "source": "@site/docs\\Introduction.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "version": "current",
+              "sidebar_label": "Introduction",
+              "sidebar": "docs",
+              "next": {
+                "title": "Donate",
+                "permalink": "/docs/donate"
               }
             },
             {
@@ -742,11 +767,6 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
-      {
-        "type": "jsx",
-        "permalink": "/donate",
-        "source": "@site/src\\pages\\donate.js"
-      },
       {
         "type": "jsx",
         "permalink": "/",

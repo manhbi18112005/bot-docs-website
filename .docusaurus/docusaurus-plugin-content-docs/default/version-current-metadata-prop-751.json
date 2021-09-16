@@ -6,15 +6,20 @@
   "docsSidebars": {
     "docs": [
       {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/"
+      },
+      {
+        "type": "link",
+        "label": "Donate",
+        "href": "/docs/donate"
+      },
+      {
         "collapsed": false,
         "type": "category",
         "label": "Getting Started",
         "items": [
-          {
-            "type": "link",
-            "label": "Installation",
-            "href": "/docs/"
-          },
           {
             "type": "link",
             "label": "MOH Designation",
@@ -142,6 +147,7 @@
     "/docs/covid/k-codes": "docs",
     "/docs/covid/sessional": "docs",
     "/docs/covid/vaccine": "docs",
+    "/docs/donate": "docs",
     "/docs/faq/delete-claim": "docs",
     "/docs/faq/fractional": "docs",
     "/docs/faq/sli": "docs",
@@ -151,8 +157,8 @@
     "/docs/features/quick-copy": "docs",
     "/docs/features/resubmit-claims": "docs",
     "/docs/getting-started/designation": "docs",
-    "/docs/": "docs",
     "/docs/getting-started/moh_group": "docs",
+    "/docs/": "docs",
     "/docs/pricing/full-service": "docs",
     "/docs/pricing/overview": "docs",
     "/docs/pricing/pay-as-you-go": "docs",

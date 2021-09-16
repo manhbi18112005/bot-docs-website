@@ -1,11 +1,18 @@
 module.exports = {
   docs: [
     {
+      type: "doc",
+      id: "introduction",
+    },
+    {
+      type: "doc",
+      id: "donate",
+    },
+    {
       type: "category",
       label: "Getting Started",
       collapsed: false,
       items: [
-      'getting-started/installation',
       'getting-started/designation',
       'getting-started/moh_group',
       ],

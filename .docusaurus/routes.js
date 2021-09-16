@@ -88,11 +88,6 @@ export default [
   exact: true,
 },
 {
-  path: '/donate',
-  component: ComponentCreator('/donate','fa8'),
-  exact: true,
-},
-{
   path: '/privacy',
   component: ComponentCreator('/privacy','023'),
   exact: true,
@@ -114,12 +109,12 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','d8c'),
+  component: ComponentCreator('/docs','97f'),
   
   routes: [
 {
   path: '/docs/',
-  component: ComponentCreator('/docs/','ef7'),
+  component: ComponentCreator('/docs/','92c'),
   exact: true,
 },
 {
@@ -140,6 +135,11 @@ export default [
 {
   path: '/docs/covid/vaccine',
   component: ComponentCreator('/docs/covid/vaccine','649'),
+  exact: true,
+},
+{
+  path: '/docs/donate',
+  component: ComponentCreator('/docs/donate','3ee'),
   exact: true,
 },
 {

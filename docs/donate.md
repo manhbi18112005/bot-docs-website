@@ -1,0 +1,22 @@
+---
+id: donate
+title: Donate
+
+sidebar_position: 2
+---
+
+## Đô nết đi đô nết đi, thỏ nhận nè UwU
+
+
+​Patreon: https://www.patreon.com/manhbi18112005​
+
+​Playerduo: https://playerduo.com/manhbi18112005​
+
+Paypal: manhquan677@gmail.com
+
+Momo: 0921812005
+
+Bank: 1016365120 - Vietcombank(VCB) - LE NGO DUC MANH
+
+
+​

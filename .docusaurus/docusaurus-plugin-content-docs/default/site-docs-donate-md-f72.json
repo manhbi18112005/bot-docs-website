@@ -1,0 +1,20 @@
+{
+  "unversionedId": "donate",
+  "id": "donate",
+  "isDocsHomePage": false,
+  "title": "Donate",
+  "description": "Đô nết đi đô nết đi, thỏ nhận nè UwU",
+  "source": "@site/docs\\donate.md",
+  "slug": "/donate",
+  "permalink": "/docs/donate",
+  "version": "current",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Designating IntelAGENT as your Agent",
+    "permalink": "/docs/getting-started/designation"
+  }
+}
