@@ -8,14 +8,5 @@
   "slug": "/features/hcv",
   "permalink": "/docs/features/hcv",
   "version": "current",
-  "sidebar_label": "Health Card Validation",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Pre-set Favourites",
-    "permalink": "/docs/features/favourites"
-  },
-  "next": {
-    "title": "Adding Referring Physicians",
-    "permalink": "/docs/features/adding-referring-physician"
-  }
+  "sidebar_label": "Health Card Validation"
 }

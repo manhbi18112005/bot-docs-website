@@ -59,28 +59,31 @@
               "sidebar": "docs"
             },
             {
-              "id": "features/adding-referring-physician",
-              "path": "/docs/features/adding-referring-physician",
-              "sidebar": "docs"
-            },
-            {
-              "id": "features/favourites",
-              "path": "/docs/features/favourites",
+              "id": "features/feature",
+              "path": "/docs/features/feature",
               "sidebar": "docs"
             },
             {
               "id": "features/hcv",
-              "path": "/docs/features/hcv",
+              "path": "/docs/features/hcv"
+            },
+            {
+              "id": "features/music-commands",
+              "path": "/docs/music-commands",
               "sidebar": "docs"
             },
             {
-              "id": "features/quick-copy",
-              "path": "/docs/features/quick-copy",
+              "id": "features/music-commands/commands",
+              "path": "/docs/features/music-commands/commands",
               "sidebar": "docs"
             },
             {
-              "id": "features/resubmit-claims",
-              "path": "/docs/features/resubmit-claims",
+              "id": "features/other-commands",
+              "path": "/docs/other-commands"
+            },
+            {
+              "id": "features/utility-commands",
+              "path": "/docs/utility-commands",
               "sidebar": "docs"
             },
             {
@@ -90,8 +93,7 @@
             },
             {
               "id": "getting-started/moh_group",
-              "path": "/docs/getting-started/moh_group",
-              "sidebar": "docs"
+              "path": "/docs/getting-started/moh_group"
             },
             {
               "id": "introduction",

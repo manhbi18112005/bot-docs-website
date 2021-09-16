@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/utility-commands",
+  "id": "features/utility-commands",
+  "isDocsHomePage": false,
+  "title": "Utility Commands",
+  "description": "Utility Commands",
+  "source": "@site/docs\\features\\utility-commands.md",
+  "slug": "/utility-commands",
+  "permalink": "/docs/utility-commands",
+  "version": "current",
+  "sidebar_label": "Utility Commands",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Feature",
+    "permalink": "/docs/features/feature"
+  },
+  "next": {
+    "title": "Music Commands",
+    "permalink": "/docs/music-commands"
+  }
+}

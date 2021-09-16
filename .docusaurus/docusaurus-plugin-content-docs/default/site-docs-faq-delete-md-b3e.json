@@ -11,8 +11,8 @@
   "sidebar_label": "Deleting a Claim",
   "sidebar": "docs",
   "previous": {
-    "title": "Resubmitting Claims",
-    "permalink": "/docs/features/resubmit-claims"
+    "title": "Commands",
+    "permalink": "/docs/features/music-commands/commands"
   },
   "next": {
     "title": "Service Location Indicator",

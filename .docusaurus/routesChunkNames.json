@@ -126,7 +126,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---terme-8-b-160"
   },
-  "/docs-97f": {
+  "/docs-c85": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docsf-97-b71"
   },
@@ -174,25 +174,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-faq-slid-02-eea"
   },
-  "/docs/features/adding-referring-physician-e8c": {
+  "/docs/features/feature-4f7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-adding-referring-physician-971-ff0"
-  },
-  "/docs/features/favourites-453": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-favourites-8-e-0-f9f"
+    "content": "content---docs-features-feature-6-ed-100"
   },
   "/docs/features/hcv-171": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-features-hcv-3-f-1-dad"
   },
-  "/docs/features/quick-copy-491": {
+  "/docs/features/music-commands/commands-0a2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-quick-copya-97-aa9"
-  },
-  "/docs/features/resubmit-claims-153": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-resubmit-claims-680-4b7"
+    "content": "content---docs-features-music-commands-commands-607-3c3"
   },
   "/docs/getting-started/designation-6fd": {
     "component": "component---theme-doc-item-178-a40",
@@ -205,6 +197,14 @@
   "/docs/mdx-155": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-mdx-45-a-26c"
+  },
+  "/docs/music-commands-673": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-music-commands-704-5e0"
+  },
+  "/docs/other-commands-fe6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-other-commands-06-d-17c"
   },
   "/docs/pricing/full-service-b04": {
     "component": "component---theme-doc-item-178-a40",
@@ -225,5 +225,9 @@
   "/docs/style_guide-ddb": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-style-guide-9-ab-c67"
+  },
+  "/docs/utility-commands-b5a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-utility-commands-9-ec-a98"
   }
 }

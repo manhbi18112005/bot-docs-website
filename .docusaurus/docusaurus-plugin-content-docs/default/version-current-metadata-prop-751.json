@@ -16,7 +16,7 @@
         "href": "/docs/donate"
       },
       {
-        "collapsed": false,
+        "collapsed": true,
         "type": "category",
         "label": "Getting Started",
         "items": [
@@ -24,11 +24,6 @@
             "type": "link",
             "label": "MOH Designation",
             "href": "/docs/getting-started/designation"
-          },
-          {
-            "type": "link",
-            "label": "MOH Groups",
-            "href": "/docs/getting-started/moh_group"
           }
         ]
       },
@@ -66,28 +61,30 @@
         "items": [
           {
             "type": "link",
-            "label": "Quick Copy",
-            "href": "/docs/features/quick-copy"
+            "label": "Feature",
+            "href": "/docs/features/feature"
           },
           {
             "type": "link",
-            "label": "Pre-set Favourites",
-            "href": "/docs/features/favourites"
+            "label": "Utility Commands",
+            "href": "/docs/utility-commands"
           },
           {
             "type": "link",
-            "label": "Health Card Validation",
-            "href": "/docs/features/hcv"
+            "label": "Music Commands",
+            "href": "/docs/music-commands"
           },
           {
-            "type": "link",
-            "label": "Adding Referring Physicians",
-            "href": "/docs/features/adding-referring-physician"
-          },
-          {
-            "type": "link",
-            "label": "Resubmitting Claims",
-            "href": "/docs/features/resubmit-claims"
+            "collapsed": true,
+            "type": "category",
+            "label": "Music Commands",
+            "items": [
+              {
+                "type": "link",
+                "label": "Commands",
+                "href": "/docs/features/music-commands/commands"
+              }
+            ]
           }
         ]
       },
@@ -151,13 +148,11 @@
     "/docs/faq/delete-claim": "docs",
     "/docs/faq/fractional": "docs",
     "/docs/faq/sli": "docs",
-    "/docs/features/adding-referring-physician": "docs",
-    "/docs/features/favourites": "docs",
-    "/docs/features/hcv": "docs",
-    "/docs/features/quick-copy": "docs",
-    "/docs/features/resubmit-claims": "docs",
+    "/docs/features/feature": "docs",
+    "/docs/music-commands": "docs",
+    "/docs/features/music-commands/commands": "docs",
+    "/docs/utility-commands": "docs",
     "/docs/getting-started/designation": "docs",
-    "/docs/getting-started/moh_group": "docs",
     "/docs/": "docs",
     "/docs/pricing/full-service": "docs",
     "/docs/pricing/overview": "docs",

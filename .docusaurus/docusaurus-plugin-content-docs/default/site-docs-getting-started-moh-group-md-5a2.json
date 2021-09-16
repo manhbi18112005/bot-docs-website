@@ -8,14 +8,5 @@
   "slug": "/getting-started/moh_group",
   "permalink": "/docs/getting-started/moh_group",
   "version": "current",
-  "sidebar_label": "MOH Groups",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Designating IntelAGENT as your Agent",
-    "permalink": "/docs/getting-started/designation"
-  },
-  "next": {
-    "title": "Pricing Overview",
-    "permalink": "/docs/pricing/overview"
-  }
+  "sidebar_label": "MOH Groups"
 }

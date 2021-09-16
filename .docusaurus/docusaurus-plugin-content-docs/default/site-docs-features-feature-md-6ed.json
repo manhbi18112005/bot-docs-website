@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/feature",
+  "id": "features/feature",
+  "isDocsHomePage": false,
+  "title": "Feature",
+  "description": "Over 50 commands and more commands over days!",
+  "source": "@site/docs\\features\\feature.md",
+  "slug": "/features/feature",
+  "permalink": "/docs/features/feature",
+  "version": "current",
+  "sidebar_label": "Feature",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pay-As-You-Go Billing Agent",
+    "permalink": "/docs/pricing/pay-as-you-go"
+  },
+  "next": {
+    "title": "Utility Commands",
+    "permalink": "/docs/utility-commands"
+  }
+}

@@ -11,10 +11,9 @@ module.exports = {
     {
       type: "category",
       label: "Getting Started",
-      collapsed: false,
+      collapsed: true,
       items: [
       'getting-started/designation',
-      'getting-started/moh_group',
       ],
     },
     {
@@ -27,7 +26,12 @@ module.exports = {
       type: "category",
       label: "Features",
       collapsed: true,
-      items: ['features/quick-copy','features/favourites','features/hcv','features/adding-referring-physician','features/resubmit-claims'],
+      items: ['features/feature', 'features/utility-commands', 'features/music-commands', {
+          type: "category",
+        label: "Music Commands",
+        collapsed: true,
+        items: ['features/music-commands/commands'],
+      }],
     },
     {
       type: "category",

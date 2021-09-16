@@ -1,7 +1,7 @@
 ---
-id: adding-referring-physician
-title: Adding Referring Physicians
-sidebar_label: Adding Referring Physicians
+id: feature
+title: Feature
+sidebar_label: Feature
 ---
 Over 50 commands and more commands over days!
 

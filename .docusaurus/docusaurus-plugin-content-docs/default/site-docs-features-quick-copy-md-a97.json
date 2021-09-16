@@ -8,14 +8,5 @@
   "slug": "/features/quick-copy",
   "permalink": "/docs/features/quick-copy",
   "version": "current",
-  "sidebar_label": "Quick Copy",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Pay-As-You-Go Billing Agent",
-    "permalink": "/docs/pricing/pay-as-you-go"
-  },
-  "next": {
-    "title": "Pre-set Favourites",
-    "permalink": "/docs/features/favourites"
-  }
+  "sidebar_label": "Quick Copy"
 }

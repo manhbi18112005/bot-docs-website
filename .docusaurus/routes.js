@@ -109,7 +109,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','97f'),
+  component: ComponentCreator('/docs','c85'),
   
   routes: [
 {
@@ -168,13 +168,8 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/features/adding-referring-physician',
-  component: ComponentCreator('/docs/features/adding-referring-physician','e8c'),
-  exact: true,
-},
-{
-  path: '/docs/features/favourites',
-  component: ComponentCreator('/docs/features/favourites','453'),
+  path: '/docs/features/feature',
+  component: ComponentCreator('/docs/features/feature','4f7'),
   exact: true,
 },
 {
@@ -183,13 +178,8 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/features/quick-copy',
-  component: ComponentCreator('/docs/features/quick-copy','491'),
-  exact: true,
-},
-{
-  path: '/docs/features/resubmit-claims',
-  component: ComponentCreator('/docs/features/resubmit-claims','153'),
+  path: '/docs/features/music-commands/commands',
+  component: ComponentCreator('/docs/features/music-commands/commands','0a2'),
   exact: true,
 },
 {
@@ -205,6 +195,16 @@ export default [
 {
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx','155'),
+  exact: true,
+},
+{
+  path: '/docs/music-commands',
+  component: ComponentCreator('/docs/music-commands','673'),
+  exact: true,
+},
+{
+  path: '/docs/other-commands',
+  component: ComponentCreator('/docs/other-commands','fe6'),
   exact: true,
 },
 {
@@ -230,6 +230,11 @@ export default [
 {
   path: '/docs/style_guide',
   component: ComponentCreator('/docs/style_guide','ddb'),
+  exact: true,
+},
+{
+  path: '/docs/utility-commands',
+  component: ComponentCreator('/docs/utility-commands','b5a'),
   exact: true,
 },
 ]

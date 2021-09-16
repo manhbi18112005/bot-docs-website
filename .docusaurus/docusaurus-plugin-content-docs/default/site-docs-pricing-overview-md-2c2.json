@@ -11,8 +11,8 @@
   "sidebar_label": "Pricing Overview",
   "sidebar": "docs",
   "previous": {
-    "title": "MOH Group Codes",
-    "permalink": "/docs/getting-started/moh_group"
+    "title": "Designating IntelAGENT as your Agent",
+    "permalink": "/docs/getting-started/designation"
   },
   "next": {
     "title": "Self-Service Billing",

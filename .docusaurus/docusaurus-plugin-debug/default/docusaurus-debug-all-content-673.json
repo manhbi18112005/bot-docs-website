@@ -23,17 +23,13 @@
                 "id": "donate"
               },
               {
-                "collapsed": false,
+                "collapsed": true,
                 "type": "category",
                 "label": "Getting Started",
                 "items": [
                   {
                     "type": "doc",
                     "id": "getting-started/designation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "getting-started/moh_group"
                   }
                 ]
               },
@@ -67,23 +63,26 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "features/quick-copy"
+                    "id": "features/feature"
                   },
                   {
                     "type": "doc",
-                    "id": "features/favourites"
+                    "id": "features/utility-commands"
                   },
                   {
                     "type": "doc",
-                    "id": "features/hcv"
+                    "id": "features/music-commands"
                   },
                   {
-                    "type": "doc",
-                    "id": "features/adding-referring-physician"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "features/resubmit-claims"
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "Music Commands",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "features/music-commands/commands"
+                      }
+                    ]
                   }
                 ]
               },
@@ -140,13 +139,11 @@
             "/docs/faq/delete-claim": "docs",
             "/docs/faq/fractional": "docs",
             "/docs/faq/sli": "docs",
-            "/docs/features/adding-referring-physician": "docs",
-            "/docs/features/favourites": "docs",
-            "/docs/features/hcv": "docs",
-            "/docs/features/quick-copy": "docs",
-            "/docs/features/resubmit-claims": "docs",
+            "/docs/features/feature": "docs",
+            "/docs/music-commands": "docs",
+            "/docs/features/music-commands/commands": "docs",
+            "/docs/utility-commands": "docs",
             "/docs/getting-started/designation": "docs",
-            "/docs/getting-started/moh_group": "docs",
             "/docs/": "docs",
             "/docs/pricing/full-service": "docs",
             "/docs/pricing/overview": "docs",
@@ -266,8 +263,8 @@
               "sidebar_label": "Deleting a Claim",
               "sidebar": "docs",
               "previous": {
-                "title": "Resubmitting Claims",
-                "permalink": "/docs/features/resubmit-claims"
+                "title": "Commands",
+                "permalink": "/docs/features/music-commands/commands"
               },
               "next": {
                 "title": "Service Location Indicator",
@@ -341,45 +338,24 @@
               }
             },
             {
-              "unversionedId": "features/adding-referring-physician",
-              "id": "features/adding-referring-physician",
+              "unversionedId": "features/feature",
+              "id": "features/feature",
               "isDocsHomePage": false,
-              "title": "Adding Referring Physicians",
+              "title": "Feature",
               "description": "Over 50 commands and more commands over days!",
-              "source": "@site/docs\\features\\adding-referring-physician.md",
-              "slug": "/features/adding-referring-physician",
-              "permalink": "/docs/features/adding-referring-physician",
+              "source": "@site/docs\\features\\feature.md",
+              "slug": "/features/feature",
+              "permalink": "/docs/features/feature",
               "version": "current",
-              "sidebar_label": "Adding Referring Physicians",
+              "sidebar_label": "Feature",
               "sidebar": "docs",
               "previous": {
-                "title": "Health Card Validation",
-                "permalink": "/docs/features/hcv"
+                "title": "Pay-As-You-Go Billing Agent",
+                "permalink": "/docs/pricing/pay-as-you-go"
               },
               "next": {
-                "title": "Resubmitting Claims",
-                "permalink": "/docs/features/resubmit-claims"
-              }
-            },
-            {
-              "unversionedId": "features/favourites",
-              "id": "features/favourites",
-              "isDocsHomePage": false,
-              "title": "Pre-set Favourites",
-              "description": "Billing and Diagnostic Codes Favourites",
-              "source": "@site/docs\\features\\favourites.md",
-              "slug": "/features/favourites",
-              "permalink": "/docs/features/favourites",
-              "version": "current",
-              "sidebar_label": "Pre-set Favourites",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Quick Copy",
-                "permalink": "/docs/features/quick-copy"
-              },
-              "next": {
-                "title": "Health Card Validation",
-                "permalink": "/docs/features/hcv"
+                "title": "Utility Commands",
+                "permalink": "/docs/utility-commands"
               }
             },
             {
@@ -392,57 +368,81 @@
               "slug": "/features/hcv",
               "permalink": "/docs/features/hcv",
               "version": "current",
-              "sidebar_label": "Health Card Validation",
+              "sidebar_label": "Health Card Validation"
+            },
+            {
+              "unversionedId": "features/music-commands",
+              "id": "features/music-commands",
+              "isDocsHomePage": false,
+              "title": "Music Commands",
+              "description": "Music Commands",
+              "source": "@site/docs\\features\\music-commands.md",
+              "slug": "/music-commands",
+              "permalink": "/docs/music-commands",
+              "version": "current",
+              "sidebar_label": "Music Commands",
               "sidebar": "docs",
               "previous": {
-                "title": "Pre-set Favourites",
-                "permalink": "/docs/features/favourites"
+                "title": "Utility Commands",
+                "permalink": "/docs/utility-commands"
               },
               "next": {
-                "title": "Adding Referring Physicians",
-                "permalink": "/docs/features/adding-referring-physician"
+                "title": "Commands",
+                "permalink": "/docs/features/music-commands/commands"
               }
             },
             {
-              "unversionedId": "features/quick-copy",
-              "id": "features/quick-copy",
+              "unversionedId": "features/music-commands/commands",
+              "id": "features/music-commands/commands",
               "isDocsHomePage": false,
-              "title": "Quick Copy",
-              "description": "The vast majority of claims submitted by physicians repeat the details over and over again. The physician is either repeating claims for the same patient or the same combinations of codes. Our research has shown that the quickest way to submit a new claim is to make it easy to copy a previously submitted claim. With IntelAGENT you can either duplicate an entire claim or just a combination of billing codes. For those that find they'd like to just quickly add one or two billing codes then we offer you the option to setup a quick-push favorites for your billing and diagnostic codes.",
-              "source": "@site/docs\\features\\quick-copy.md",
-              "slug": "/features/quick-copy",
-              "permalink": "/docs/features/quick-copy",
+              "title": "Commands",
+              "description": "Music Commands",
+              "source": "@site/docs\\features\\music-commands\\commands.md",
+              "slug": "/features/music-commands/commands",
+              "permalink": "/docs/features/music-commands/commands",
               "version": "current",
-              "sidebar_label": "Quick Copy",
+              "sidebar_label": "Commands",
               "sidebar": "docs",
               "previous": {
-                "title": "Pay-As-You-Go Billing Agent",
-                "permalink": "/docs/pricing/pay-as-you-go"
-              },
-              "next": {
-                "title": "Pre-set Favourites",
-                "permalink": "/docs/features/favourites"
-              }
-            },
-            {
-              "unversionedId": "features/resubmit-claims",
-              "id": "features/resubmit-claims",
-              "isDocsHomePage": false,
-              "title": "Resubmitting Claims",
-              "description": "Claims that have been rejected through Error Report or the Remittance Advice can be fixed and resubmitted. Go to the Records tab in the app and find the claim you wish to modify. Select the claim and make the adjustments to the claim. At the botton will be the \"Submit Claim\" button which you can press to have the claim resubmitted and enter Pending Status.",
-              "source": "@site/docs\\features\\resubmit-claims.md",
-              "slug": "/features/resubmit-claims",
-              "permalink": "/docs/features/resubmit-claims",
-              "version": "current",
-              "sidebar_label": "Resubmitting Claims",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Adding Referring Physicians",
-                "permalink": "/docs/features/adding-referring-physician"
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
               },
               "next": {
                 "title": "Deleting a Claim",
                 "permalink": "/docs/faq/delete-claim"
+              }
+            },
+            {
+              "unversionedId": "features/other-commands",
+              "id": "features/other-commands",
+              "isDocsHomePage": false,
+              "title": "Other Commands",
+              "description": "Other Commands",
+              "source": "@site/docs\\features\\other-commands.md",
+              "slug": "/other-commands",
+              "permalink": "/docs/other-commands",
+              "version": "current",
+              "sidebar_label": "Other Commands"
+            },
+            {
+              "unversionedId": "features/utility-commands",
+              "id": "features/utility-commands",
+              "isDocsHomePage": false,
+              "title": "Utility Commands",
+              "description": "Utility Commands",
+              "source": "@site/docs\\features\\utility-commands.md",
+              "slug": "/utility-commands",
+              "permalink": "/docs/utility-commands",
+              "version": "current",
+              "sidebar_label": "Utility Commands",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Feature",
+                "permalink": "/docs/features/feature"
+              },
+              "next": {
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
               }
             },
             {
@@ -462,8 +462,8 @@
                 "permalink": "/docs/donate"
               },
               "next": {
-                "title": "MOH Group Codes",
-                "permalink": "/docs/getting-started/moh_group"
+                "title": "Pricing Overview",
+                "permalink": "/docs/pricing/overview"
               }
             },
             {
@@ -476,16 +476,7 @@
               "slug": "/getting-started/moh_group",
               "permalink": "/docs/getting-started/moh_group",
               "version": "current",
-              "sidebar_label": "MOH Groups",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Designating IntelAGENT as your Agent",
-                "permalink": "/docs/getting-started/designation"
-              },
-              "next": {
-                "title": "Pricing Overview",
-                "permalink": "/docs/pricing/overview"
-              }
+              "sidebar_label": "MOH Groups"
             },
             {
               "unversionedId": "introduction",
@@ -549,8 +540,8 @@
               "sidebar_label": "Pricing Overview",
               "sidebar": "docs",
               "previous": {
-                "title": "MOH Group Codes",
-                "permalink": "/docs/getting-started/moh_group"
+                "title": "Designating IntelAGENT as your Agent",
+                "permalink": "/docs/getting-started/designation"
               },
               "next": {
                 "title": "Self-Service Billing",
@@ -574,8 +565,8 @@
                 "permalink": "/docs/pricing/full-service"
               },
               "next": {
-                "title": "Quick Copy",
-                "permalink": "/docs/features/quick-copy"
+                "title": "Feature",
+                "permalink": "/docs/features/feature"
               }
             },
             {
