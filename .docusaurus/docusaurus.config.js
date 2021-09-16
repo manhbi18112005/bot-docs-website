@@ -136,7 +136,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\sidebars.js",
+          "sidebarPath": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\sidebars.js",
           "routeBasePath": "/docs"
         },
         "blog": {
@@ -144,7 +144,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\src\\css\\custom.css"
         },
         "sitemap": {
           "changefreq": "weekly",
@@ -157,7 +157,7 @@ export default {
   "plugins": [
     "@docusaurus/plugin-ideal-image",
     [
-      "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\node_modules\\docusaurus-gtm-plugin\\index.js",
+      "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\node_modules\\docusaurus-gtm-plugin\\index.js",
       {
         "id": "GTM-T2SJLRG"
       }

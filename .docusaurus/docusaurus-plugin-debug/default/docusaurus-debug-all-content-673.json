@@ -8,9 +8,9 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\sidebars.js",
-          "docsDirPath": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\docs",
-          "docsDirPathLocalized": "C:\\Users\\ASUS_ROG\\Desktop\\docs-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\sidebars.js",
+          "docsDirPath": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\docs",
+          "docsDirPathLocalized": "C:\\Users\\ASUS_ROG\\Desktop\\New-Website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "mainDocId": "getting-started/installation",
           "sidebars": {
             "docs": [

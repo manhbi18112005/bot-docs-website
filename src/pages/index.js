@@ -328,25 +328,14 @@ function Home() {
         img={
           <Image
             img={require('../../static/img/Manage claims.png')}
-            alt="Intercept changes via HTTP"
+            alt="Advanced Logging"
             loading="auto"
           />
         }
-        title="Manage Claims"
+        title="Advanced Logging"
         text={
           <>
-            <p><strong>Organized Claims</strong><br></br>
-            Review your claims in a colour coded list to see your claims' status. Sort by date and status to 
-            narrow down your searches and get the information you need.
-            </p>
-            <p><strong>Rejections</strong><br></br>
-            Easily review your rejected claims as they are reported and correct errors instantly so you get 
-            paid without delay.
-            </p>
-            <p><strong>Drafts</strong><br></br>
-            Store your work in progress on our servers and come at your convenience when you're ready to 
-            finalize your claim.
-            </p>
+            <p>Configure bot to log members who leave and join your server in less than a minute. It can also log deleted messages and keep track of what goes on in your server as well.</p>
 
           </>
         }
@@ -355,26 +344,14 @@ function Home() {
         img={
           <Image
             img={require('../../static/img/Billing codes.png')}
-            alt="Annotations"
+            alt="Moderation"
             loading="auto"
           />
         }
-        title="Entering Billing Codes - Fast!"
+        title="Moderation"
         text={
           <>
-            <p><strong>Favourites</strong><br></br>
-            Keep a list of your favourite billing codes easily accessible so you can save time and don't need 
-            to search for your most commonly used codes.
-            </p>
-            <p><strong>Frequent Billing Combinations
-            </strong><br></br>
-            Common sequences of billing codes can be inserted into a claim with two clicks. The 
-            billing codes are copied from a previous claim and include the claim's premium codes and units.
-            </p>
-            <p><strong>Add, Remove or Change Units</strong><br></br>
-            If the copied sequence of billing codes need to have a code added or removed that can be done 
-            right from the same screen. The unit of each billing code can also be modified right on the screen.
-            </p>
+            <p>Prevent spamming, swearing, mass emojis, mass capitals and more with Auto Moderation. Use the simple and intuitive moderation commands to warn, kick, mute, or ban troublemakers.</p>
           </>
         }
       />
