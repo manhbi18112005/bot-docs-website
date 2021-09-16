@@ -126,7 +126,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---terme-8-b-160"
   },
-  "/docs-c85": {
+  "/docs-5d1": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docsf-97-b71"
   },
@@ -153,6 +153,10 @@
   "/docs/donate-3ee": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-donatef-72-e40"
+  },
+  "/docs/faq-80f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-faq-270-899"
   },
   "/docs/faq/delete-claim-fa4": {
     "component": "component---theme-doc-item-178-a40",
@@ -182,10 +186,6 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-features-hcv-3-f-1-dad"
   },
-  "/docs/features/music-commands/commands-0a2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-music-commands-commands-607-3c3"
-  },
   "/docs/getting-started/designation-6fd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-designation-6-c-0-547"
@@ -198,13 +198,17 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-mdx-45-a-26c"
   },
-  "/docs/music-commands-673": {
+  "/docs/music-commands-b46": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-music-commands-704-5e0"
+    "content": "content---docs-features-music-commands-commands-20-a-d32"
   },
   "/docs/other-commands-fe6": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-other-commands-06-d-17c"
+  },
+  "/docs/permissions-b77": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-permission-909-646"
   },
   "/docs/pricing/full-service-b04": {
     "component": "component---theme-doc-item-178-a40",
@@ -225,6 +229,10 @@
   "/docs/style_guide-ddb": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-style-guide-9-ab-c67"
+  },
+  "/docs/support-9f3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-support-4-b-7-c24"
   },
   "/docs/utility-commands-b5a": {
     "component": "component---theme-doc-item-178-a40",

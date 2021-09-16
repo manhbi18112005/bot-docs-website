@@ -6,10 +6,10 @@ description: Other Commands
 slug: /other-commands
 sidebar_label: Other Commands
 ---
+
 I have many more commands but still hasn’t grouped it yet.
 
 ----------------------------------------------------------
-
 :::tip Below is a list of general commands. We used  nn_ for the prefix since it's the default.
 
 **`() means optional`**

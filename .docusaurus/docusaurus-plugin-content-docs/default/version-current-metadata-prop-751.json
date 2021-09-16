@@ -71,8 +71,8 @@
           },
           {
             "type": "link",
-            "label": "Music Commands",
-            "href": "/docs/music-commands"
+            "label": "Other Commands",
+            "href": "/docs/other-commands"
           },
           {
             "collapsed": true,
@@ -81,8 +81,8 @@
             "items": [
               {
                 "type": "link",
-                "label": "Commands",
-                "href": "/docs/features/music-commands/commands"
+                "label": "Music Commands",
+                "href": "/docs/music-commands"
               }
             ]
           }
@@ -134,29 +134,41 @@
       },
       {
         "type": "link",
-        "label": "Product Comparison",
-        "href": "/docs/comparison"
+        "label": "Support",
+        "href": "/docs/support"
+      },
+      {
+        "type": "link",
+        "label": "FAQ",
+        "href": "/docs/faq"
+      },
+      {
+        "type": "link",
+        "label": "Permissions",
+        "href": "/docs/permissions"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/comparison": "docs",
     "/docs/covid/k-codes": "docs",
     "/docs/covid/sessional": "docs",
     "/docs/covid/vaccine": "docs",
     "/docs/donate": "docs",
+    "/docs/faq": "docs",
     "/docs/faq/delete-claim": "docs",
     "/docs/faq/fractional": "docs",
     "/docs/faq/sli": "docs",
     "/docs/features/feature": "docs",
     "/docs/music-commands": "docs",
-    "/docs/features/music-commands/commands": "docs",
+    "/docs/other-commands": "docs",
     "/docs/utility-commands": "docs",
     "/docs/getting-started/designation": "docs",
     "/docs/": "docs",
+    "/docs/permissions": "docs",
     "/docs/pricing/full-service": "docs",
     "/docs/pricing/overview": "docs",
     "/docs/pricing/pay-as-you-go": "docs",
-    "/docs/pricing/self-service": "docs"
+    "/docs/pricing/self-service": "docs",
+    "/docs/support": "docs"
   }
 }

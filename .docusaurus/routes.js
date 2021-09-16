@@ -109,7 +109,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','c85'),
+  component: ComponentCreator('/docs','5d1'),
   
   routes: [
 {
@@ -140,6 +140,11 @@ export default [
 {
   path: '/docs/donate',
   component: ComponentCreator('/docs/donate','3ee'),
+  exact: true,
+},
+{
+  path: '/docs/faq',
+  component: ComponentCreator('/docs/faq','80f'),
   exact: true,
 },
 {
@@ -178,11 +183,6 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/features/music-commands/commands',
-  component: ComponentCreator('/docs/features/music-commands/commands','0a2'),
-  exact: true,
-},
-{
   path: '/docs/getting-started/designation',
   component: ComponentCreator('/docs/getting-started/designation','6fd'),
   exact: true,
@@ -199,12 +199,17 @@ export default [
 },
 {
   path: '/docs/music-commands',
-  component: ComponentCreator('/docs/music-commands','673'),
+  component: ComponentCreator('/docs/music-commands','b46'),
   exact: true,
 },
 {
   path: '/docs/other-commands',
   component: ComponentCreator('/docs/other-commands','fe6'),
+  exact: true,
+},
+{
+  path: '/docs/permissions',
+  component: ComponentCreator('/docs/permissions','b77'),
   exact: true,
 },
 {
@@ -230,6 +235,11 @@ export default [
 {
   path: '/docs/style_guide',
   component: ComponentCreator('/docs/style_guide','ddb'),
+  exact: true,
+},
+{
+  path: '/docs/support',
+  component: ComponentCreator('/docs/support','9f3'),
   exact: true,
 },
 {

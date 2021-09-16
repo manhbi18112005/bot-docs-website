@@ -12,8 +12,7 @@
           "docs": [
             {
               "id": "comparison",
-              "path": "/docs/comparison",
-              "sidebar": "docs"
+              "path": "/docs/comparison"
             },
             {
               "id": "covid/k-codes",
@@ -33,6 +32,11 @@
             {
               "id": "donate",
               "path": "/docs/donate",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq",
               "sidebar": "docs"
             },
             {
@@ -68,18 +72,14 @@
               "path": "/docs/features/hcv"
             },
             {
-              "id": "features/music-commands",
+              "id": "features/music-commands/music-commands",
               "path": "/docs/music-commands",
               "sidebar": "docs"
             },
             {
-              "id": "features/music-commands/commands",
-              "path": "/docs/features/music-commands/commands",
-              "sidebar": "docs"
-            },
-            {
               "id": "features/other-commands",
-              "path": "/docs/other-commands"
+              "path": "/docs/other-commands",
+              "sidebar": "docs"
             },
             {
               "id": "features/utility-commands",
@@ -105,6 +105,11 @@
               "path": "/docs/mdx"
             },
             {
+              "id": "permissions",
+              "path": "/docs/permissions",
+              "sidebar": "docs"
+            },
+            {
               "id": "pricing/full-service",
               "path": "/docs/pricing/full-service",
               "sidebar": "docs"
@@ -127,6 +132,11 @@
             {
               "id": "style_guide",
               "path": "/docs/style_guide"
+            },
+            {
+              "id": "support",
+              "path": "/docs/support",
+              "sidebar": "docs"
             }
           ]
         }

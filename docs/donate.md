@@ -1,7 +1,7 @@
 ---
 id: donate
 title: Donate
-
+description: Give MyT some milk :>
 sidebar_position: 2
 ---
 

@@ -7,10 +7,5 @@
   "source": "@site/docs\\comparison.md",
   "slug": "/comparison",
   "permalink": "/docs/comparison",
-  "version": "current",
-  "sidebar": "docs",
-  "previous": {
-    "title": "COVID Vaccine Fees",
-    "permalink": "/docs/covid/vaccine"
-  }
+  "version": "current"
 }

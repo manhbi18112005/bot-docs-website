@@ -11,8 +11,8 @@
   "sidebar_label": "Deleting a Claim",
   "sidebar": "docs",
   "previous": {
-    "title": "Commands",
-    "permalink": "/docs/features/music-commands/commands"
+    "title": "Music Commands",
+    "permalink": "/docs/music-commands"
   },
   "next": {
     "title": "Service Location Indicator",

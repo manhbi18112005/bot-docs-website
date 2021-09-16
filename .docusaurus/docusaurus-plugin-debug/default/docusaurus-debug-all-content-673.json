@@ -71,7 +71,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "features/music-commands"
+                    "id": "features/other-commands"
                   },
                   {
                     "collapsed": true,
@@ -80,7 +80,7 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "features/music-commands/commands"
+                        "id": "features/music-commands/music-commands"
                       }
                     ]
                   }
@@ -126,29 +126,39 @@
               },
               {
                 "type": "doc",
-                "id": "comparison"
+                "id": "support"
+              },
+              {
+                "type": "doc",
+                "id": "faq"
+              },
+              {
+                "type": "doc",
+                "id": "permissions"
               }
             ]
           },
           "permalinkToSidebar": {
-            "/docs/comparison": "docs",
             "/docs/covid/k-codes": "docs",
             "/docs/covid/sessional": "docs",
             "/docs/covid/vaccine": "docs",
             "/docs/donate": "docs",
+            "/docs/faq": "docs",
             "/docs/faq/delete-claim": "docs",
             "/docs/faq/fractional": "docs",
             "/docs/faq/sli": "docs",
             "/docs/features/feature": "docs",
             "/docs/music-commands": "docs",
-            "/docs/features/music-commands/commands": "docs",
+            "/docs/other-commands": "docs",
             "/docs/utility-commands": "docs",
             "/docs/getting-started/designation": "docs",
             "/docs/": "docs",
+            "/docs/permissions": "docs",
             "/docs/pricing/full-service": "docs",
             "/docs/pricing/overview": "docs",
             "/docs/pricing/pay-as-you-go": "docs",
-            "/docs/pricing/self-service": "docs"
+            "/docs/pricing/self-service": "docs",
+            "/docs/support": "docs"
           },
           "docs": [
             {
@@ -160,12 +170,7 @@
               "source": "@site/docs\\comparison.md",
               "slug": "/comparison",
               "permalink": "/docs/comparison",
-              "version": "current",
-              "sidebar": "docs",
-              "previous": {
-                "title": "COVID Vaccine Fees",
-                "permalink": "/docs/covid/vaccine"
-              }
+              "version": "current"
             },
             {
               "unversionedId": "covid/k-codes",
@@ -226,8 +231,8 @@
                 "permalink": "/docs/covid/k-codes"
               },
               "next": {
-                "title": "Product Comparison",
-                "permalink": "/docs/comparison"
+                "title": "Support",
+                "permalink": "/docs/support"
               }
             },
             {
@@ -235,7 +240,7 @@
               "id": "donate",
               "isDocsHomePage": false,
               "title": "Donate",
-              "description": "Đô nết đi đô nết đi, thỏ nhận nè UwU",
+              "description": "Give MyT some milk :>",
               "source": "@site/docs\\donate.md",
               "slug": "/donate",
               "permalink": "/docs/donate",
@@ -251,6 +256,27 @@
               }
             },
             {
+              "unversionedId": "faq",
+              "id": "faq",
+              "isDocsHomePage": false,
+              "title": "FAQ",
+              "description": "Frequently Asked Questions",
+              "source": "@site/docs\\faq.md",
+              "slug": "/faq",
+              "permalink": "/docs/faq",
+              "version": "current",
+              "sidebar_label": "FAQ",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Support",
+                "permalink": "/docs/support"
+              },
+              "next": {
+                "title": "Permissions",
+                "permalink": "/docs/permissions"
+              }
+            },
+            {
               "unversionedId": "faq/delete-claim",
               "id": "faq/delete-claim",
               "isDocsHomePage": false,
@@ -263,8 +289,8 @@
               "sidebar_label": "Deleting a Claim",
               "sidebar": "docs",
               "previous": {
-                "title": "Commands",
-                "permalink": "/docs/features/music-commands/commands"
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
               },
               "next": {
                 "title": "Service Location Indicator",
@@ -371,41 +397,20 @@
               "sidebar_label": "Health Card Validation"
             },
             {
-              "unversionedId": "features/music-commands",
-              "id": "features/music-commands",
+              "unversionedId": "features/music-commands/music-commands",
+              "id": "features/music-commands/music-commands",
               "isDocsHomePage": false,
               "title": "Music Commands",
               "description": "Music Commands",
-              "source": "@site/docs\\features\\music-commands.md",
+              "source": "@site/docs\\features\\music-commands\\music-commands.md",
               "slug": "/music-commands",
               "permalink": "/docs/music-commands",
               "version": "current",
               "sidebar_label": "Music Commands",
               "sidebar": "docs",
               "previous": {
-                "title": "Utility Commands",
-                "permalink": "/docs/utility-commands"
-              },
-              "next": {
-                "title": "Commands",
-                "permalink": "/docs/features/music-commands/commands"
-              }
-            },
-            {
-              "unversionedId": "features/music-commands/commands",
-              "id": "features/music-commands/commands",
-              "isDocsHomePage": false,
-              "title": "Commands",
-              "description": "Music Commands",
-              "source": "@site/docs\\features\\music-commands\\commands.md",
-              "slug": "/features/music-commands/commands",
-              "permalink": "/docs/features/music-commands/commands",
-              "version": "current",
-              "sidebar_label": "Commands",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Music Commands",
-                "permalink": "/docs/music-commands"
+                "title": "Other Commands",
+                "permalink": "/docs/other-commands"
               },
               "next": {
                 "title": "Deleting a Claim",
@@ -422,7 +427,16 @@
               "slug": "/other-commands",
               "permalink": "/docs/other-commands",
               "version": "current",
-              "sidebar_label": "Other Commands"
+              "sidebar_label": "Other Commands",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Utility Commands",
+                "permalink": "/docs/utility-commands"
+              },
+              "next": {
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
+              }
             },
             {
               "unversionedId": "features/utility-commands",
@@ -441,8 +455,8 @@
                 "permalink": "/docs/features/feature"
               },
               "next": {
-                "title": "Music Commands",
-                "permalink": "/docs/music-commands"
+                "title": "Other Commands",
+                "permalink": "/docs/other-commands"
               }
             },
             {
@@ -505,6 +519,23 @@
               "slug": "/mdx",
               "permalink": "/docs/mdx",
               "version": "current"
+            },
+            {
+              "unversionedId": "permissions",
+              "id": "permissions",
+              "isDocsHomePage": false,
+              "title": "Permissions",
+              "description": "Here are some permissions that No Name needs to act in your servers.",
+              "source": "@site/docs\\permission.md",
+              "slug": "/permissions",
+              "permalink": "/docs/permissions",
+              "version": "current",
+              "sidebar_label": "Permissions",
+              "sidebar": "docs",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/docs/faq"
+              }
             },
             {
               "unversionedId": "pricing/full-service",
@@ -601,6 +632,27 @@
               "permalink": "/docs/style_guide",
               "version": "current",
               "sidebar_label": "Style Guide"
+            },
+            {
+              "unversionedId": "support",
+              "id": "support",
+              "isDocsHomePage": false,
+              "title": "Support",
+              "description": "Here are some supports notes.",
+              "source": "@site/docs\\support.md",
+              "slug": "/support",
+              "permalink": "/docs/support",
+              "version": "current",
+              "sidebar_label": "Support",
+              "sidebar": "docs",
+              "previous": {
+                "title": "COVID Vaccine Fees",
+                "permalink": "/docs/covid/vaccine"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/faq"
+              }
             }
           ]
         }

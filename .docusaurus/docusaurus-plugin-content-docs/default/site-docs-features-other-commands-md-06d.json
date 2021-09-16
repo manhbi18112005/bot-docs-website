@@ -8,5 +8,14 @@
   "slug": "/other-commands",
   "permalink": "/docs/other-commands",
   "version": "current",
-  "sidebar_label": "Other Commands"
+  "sidebar_label": "Other Commands",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Utility Commands",
+    "permalink": "/docs/utility-commands"
+  },
+  "next": {
+    "title": "Music Commands",
+    "permalink": "/docs/music-commands"
+  }
 }

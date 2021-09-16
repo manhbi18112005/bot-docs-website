@@ -26,11 +26,11 @@ module.exports = {
       type: "category",
       label: "Features",
       collapsed: true,
-      items: ['features/feature', 'features/utility-commands', 'features/music-commands', {
+      items: ['features/feature', 'features/utility-commands', 'features/other-commands', {
           type: "category",
         label: "Music Commands",
         collapsed: true,
-        items: ['features/music-commands/commands'],
+        items: ['features/music-commands/music-commands'],
       }],
     },
     {
@@ -47,7 +47,15 @@ module.exports = {
     },
     {
       type: "doc",
-      id: "comparison",
+      id: "support",
+    },
+    {
+      type: "doc",
+      id: "faq",
+    },
+    {
+      type: "doc",
+      id: "permissions",
     },
   ]
 };  
