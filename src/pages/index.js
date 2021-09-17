@@ -249,8 +249,8 @@ function Home() {
           link: (
             <div className={styles.indexGithubLinks}>
               <Link
-                to="/docs/features/hcv"
-                title="Health Card Validation Documentation"
+                to="/docs/features/music-commands/music-commands"
+                title="Music commands"
               >
                 Learn more
               </Link>              
@@ -269,8 +269,8 @@ function Home() {
           ),
           link: (
             <Link
-              to="/docs/features/quick-copy"
-              title="Curated Billing Coedes"
+              to="/docs/features/other-commands"
+              title="Leaderboards for everyone"
             >
               Lean more
             </Link>
@@ -288,8 +288,8 @@ function Home() {
           ),
           link: (
             <a
-              href="/docs/features/favourites"
-              title="Pre-set Favourite codes"
+              href="/docs/features/utlility-commands"
+              title="Artificial Intelligience Chatbot"
             >
               Learn more
             </a>
@@ -307,8 +307,8 @@ function Home() {
           ),
           link: (
             <a
-              href="/docs/features/adding-referring-physician"
-              title="Referring Physician Billing Numbers"
+              href="/docs/features/game-commands"
+              title="Just Right, For You"
             >
               Learn more
             </a>
@@ -371,7 +371,7 @@ function Home() {
         reversed={true}
         img={
           <Image
-            img={require('../../static/img/Manage claims.png')}
+            img={require('../../static/img/log.png')}
             alt="Advanced Logging"
             loading="auto"
           />
@@ -387,7 +387,7 @@ function Home() {
       <Feature
         img={
           <Image
-            img={require('../../static/img/Billing codes.png')}
+            img={require('../../static/img/hello.png')}
             alt="Moderation"
             loading="auto"
           />
