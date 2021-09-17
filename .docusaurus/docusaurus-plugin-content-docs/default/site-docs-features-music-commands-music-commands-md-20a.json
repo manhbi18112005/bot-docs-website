@@ -11,8 +11,8 @@
   "sidebar_label": "Music Commands",
   "sidebar": "docs",
   "previous": {
-    "title": "Game Commands",
-    "permalink": "/docs/features/game-commands"
+    "title": "Images Generating Commands",
+    "permalink": "/docs/features/images-generating-commands"
   },
   "next": {
     "title": "Support",

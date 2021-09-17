@@ -109,7 +109,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','870'),
+  component: ComponentCreator('/docs','62e'),
   
   routes: [
 {
@@ -180,6 +180,11 @@ export default [
 {
   path: '/docs/features/game-commands',
   component: ComponentCreator('/docs/features/game-commands','e00'),
+  exact: true,
+},
+{
+  path: '/docs/features/images-generating-commands',
+  component: ComponentCreator('/docs/features/images-generating-commands','572'),
   exact: true,
 },
 {

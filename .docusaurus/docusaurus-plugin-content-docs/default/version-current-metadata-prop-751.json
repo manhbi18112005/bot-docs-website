@@ -41,6 +41,11 @@
             "href": "/docs/features/game-commands"
           },
           {
+            "type": "link",
+            "label": "Images Generating Commands",
+            "href": "/docs/features/images-generating-commands"
+          },
+          {
             "collapsed": true,
             "type": "category",
             "label": "Music Commands",
@@ -76,6 +81,7 @@
     "/docs/faq": "docs",
     "/docs/feature": "docs",
     "/docs/features/game-commands": "docs",
+    "/docs/features/images-generating-commands": "docs",
     "/docs/music-commands": "docs",
     "/docs/features/other-commands": "docs",
     "/docs/features/utility-commands": "docs",

@@ -67,6 +67,11 @@
               "sidebar": "docs"
             },
             {
+              "id": "features/images-generating-commands",
+              "path": "/docs/features/images-generating-commands",
+              "sidebar": "docs"
+            },
+            {
               "id": "features/music-commands/music-commands",
               "path": "/docs/music-commands",
               "sidebar": "docs"

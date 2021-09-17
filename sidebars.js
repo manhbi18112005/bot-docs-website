@@ -12,7 +12,7 @@ module.exports = {
       type: "category",
       label: "Features",
       collapsed: true,
-      items: ['features/feature', 'features/utility-commands', 'features/other-commands', 'features/game-commands', {
+      items: ['features/feature', 'features/utility-commands', 'features/other-commands', 'features/game-commands', 'features/images-generating-commands', {
           type: "category",
         label: "Music Commands",
         collapsed: true,
