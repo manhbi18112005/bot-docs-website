@@ -249,7 +249,7 @@ function Home() {
           link: (
             <div className={styles.indexGithubLinks}>
               <Link
-                to="/docs/features/music-commands/music-commands"
+                to="/docs/features/music-commands"
                 title="Music commands"
               >
                 Learn more
