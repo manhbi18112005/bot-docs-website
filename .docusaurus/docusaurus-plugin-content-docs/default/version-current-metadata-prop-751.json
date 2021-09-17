@@ -18,61 +18,27 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Getting Started",
-        "items": [
-          {
-            "type": "link",
-            "label": "MOH Designation",
-            "href": "/docs/getting-started/designation"
-          }
-        ]
-      },
-      {
-        "collapsed": true,
-        "type": "category",
-        "label": "Pricing",
-        "items": [
-          {
-            "type": "link",
-            "label": "Pricing Overview",
-            "href": "/docs/pricing/overview"
-          },
-          {
-            "type": "link",
-            "label": "Self-Service Billing",
-            "href": "/docs/pricing/self-service"
-          },
-          {
-            "type": "link",
-            "label": "Full-Service Billing",
-            "href": "/docs/pricing/full-service"
-          },
-          {
-            "type": "link",
-            "label": "Pay-As-You-Go Billing Agent",
-            "href": "/docs/pricing/pay-as-you-go"
-          }
-        ]
-      },
-      {
-        "collapsed": true,
-        "type": "category",
         "label": "Features",
         "items": [
           {
             "type": "link",
             "label": "Feature",
-            "href": "/docs/features/feature"
+            "href": "/docs/feature"
           },
           {
             "type": "link",
             "label": "Utility Commands",
-            "href": "/docs/utility-commands"
+            "href": "/docs/features/utility-commands"
           },
           {
             "type": "link",
             "label": "Other Commands",
-            "href": "/docs/other-commands"
+            "href": "/docs/features/other-commands"
+          },
+          {
+            "type": "link",
+            "label": "Game Commands",
+            "href": "/docs/features/game-commands"
           },
           {
             "collapsed": true,
@@ -85,50 +51,6 @@
                 "href": "/docs/music-commands"
               }
             ]
-          }
-        ]
-      },
-      {
-        "collapsed": true,
-        "type": "category",
-        "label": "FAQ",
-        "items": [
-          {
-            "type": "link",
-            "label": "Deleting a Claim",
-            "href": "/docs/faq/delete-claim"
-          },
-          {
-            "type": "link",
-            "label": "Service Location Indicator",
-            "href": "/docs/faq/sli"
-          },
-          {
-            "type": "link",
-            "label": "Fractional Fees",
-            "href": "/docs/faq/fractional"
-          }
-        ]
-      },
-      {
-        "collapsed": true,
-        "type": "category",
-        "label": "COVID",
-        "items": [
-          {
-            "type": "link",
-            "label": "Sessional Fees",
-            "href": "/docs/covid/sessional"
-          },
-          {
-            "type": "link",
-            "label": "Virtual Care",
-            "href": "/docs/covid/k-codes"
-          },
-          {
-            "type": "link",
-            "label": "Vaccines Fees",
-            "href": "/docs/covid/vaccine"
           }
         ]
       },
@@ -150,25 +72,15 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/covid/k-codes": "docs",
-    "/docs/covid/sessional": "docs",
-    "/docs/covid/vaccine": "docs",
     "/docs/donate": "docs",
     "/docs/faq": "docs",
-    "/docs/faq/delete-claim": "docs",
-    "/docs/faq/fractional": "docs",
-    "/docs/faq/sli": "docs",
-    "/docs/features/feature": "docs",
+    "/docs/feature": "docs",
+    "/docs/features/game-commands": "docs",
     "/docs/music-commands": "docs",
-    "/docs/other-commands": "docs",
-    "/docs/utility-commands": "docs",
-    "/docs/getting-started/designation": "docs",
+    "/docs/features/other-commands": "docs",
+    "/docs/features/utility-commands": "docs",
     "/docs/": "docs",
     "/docs/permissions": "docs",
-    "/docs/pricing/full-service": "docs",
-    "/docs/pricing/overview": "docs",
-    "/docs/pricing/pay-as-you-go": "docs",
-    "/docs/pricing/self-service": "docs",
     "/docs/support": "docs"
   }
 }

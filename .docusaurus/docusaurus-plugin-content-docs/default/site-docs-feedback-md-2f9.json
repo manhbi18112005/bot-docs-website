@@ -1,0 +1,12 @@
+{
+  "unversionedId": "feedback",
+  "id": "feedback",
+  "isDocsHomePage": false,
+  "title": "Feedback",
+  "description": "Do you have any problems?",
+  "source": "@site/docs\\feedback.md",
+  "slug": "/feedback",
+  "permalink": "/docs/feedback",
+  "version": "current",
+  "sidebar_label": "Feedback"
+}

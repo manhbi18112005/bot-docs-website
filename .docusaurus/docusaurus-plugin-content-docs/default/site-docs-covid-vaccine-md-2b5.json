@@ -8,14 +8,5 @@
   "slug": "/covid/vaccine",
   "permalink": "/docs/covid/vaccine",
   "version": "current",
-  "sidebar_label": "Vaccines Fees",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Virtual Care Codes",
-    "permalink": "/docs/covid/k-codes"
-  },
-  "next": {
-    "title": "Support",
-    "permalink": "/docs/support"
-  }
+  "sidebar_label": "Vaccines Fees"
 }

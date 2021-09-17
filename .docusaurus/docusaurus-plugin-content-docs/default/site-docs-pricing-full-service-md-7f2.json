@@ -8,14 +8,5 @@
   "slug": "/pricing/full-service",
   "permalink": "/docs/pricing/full-service",
   "version": "current",
-  "sidebar_label": "Full-Service Billing",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Self-Service Billing",
-    "permalink": "/docs/pricing/self-service"
-  },
-  "next": {
-    "title": "Pay-As-You-Go Billing Agent",
-    "permalink": "/docs/pricing/pay-as-you-go"
-  }
+  "sidebar_label": "Full-Service Billing"
 }

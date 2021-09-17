@@ -5,17 +5,17 @@
   "title": "Utility Commands",
   "description": "Utility Commands",
   "source": "@site/docs\\features\\utility-commands.md",
-  "slug": "/utility-commands",
-  "permalink": "/docs/utility-commands",
+  "slug": "/features/utility-commands",
+  "permalink": "/docs/features/utility-commands",
   "version": "current",
   "sidebar_label": "Utility Commands",
   "sidebar": "docs",
   "previous": {
     "title": "Feature",
-    "permalink": "/docs/features/feature"
+    "permalink": "/docs/feature"
   },
   "next": {
     "title": "Other Commands",
-    "permalink": "/docs/other-commands"
+    "permalink": "/docs/features/other-commands"
   }
 }

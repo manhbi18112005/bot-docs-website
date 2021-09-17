@@ -126,7 +126,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---terme-8-b-160"
   },
-  "/docs-5d1": {
+  "/docs-870": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docsf-97-b71"
   },
@@ -178,13 +178,25 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-faq-slid-02-eea"
   },
-  "/docs/features/feature-4f7": {
+  "/docs/feature-236": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-features-feature-6-ed-100"
   },
-  "/docs/features/hcv-171": {
+  "/docs/features/game-commands-e00": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-features-hcv-3-f-1-dad"
+    "content": "content---docs-features-game-commandsad-4-c6c"
+  },
+  "/docs/features/other-commands-c2e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-other-commands-06-d-17c"
+  },
+  "/docs/features/utility-commands-f45": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-utility-commands-9-ec-a98"
+  },
+  "/docs/feedback-4b8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-feedback-2-f-9-e85"
   },
   "/docs/getting-started/designation-6fd": {
     "component": "component---theme-doc-item-178-a40",
@@ -201,10 +213,6 @@
   "/docs/music-commands-b46": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-music-commands-20-a-678"
-  },
-  "/docs/other-commands-fe6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-other-commands-06-d-17c"
   },
   "/docs/permissions-b77": {
     "component": "component---theme-doc-item-178-a40",
@@ -233,9 +241,5 @@
   "/docs/support-9f3": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-support-4-b-7-c24"
-  },
-  "/docs/utility-commands-b5a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-utility-commands-9-ec-a98"
   }
 }

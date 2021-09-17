@@ -8,14 +8,5 @@
   "slug": "/covid/k-codes",
   "permalink": "/docs/covid/k-codes",
   "version": "current",
-  "sidebar_label": "Virtual Care",
-  "sidebar": "docs",
-  "previous": {
-    "title": "COVID Sessional Fees",
-    "permalink": "/docs/covid/sessional"
-  },
-  "next": {
-    "title": "COVID Vaccine Fees",
-    "permalink": "/docs/covid/vaccine"
-  }
+  "sidebar_label": "Virtual Care"
 }

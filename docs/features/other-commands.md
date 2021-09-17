@@ -1,9 +1,7 @@
 ---
-sidebar_position: 3
 id: other-commands
 title: Other Commands
 description: Other Commands
-slug: /other-commands
 sidebar_label: Other Commands
 ---
 

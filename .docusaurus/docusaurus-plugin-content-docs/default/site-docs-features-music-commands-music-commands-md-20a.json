@@ -11,11 +11,11 @@
   "sidebar_label": "Music Commands",
   "sidebar": "docs",
   "previous": {
-    "title": "Other Commands",
-    "permalink": "/docs/other-commands"
+    "title": "Game Commands",
+    "permalink": "/docs/features/game-commands"
   },
   "next": {
-    "title": "Deleting a Claim",
-    "permalink": "/docs/faq/delete-claim"
+    "title": "Support",
+    "permalink": "/docs/support"
   }
 }

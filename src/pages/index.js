@@ -126,7 +126,11 @@ function AppList() {
           </div>
           <div style={{width: '50%'}}>
             <div style={{width: '100%'}}>
-              <h2 style={{fontSize: "32px", lineHeight: "39px",margin: "0", marginTop: "1.5em"}}>+100k</h2><p style={{fontWeight: "500", fontSize: "14px", lineHeight: "17px", color: "#7e67ff", margin: "0", marginBottom: "1.5em"}}>Members</p>
+            <Image
+              img={require("./assets/1_vl4zrxMi5mPxnI4y_EFNsA.png")}
+              alt="Bot stats"
+              style={{borderRadius:"10px", width:"450px", height: "auto", maxWidth: "-webkit-fit-content!important", maxWidth: "fit-content!important", perspective: "484px", transform: "scale(1) perspective(1000px) rotateX(23deg) rotateY(-23deg) rotate(15deg) translateX(5px) translateY(15px)", boxShadow: "67.1px 62.5px 125px -25px rgb(9 9 14 / 86%), 16.2px 37.5px 75px -37.5px rgb(6 12 34 / 27%)"}}
+            />
             </div>
           </div>
         </div>
@@ -316,7 +320,7 @@ function Home() {
       ]}
     />
     <main>
-      {squares && squares.length > 0 && (
+      { /*{squares && squares.length > 0 && (
         <section className={styles.squares}>
           <div className="container">
             <div className="row">
@@ -326,7 +330,7 @@ function Home() {
             </div>
           </div>
         </section>
-      )}
+              )} */}
      </main>
 
       

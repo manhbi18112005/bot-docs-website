@@ -8,14 +8,5 @@
   "slug": "/faq/fractional",
   "permalink": "/docs/faq/fractional",
   "version": "current",
-  "sidebar_label": "Fractional Fees",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Service Location Indicator",
-    "permalink": "/docs/faq/sli"
-  },
-  "next": {
-    "title": "COVID Sessional Fees",
-    "permalink": "/docs/covid/sessional"
-  }
+  "sidebar_label": "Fractional Fees"
 }

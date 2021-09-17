@@ -8,14 +8,5 @@
   "slug": "/pricing/pay-as-you-go",
   "permalink": "/docs/pricing/pay-as-you-go",
   "version": "current",
-  "sidebar_label": "Pay-As-You-Go Billing Agent",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Full Service Billing Agent",
-    "permalink": "/docs/pricing/full-service"
-  },
-  "next": {
-    "title": "Feature",
-    "permalink": "/docs/features/feature"
-  }
+  "sidebar_label": "Pay-As-You-Go Billing Agent"
 }

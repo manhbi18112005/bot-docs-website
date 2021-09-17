@@ -2,7 +2,9 @@
 id: feature
 title: Feature
 sidebar_label: Feature
+slug: /feature
 ---
+
 Over 50 commands and more commands over days!
 
 ----------------------------------------------------------

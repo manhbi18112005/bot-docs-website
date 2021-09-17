@@ -8,14 +8,5 @@
   "slug": "/getting-started/designation",
   "permalink": "/docs/getting-started/designation",
   "version": "current",
-  "sidebar_label": "MOH Designation",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Donate",
-    "permalink": "/docs/donate"
-  },
-  "next": {
-    "title": "Pricing Overview",
-    "permalink": "/docs/pricing/overview"
-  }
+  "sidebar_label": "MOH Designation"
 }

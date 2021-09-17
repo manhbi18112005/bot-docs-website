@@ -8,14 +8,5 @@
   "slug": "/pricing/self-service",
   "permalink": "/docs/pricing/self-service",
   "version": "current",
-  "sidebar_label": "Self-Service Billing",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Pricing Overview",
-    "permalink": "/docs/pricing/overview"
-  },
-  "next": {
-    "title": "Full Service Billing Agent",
-    "permalink": "/docs/pricing/full-service"
-  }
+  "sidebar_label": "Self-Service Billing"
 }

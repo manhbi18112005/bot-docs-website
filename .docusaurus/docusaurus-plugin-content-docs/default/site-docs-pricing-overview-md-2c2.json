@@ -8,14 +8,5 @@
   "slug": "/pricing/overview",
   "permalink": "/docs/pricing/overview",
   "version": "current",
-  "sidebar_label": "Pricing Overview",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Designating IntelAGENT as your Agent",
-    "permalink": "/docs/getting-started/designation"
-  },
-  "next": {
-    "title": "Self-Service Billing",
-    "permalink": "/docs/pricing/self-service"
-  }
+  "sidebar_label": "Pricing Overview"
 }

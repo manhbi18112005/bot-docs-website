@@ -8,14 +8,5 @@
   "slug": "/faq/sli",
   "permalink": "/docs/faq/sli",
   "version": "current",
-  "sidebar_label": "Service Location Indicator",
-  "sidebar": "docs",
-  "previous": {
-    "title": "Deleting a Claim",
-    "permalink": "/docs/faq/delete-claim"
-  },
-  "next": {
-    "title": "Fractional Fees",
-    "permalink": "/docs/faq/fractional"
-  }
+  "sidebar_label": "Service Location Indicator"
 }

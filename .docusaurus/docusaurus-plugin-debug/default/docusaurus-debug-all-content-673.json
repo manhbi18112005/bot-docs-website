@@ -25,40 +25,6 @@
               {
                 "collapsed": true,
                 "type": "category",
-                "label": "Getting Started",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "getting-started/designation"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "Pricing",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "pricing/overview"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "pricing/self-service"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "pricing/full-service"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "pricing/pay-as-you-go"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
                 "label": "Features",
                 "items": [
                   {
@@ -74,6 +40,10 @@
                     "id": "features/other-commands"
                   },
                   {
+                    "type": "doc",
+                    "id": "features/game-commands"
+                  },
+                  {
                     "collapsed": true,
                     "type": "category",
                     "label": "Music Commands",
@@ -83,44 +53,6 @@
                         "id": "features/music-commands/music-commands"
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "FAQ",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "faq/delete-claim"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "faq/sli"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "faq/fractional"
-                  }
-                ]
-              },
-              {
-                "collapsed": true,
-                "type": "category",
-                "label": "COVID",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "covid/sessional"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "covid/k-codes"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "covid/vaccine"
                   }
                 ]
               },
@@ -139,25 +71,15 @@
             ]
           },
           "permalinkToSidebar": {
-            "/docs/covid/k-codes": "docs",
-            "/docs/covid/sessional": "docs",
-            "/docs/covid/vaccine": "docs",
             "/docs/donate": "docs",
             "/docs/faq": "docs",
-            "/docs/faq/delete-claim": "docs",
-            "/docs/faq/fractional": "docs",
-            "/docs/faq/sli": "docs",
-            "/docs/features/feature": "docs",
+            "/docs/feature": "docs",
+            "/docs/features/game-commands": "docs",
             "/docs/music-commands": "docs",
-            "/docs/other-commands": "docs",
-            "/docs/utility-commands": "docs",
-            "/docs/getting-started/designation": "docs",
+            "/docs/features/other-commands": "docs",
+            "/docs/features/utility-commands": "docs",
             "/docs/": "docs",
             "/docs/permissions": "docs",
-            "/docs/pricing/full-service": "docs",
-            "/docs/pricing/overview": "docs",
-            "/docs/pricing/pay-as-you-go": "docs",
-            "/docs/pricing/self-service": "docs",
             "/docs/support": "docs"
           },
           "docs": [
@@ -182,16 +104,7 @@
               "slug": "/covid/k-codes",
               "permalink": "/docs/covid/k-codes",
               "version": "current",
-              "sidebar_label": "Virtual Care",
-              "sidebar": "docs",
-              "previous": {
-                "title": "COVID Sessional Fees",
-                "permalink": "/docs/covid/sessional"
-              },
-              "next": {
-                "title": "COVID Vaccine Fees",
-                "permalink": "/docs/covid/vaccine"
-              }
+              "sidebar_label": "Virtual Care"
             },
             {
               "unversionedId": "covid/sessional",
@@ -203,16 +116,7 @@
               "slug": "/covid/sessional",
               "permalink": "/docs/covid/sessional",
               "version": "current",
-              "sidebar_label": "Sessional Fees",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Fractional Fees",
-                "permalink": "/docs/faq/fractional"
-              },
-              "next": {
-                "title": "Virtual Care Codes",
-                "permalink": "/docs/covid/k-codes"
-              }
+              "sidebar_label": "Sessional Fees"
             },
             {
               "unversionedId": "covid/vaccine",
@@ -224,16 +128,7 @@
               "slug": "/covid/vaccine",
               "permalink": "/docs/covid/vaccine",
               "version": "current",
-              "sidebar_label": "Vaccines Fees",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Virtual Care Codes",
-                "permalink": "/docs/covid/k-codes"
-              },
-              "next": {
-                "title": "Support",
-                "permalink": "/docs/support"
-              }
+              "sidebar_label": "Vaccines Fees"
             },
             {
               "unversionedId": "donate",
@@ -251,8 +146,8 @@
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "Designating IntelAGENT as your Agent",
-                "permalink": "/docs/getting-started/designation"
+                "title": "Feature",
+                "permalink": "/docs/feature"
               }
             },
             {
@@ -286,16 +181,7 @@
               "slug": "/faq/delete-claim",
               "permalink": "/docs/faq/delete-claim",
               "version": "current",
-              "sidebar_label": "Deleting a Claim",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Music Commands",
-                "permalink": "/docs/music-commands"
-              },
-              "next": {
-                "title": "Service Location Indicator",
-                "permalink": "/docs/faq/sli"
-              }
+              "sidebar_label": "Deleting a Claim"
             },
             {
               "unversionedId": "faq/fractional",
@@ -307,16 +193,7 @@
               "slug": "/faq/fractional",
               "permalink": "/docs/faq/fractional",
               "version": "current",
-              "sidebar_label": "Fractional Fees",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Service Location Indicator",
-                "permalink": "/docs/faq/sli"
-              },
-              "next": {
-                "title": "COVID Sessional Fees",
-                "permalink": "/docs/covid/sessional"
-              }
+              "sidebar_label": "Fractional Fees"
             },
             {
               "unversionedId": "faq/payment",
@@ -352,16 +229,7 @@
               "slug": "/faq/sli",
               "permalink": "/docs/faq/sli",
               "version": "current",
-              "sidebar_label": "Service Location Indicator",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Deleting a Claim",
-                "permalink": "/docs/faq/delete-claim"
-              },
-              "next": {
-                "title": "Fractional Fees",
-                "permalink": "/docs/faq/fractional"
-              }
+              "sidebar_label": "Service Location Indicator"
             },
             {
               "unversionedId": "features/feature",
@@ -370,31 +238,40 @@
               "title": "Feature",
               "description": "Over 50 commands and more commands over days!",
               "source": "@site/docs\\features\\feature.md",
-              "slug": "/features/feature",
-              "permalink": "/docs/features/feature",
+              "slug": "/feature",
+              "permalink": "/docs/feature",
               "version": "current",
               "sidebar_label": "Feature",
               "sidebar": "docs",
               "previous": {
-                "title": "Pay-As-You-Go Billing Agent",
-                "permalink": "/docs/pricing/pay-as-you-go"
+                "title": "Donate",
+                "permalink": "/docs/donate"
               },
               "next": {
                 "title": "Utility Commands",
-                "permalink": "/docs/utility-commands"
+                "permalink": "/docs/features/utility-commands"
               }
             },
             {
-              "unversionedId": "features/hcv",
-              "id": "features/hcv",
+              "unversionedId": "features/game-commands",
+              "id": "features/game-commands",
               "isDocsHomePage": false,
-              "title": "Health Card Validation",
-              "description": "OHIP Card Lookup quickly validates OHIP cards and automatically populate patient information in new claims. The most common reason for rejected claims is incorrect health card numbers and our validation service allows to verify a patient has coverage instantly.",
-              "source": "@site/docs\\features\\hcv.md",
-              "slug": "/features/hcv",
-              "permalink": "/docs/features/hcv",
+              "title": "Game Commands",
+              "description": "Game Commands",
+              "source": "@site/docs\\features\\game-commands.md",
+              "slug": "/features/game-commands",
+              "permalink": "/docs/features/game-commands",
               "version": "current",
-              "sidebar_label": "Health Card Validation"
+              "sidebar_label": "Game Commands",
+              "sidebar": "docs",
+              "previous": {
+                "title": "Other Commands",
+                "permalink": "/docs/features/other-commands"
+              },
+              "next": {
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
+              }
             },
             {
               "unversionedId": "features/music-commands/music-commands",
@@ -409,12 +286,12 @@
               "sidebar_label": "Music Commands",
               "sidebar": "docs",
               "previous": {
-                "title": "Other Commands",
-                "permalink": "/docs/other-commands"
+                "title": "Game Commands",
+                "permalink": "/docs/features/game-commands"
               },
               "next": {
-                "title": "Deleting a Claim",
-                "permalink": "/docs/faq/delete-claim"
+                "title": "Support",
+                "permalink": "/docs/support"
               }
             },
             {
@@ -424,18 +301,18 @@
               "title": "Other Commands",
               "description": "Other Commands",
               "source": "@site/docs\\features\\other-commands.md",
-              "slug": "/other-commands",
-              "permalink": "/docs/other-commands",
+              "slug": "/features/other-commands",
+              "permalink": "/docs/features/other-commands",
               "version": "current",
               "sidebar_label": "Other Commands",
               "sidebar": "docs",
               "previous": {
                 "title": "Utility Commands",
-                "permalink": "/docs/utility-commands"
+                "permalink": "/docs/features/utility-commands"
               },
               "next": {
-                "title": "Music Commands",
-                "permalink": "/docs/music-commands"
+                "title": "Game Commands",
+                "permalink": "/docs/features/game-commands"
               }
             },
             {
@@ -445,19 +322,31 @@
               "title": "Utility Commands",
               "description": "Utility Commands",
               "source": "@site/docs\\features\\utility-commands.md",
-              "slug": "/utility-commands",
-              "permalink": "/docs/utility-commands",
+              "slug": "/features/utility-commands",
+              "permalink": "/docs/features/utility-commands",
               "version": "current",
               "sidebar_label": "Utility Commands",
               "sidebar": "docs",
               "previous": {
                 "title": "Feature",
-                "permalink": "/docs/features/feature"
+                "permalink": "/docs/feature"
               },
               "next": {
                 "title": "Other Commands",
-                "permalink": "/docs/other-commands"
+                "permalink": "/docs/features/other-commands"
               }
+            },
+            {
+              "unversionedId": "feedback",
+              "id": "feedback",
+              "isDocsHomePage": false,
+              "title": "Feedback",
+              "description": "Do you have any problems?",
+              "source": "@site/docs\\feedback.md",
+              "slug": "/feedback",
+              "permalink": "/docs/feedback",
+              "version": "current",
+              "sidebar_label": "Feedback"
             },
             {
               "unversionedId": "getting-started/designation",
@@ -469,16 +358,7 @@
               "slug": "/getting-started/designation",
               "permalink": "/docs/getting-started/designation",
               "version": "current",
-              "sidebar_label": "MOH Designation",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Donate",
-                "permalink": "/docs/donate"
-              },
-              "next": {
-                "title": "Pricing Overview",
-                "permalink": "/docs/pricing/overview"
-              }
+              "sidebar_label": "MOH Designation"
             },
             {
               "unversionedId": "getting-started/moh_group",
@@ -547,16 +427,7 @@
               "slug": "/pricing/full-service",
               "permalink": "/docs/pricing/full-service",
               "version": "current",
-              "sidebar_label": "Full-Service Billing",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Self-Service Billing",
-                "permalink": "/docs/pricing/self-service"
-              },
-              "next": {
-                "title": "Pay-As-You-Go Billing Agent",
-                "permalink": "/docs/pricing/pay-as-you-go"
-              }
+              "sidebar_label": "Full-Service Billing"
             },
             {
               "unversionedId": "pricing/overview",
@@ -568,16 +439,7 @@
               "slug": "/pricing/overview",
               "permalink": "/docs/pricing/overview",
               "version": "current",
-              "sidebar_label": "Pricing Overview",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Designating IntelAGENT as your Agent",
-                "permalink": "/docs/getting-started/designation"
-              },
-              "next": {
-                "title": "Self-Service Billing",
-                "permalink": "/docs/pricing/self-service"
-              }
+              "sidebar_label": "Pricing Overview"
             },
             {
               "unversionedId": "pricing/pay-as-you-go",
@@ -589,16 +451,7 @@
               "slug": "/pricing/pay-as-you-go",
               "permalink": "/docs/pricing/pay-as-you-go",
               "version": "current",
-              "sidebar_label": "Pay-As-You-Go Billing Agent",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Full Service Billing Agent",
-                "permalink": "/docs/pricing/full-service"
-              },
-              "next": {
-                "title": "Feature",
-                "permalink": "/docs/features/feature"
-              }
+              "sidebar_label": "Pay-As-You-Go Billing Agent"
             },
             {
               "unversionedId": "pricing/self-service",
@@ -610,16 +463,7 @@
               "slug": "/pricing/self-service",
               "permalink": "/docs/pricing/self-service",
               "version": "current",
-              "sidebar_label": "Self-Service Billing",
-              "sidebar": "docs",
-              "previous": {
-                "title": "Pricing Overview",
-                "permalink": "/docs/pricing/overview"
-              },
-              "next": {
-                "title": "Full Service Billing Agent",
-                "permalink": "/docs/pricing/full-service"
-              }
+              "sidebar_label": "Self-Service Billing"
             },
             {
               "unversionedId": "style_guide",
@@ -646,8 +490,8 @@
               "sidebar_label": "Support",
               "sidebar": "docs",
               "previous": {
-                "title": "COVID Vaccine Fees",
-                "permalink": "/docs/covid/vaccine"
+                "title": "Music Commands",
+                "permalink": "/docs/music-commands"
               },
               "next": {
                 "title": "FAQ",

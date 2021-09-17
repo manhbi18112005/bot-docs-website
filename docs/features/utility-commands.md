@@ -1,9 +1,7 @@
 ---
-sidebar_position: 2
 id: utility-commands
 title: Utility Commands
 description: Utility Commands
-slug: /utility-commands
 sidebar_label: Utility Commands
 ---
 

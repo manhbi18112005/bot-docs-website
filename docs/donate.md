@@ -3,20 +3,21 @@ id: donate
 title: Donate
 description: Give MyT some milk :>
 sidebar_position: 2
+slug: /donate
 ---
 
-## Đô nết đi đô nết đi, thỏ nhận nè UwU
+Đô nết đi đô nết đi, thỏ nhận nè UwU
 
+---
 
-​Patreon: https://www.patreon.com/manhbi18112005​
+:::important
+[​Patreon:](https://www.patreon.com/manhbi18112005​) https://www.patreon.com/manhbi18112005​
 
-​Playerduo: https://playerduo.com/manhbi18112005​
+[​Playerduo:](https://playerduo.com/manhbi18112005​) https://playerduo.com/manhbi18112005​
 
-Paypal: manhquan677@gmail.com
+[Paypal:](https://paypal.me/manhbi18112005) manhquan677@gmail.com
 
 Momo: 0921812005
 
 Bank: 1016365120 - Vietcombank(VCB) - LE NGO DUC MANH
-
-
-​
+:::

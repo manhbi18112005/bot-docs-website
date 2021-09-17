@@ -109,7 +109,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','5d1'),
+  component: ComponentCreator('/docs','870'),
   
   routes: [
 {
@@ -173,13 +173,28 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/features/feature',
-  component: ComponentCreator('/docs/features/feature','4f7'),
+  path: '/docs/feature',
+  component: ComponentCreator('/docs/feature','236'),
   exact: true,
 },
 {
-  path: '/docs/features/hcv',
-  component: ComponentCreator('/docs/features/hcv','171'),
+  path: '/docs/features/game-commands',
+  component: ComponentCreator('/docs/features/game-commands','e00'),
+  exact: true,
+},
+{
+  path: '/docs/features/other-commands',
+  component: ComponentCreator('/docs/features/other-commands','c2e'),
+  exact: true,
+},
+{
+  path: '/docs/features/utility-commands',
+  component: ComponentCreator('/docs/features/utility-commands','f45'),
+  exact: true,
+},
+{
+  path: '/docs/feedback',
+  component: ComponentCreator('/docs/feedback','4b8'),
   exact: true,
 },
 {
@@ -200,11 +215,6 @@ export default [
 {
   path: '/docs/music-commands',
   component: ComponentCreator('/docs/music-commands','b46'),
-  exact: true,
-},
-{
-  path: '/docs/other-commands',
-  component: ComponentCreator('/docs/other-commands','fe6'),
   exact: true,
 },
 {
@@ -240,11 +250,6 @@ export default [
 {
   path: '/docs/support',
   component: ComponentCreator('/docs/support','9f3'),
-  exact: true,
-},
-{
-  path: '/docs/utility-commands',
-  component: ComponentCreator('/docs/utility-commands','b5a'),
   exact: true,
 },
 ]

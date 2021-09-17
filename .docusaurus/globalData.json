@@ -16,18 +16,15 @@
             },
             {
               "id": "covid/k-codes",
-              "path": "/docs/covid/k-codes",
-              "sidebar": "docs"
+              "path": "/docs/covid/k-codes"
             },
             {
               "id": "covid/sessional",
-              "path": "/docs/covid/sessional",
-              "sidebar": "docs"
+              "path": "/docs/covid/sessional"
             },
             {
               "id": "covid/vaccine",
-              "path": "/docs/covid/vaccine",
-              "sidebar": "docs"
+              "path": "/docs/covid/vaccine"
             },
             {
               "id": "donate",
@@ -41,13 +38,11 @@
             },
             {
               "id": "faq/delete-claim",
-              "path": "/docs/faq/delete-claim",
-              "sidebar": "docs"
+              "path": "/docs/faq/delete-claim"
             },
             {
               "id": "faq/fractional",
-              "path": "/docs/faq/fractional",
-              "sidebar": "docs"
+              "path": "/docs/faq/fractional"
             },
             {
               "id": "faq/payment",
@@ -59,17 +54,17 @@
             },
             {
               "id": "faq/sli",
-              "path": "/docs/faq/sli",
-              "sidebar": "docs"
+              "path": "/docs/faq/sli"
             },
             {
               "id": "features/feature",
-              "path": "/docs/features/feature",
+              "path": "/docs/feature",
               "sidebar": "docs"
             },
             {
-              "id": "features/hcv",
-              "path": "/docs/features/hcv"
+              "id": "features/game-commands",
+              "path": "/docs/features/game-commands",
+              "sidebar": "docs"
             },
             {
               "id": "features/music-commands/music-commands",
@@ -78,18 +73,21 @@
             },
             {
               "id": "features/other-commands",
-              "path": "/docs/other-commands",
+              "path": "/docs/features/other-commands",
               "sidebar": "docs"
             },
             {
               "id": "features/utility-commands",
-              "path": "/docs/utility-commands",
+              "path": "/docs/features/utility-commands",
               "sidebar": "docs"
             },
             {
+              "id": "feedback",
+              "path": "/docs/feedback"
+            },
+            {
               "id": "getting-started/designation",
-              "path": "/docs/getting-started/designation",
-              "sidebar": "docs"
+              "path": "/docs/getting-started/designation"
             },
             {
               "id": "getting-started/moh_group",
@@ -111,23 +109,19 @@
             },
             {
               "id": "pricing/full-service",
-              "path": "/docs/pricing/full-service",
-              "sidebar": "docs"
+              "path": "/docs/pricing/full-service"
             },
             {
               "id": "pricing/overview",
-              "path": "/docs/pricing/overview",
-              "sidebar": "docs"
+              "path": "/docs/pricing/overview"
             },
             {
               "id": "pricing/pay-as-you-go",
-              "path": "/docs/pricing/pay-as-you-go",
-              "sidebar": "docs"
+              "path": "/docs/pricing/pay-as-you-go"
             },
             {
               "id": "pricing/self-service",
-              "path": "/docs/pricing/self-service",
-              "sidebar": "docs"
+              "path": "/docs/pricing/self-service"
             },
             {
               "id": "style_guide",
