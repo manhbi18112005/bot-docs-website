@@ -43,8 +43,15 @@
     text-align: center;
     border-style: none;
     width: 100%;
-    -webkit-animation: float 6s ease-in-out infinite;
-    animation: float 6s ease-in-out infinite;
+    border-radius: 15px;
+  }
+  .featureImage:hover {
+    text-align: center;
+    border-style: none;
+    width: 115%;
+    -webkit-animation: float 4s ease-in-out infinite;
+    animation: float 4s ease-in-out infinite;
+    border-radius: 20px;
   }
   
   .featureContent {

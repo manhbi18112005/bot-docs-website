@@ -173,7 +173,7 @@ button
     }
 button:hover
     {
-        background: #ffffff;
+        background: var(--ifm-intelagent-link-color);
         color: #D43F52;
     }
   
