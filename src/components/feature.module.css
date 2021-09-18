@@ -48,7 +48,7 @@
   .featureImage:hover {
     text-align: center;
     border-style: none;
-    width: 115%;
+    width: 135%;
     -webkit-animation: float 4s ease-in-out infinite;
     animation: float 4s ease-in-out infinite;
     border-radius: 20px;
