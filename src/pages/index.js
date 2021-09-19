@@ -73,7 +73,7 @@ function AppList() {
     <div className="highlightsContainer">
       <div className="highlightsLimiter">
         <h1>
-        Trusted by <span class="css-faestz">93 Discord</span> community and <span class="css-faestz">102222</span> users.
+        Trusted by <span className="css-faestz">93 Discord</span> community and <span className="css-faestz">102222</span> users.
           </h1>
         <ul className="AppList">
         
@@ -182,8 +182,8 @@ const Hero = () => {
       <div id="main-header">
         <div className="container">
           <h1>
-            <span class="css-faz">Enhance </span>your<br></br>
-            <span class="css-faestz">Discord community.</span>
+            <span className="css-faz">Enhance </span>your<br></br>
+            <span className="css-faestz">Discord community.</span>
           </h1>
           <h2>
           Turn your community into the MOST EXCITING place to be!<br></br>
@@ -202,6 +202,9 @@ const Hero = () => {
           title="Documentation"
         >Documentation
         </Link>
+
+        
+      
         </div>
       </div>
   );

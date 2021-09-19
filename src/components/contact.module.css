@@ -42,7 +42,7 @@
   }
   
   .contactInput::placeholder {
-    color: #4a4a4a;
+    color: var(--ifm-heading-color);
   }
   
   .contactStatus {
@@ -119,6 +119,7 @@
   .contactTitle {
     font-size: 36px;
     font-weight: 500;
+    color: var(--ifm-heading-color);
   }
 
   .contactSubTitle {
@@ -240,3 +241,5 @@ button:hover
     text-align: center;
     margin-right: 20px;
 }
+
+
