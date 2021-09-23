@@ -236,8 +236,6 @@ function Home() {
         <Hero/>
       </div>
 
-      <script async src="https://arc.io/widget.min.js#QpmUnZtS"></script>
-      <script data-ad-client="ca-pub-7236509666550150" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <AppList />
       {/* <Pricing /> */}
       <Highlights
@@ -334,6 +332,9 @@ function Home() {
           </div>
         </section>
               )} */}
+              <script async src="https://arc.io/widget.min.js#QpmUnZtS"></script>
+              <script data-ad-client="ca-pub-7236509666550150" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      
      </main>
 
       
