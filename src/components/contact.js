@@ -76,7 +76,7 @@ export function ContactForm() {
             <div className="shadow scale"></div>
             <div className="message">
                 <h1 className="alerta">Success!</h1>
-                <div className="pa">Yes, everything seems working. But do you really want to send this?</div>
+                <div className="pa">Yes, everything seems working!</div>
                 </div>
             <button className="button-box">
                 <div className="hti">
