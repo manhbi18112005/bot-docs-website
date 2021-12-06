@@ -19,7 +19,6 @@ module.exports = {
       logo: {
         alt: 'No Name Studio Logo',
         src: 'img/favicon.png',
-        href: 'http://www.nonamestudio.xyz',
       },
       items: [
         //{to: 'blog', label: 'Blog', position: 'left'},

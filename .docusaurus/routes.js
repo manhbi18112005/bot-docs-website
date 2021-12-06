@@ -43,6 +43,11 @@ export default [
   exact: true,
 },
 {
+  path: '/arc-sw',
+  component: ComponentCreator('/arc-sw','c8c'),
+  exact: true,
+},
+{
   path: '/blog',
   component: ComponentCreator('/blog','57b'),
   exact: true,
@@ -85,6 +90,11 @@ export default [
 {
   path: '/blog/welcome',
   component: ComponentCreator('/blog/welcome','c3e'),
+  exact: true,
+},
+{
+  path: '/invite',
+  component: ComponentCreator('/invite','202'),
   exact: true,
 },
 {

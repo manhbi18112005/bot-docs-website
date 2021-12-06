@@ -682,8 +682,18 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/arc-sw",
+        "source": "@site/src\\pages\\arc-sw.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src\\pages\\index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/invite",
+        "source": "@site/src\\pages\\invite.js"
       },
       {
         "type": "mdx",

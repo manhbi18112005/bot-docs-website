@@ -24,8 +24,7 @@ export default {
       "title": "No Name Studio",
       "logo": {
         "alt": "No Name Studio Logo",
-        "src": "img/favicon.png",
-        "href": "http://www.nonamestudio.xyz"
+        "src": "img/favicon.png"
       },
       "items": [
         {
