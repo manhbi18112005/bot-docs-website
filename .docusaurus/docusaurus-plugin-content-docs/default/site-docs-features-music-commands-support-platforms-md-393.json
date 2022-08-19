@@ -1,0 +1,21 @@
+{
+  "unversionedId": "features/music-commands/support-platforms",
+  "id": "features/music-commands/support-platforms",
+  "isDocsHomePage": false,
+  "title": "What platforms does bot support music streaming from?",
+  "description": "You're a passionate Soundcloud or Spotify user for example? Well there's no problem since we offer a variety of platforms for you to stream from.",
+  "source": "@site/docs\\features\\music-commands\\support-platforms.md",
+  "slug": "/support-platforms",
+  "permalink": "/docs/support-platforms",
+  "version": "current",
+  "sidebar_label": "Support Platforms",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Music Commands",
+    "permalink": "/docs/music-commands"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/docs/support"
+  }
+}

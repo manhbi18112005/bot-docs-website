@@ -43,11 +43,6 @@ export default [
   exact: true,
 },
 {
-  path: '/arc-sw',
-  component: ComponentCreator('/arc-sw','c8c'),
-  exact: true,
-},
-{
   path: '/blog',
   component: ComponentCreator('/blog','57b'),
   exact: true,
@@ -93,6 +88,11 @@ export default [
   exact: true,
 },
 {
+  path: '/discord',
+  component: ComponentCreator('/discord','490'),
+  exact: true,
+},
+{
   path: '/invite',
   component: ComponentCreator('/invite','202'),
   exact: true,
@@ -119,7 +119,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','62e'),
+  component: ComponentCreator('/docs','6f6'),
   
   routes: [
 {
@@ -265,6 +265,11 @@ export default [
 {
   path: '/docs/support',
   component: ComponentCreator('/docs/support','9f3'),
+  exact: true,
+},
+{
+  path: '/docs/support-platforms',
+  component: ComponentCreator('/docs/support-platforms','6fd'),
   exact: true,
 },
 ]

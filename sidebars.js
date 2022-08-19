@@ -16,7 +16,7 @@ module.exports = {
           type: "category",
         label: "Music Commands",
         collapsed: true,
-        items: ['features/music-commands/music-commands'],
+        items: ['features/music-commands/music-commands', 'features/music-commands/support-platforms'],
       }],
     },
     {

@@ -25,10 +25,6 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/arc-sw-c8c": {
-    "component": "component---site-src-pages-arc-sw-js-009-ba4",
-    "config": "config---5-e-9-4f3"
-  },
   "/blog-57b": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blogf-9-b-ce9",
@@ -114,6 +110,10 @@
     "sidebar": "sidebar---blogf-9-b-ce9",
     "content": "content---blog-welcomea-9-a-cb6"
   },
+  "/discord-490": {
+    "component": "component---site-src-pages-discord-js-76-d-49f",
+    "config": "config---5-e-9-4f3"
+  },
   "/invite-202": {
     "component": "component---site-src-pages-invite-jsc-13-33e",
     "config": "config---5-e-9-4f3"
@@ -134,7 +134,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---terme-8-b-160"
   },
-  "/docs-62e": {
+  "/docs-6f6": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docsf-97-b71"
   },
@@ -253,5 +253,9 @@
   "/docs/support-9f3": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-support-4-b-7-c24"
+  },
+  "/docs/support-platforms-6fd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-support-platforms-393-65a"
   }
 }

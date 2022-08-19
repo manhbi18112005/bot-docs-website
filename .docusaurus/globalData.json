@@ -77,6 +77,11 @@
               "sidebar": "docs"
             },
             {
+              "id": "features/music-commands/support-platforms",
+              "path": "/docs/support-platforms",
+              "sidebar": "docs"
+            },
+            {
               "id": "features/other-commands",
               "path": "/docs/features/other-commands",
               "sidebar": "docs"

@@ -54,6 +54,11 @@
                 "type": "link",
                 "label": "Music Commands",
                 "href": "/docs/music-commands"
+              },
+              {
+                "type": "link",
+                "label": "Support Platforms",
+                "href": "/docs/support-platforms"
               }
             ]
           }
@@ -83,6 +88,7 @@
     "/docs/features/game-commands": "docs",
     "/docs/features/images-generating-commands": "docs",
     "/docs/music-commands": "docs",
+    "/docs/support-platforms": "docs",
     "/docs/features/other-commands": "docs",
     "/docs/features/utility-commands": "docs",
     "/docs/": "docs",

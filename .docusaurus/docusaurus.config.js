@@ -13,7 +13,7 @@ export default {
       {
         "name": "No Name Studio",
         "icon": "title.png",
-        "infoLink": "https://myt.nonamestudio.xyz/discord",
+        "infoLink": "https://bot.nonamestudio.xyz/discord",
         "infoTitle": "Discord Server of No Name Studio",
         "pinned": true
       }
@@ -86,7 +86,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 No Name Studio"
+      "copyright": "Copyright © 2022 No Name Studio"
     },
     "colorMode": {
       "defaultMode": "light",
