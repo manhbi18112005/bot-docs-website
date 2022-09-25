@@ -1,0 +1,12 @@
+{
+  "unversionedId": "features/music-commands/moderation-commands",
+  "id": "features/music-commands/moderation-commands",
+  "isDocsHomePage": false,
+  "title": "Moderation Commands",
+  "description": "Moderation Commands",
+  "source": "@site/docs\\features\\music-commands\\music-commands copy.md",
+  "slug": "/moderation-commands",
+  "permalink": "/docs/moderation-commands",
+  "version": "current",
+  "sidebar_label": "Moderation Commands"
+}

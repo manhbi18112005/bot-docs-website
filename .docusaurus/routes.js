@@ -119,7 +119,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','6f6'),
+  component: ComponentCreator('/docs','054'),
   
   routes: [
 {
@@ -225,6 +225,11 @@ export default [
 {
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx','155'),
+  exact: true,
+},
+{
+  path: '/docs/moderation-commands',
+  component: ComponentCreator('/docs/moderation-commands','233'),
   exact: true,
 },
 {

@@ -72,6 +72,10 @@
               "sidebar": "docs"
             },
             {
+              "id": "features/music-commands/moderation-commands",
+              "path": "/docs/moderation-commands"
+            },
+            {
               "id": "features/music-commands/music-commands",
               "path": "/docs/music-commands",
               "sidebar": "docs"

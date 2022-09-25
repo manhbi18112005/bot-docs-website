@@ -43,9 +43,9 @@ It's just to make it easier to set up and use this bot. You will notice that man
 
 :::danger By the way, if you are afraid of giving the bot permission roles, feel free to not using the bot!
 
-[Full Permission:](https://discord.com/oauth2/authorize?client_id=736915194772586598&scope=bot&permissions=8) https://discord.com/oauth2/authorize?client_id=736915194772586598&scope=bot&permissions=8
+[Full Permission:](https://discord.com/oauth2/authorize?client_id=736915194772586598&permissions=8&scope=bot%20applications.commands) https://discord.com/oauth2/authorize?client_id=736915194772586598&permissions=8&scope=bot%20applications.commands
 
-[No Permission:](https://discord.com/oauth2/authorize?client_id=736915194772586598&scope=bot&permissions=1342164673) https://discord.com/oauth2/authorize?client_id=736915194772586598&scope=bot&permissions=1342164673
+[Primary Permission:](https://discord.com/oauth2/authorize?client_id=736915194772586598&permissions=1291837377&scope=bot%20applications.commands) https://discord.com/oauth2/authorize?client_id=736915194772586598&permissions=1291837377&scope=bot%20applications.commands
 
 :::
 
