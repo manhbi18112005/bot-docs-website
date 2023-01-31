@@ -92,8 +92,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Removes the Home Page
-          //routeBasePath: '/docs',
-          routeBasePath: '/', // Serve the docs at the site's root
+          routeBasePath: '/docs',
+
         },
         blog: {
           showReadingTime: true,
