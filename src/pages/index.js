@@ -217,7 +217,7 @@ function Home() {
   const ogImage = `${url}/img/IntelAGENT_Logo_WithShadow.png`;
 
   React.useEffect(() => {
-    window.location.href = useBaseUrl('/docs/main');
+    window.location.href = useBaseUrl('https://bot.nonamestudio.xyz');
   }, []);
   return null;
   
