@@ -121,8 +121,8 @@ const config = {
         title: 'No Name Studio',
         logo: {
           alt: 'No Name Studio Logo',
-          src: 'img/logo/title.png',
-          srcDark: 'img/logo/title.png',
+          src: 'img/title.png',
+          srcDark: 'img/title.png',
         },
         items: [
             {
