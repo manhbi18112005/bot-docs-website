@@ -42,12 +42,11 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  trailingSlash: false,
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'No Name Studio VN',  
-  projectName: 'docs',
+  organizationName: 'manhbi18112005',  
+  projectName: 'bot-docs-website',
+  trailingSlash: false,
   onBrokenLinks:
   /** @type {import('@docusaurus/types').ReportingSeverity} */ ('throw'),
   onBrokenMarkdownLinks:
