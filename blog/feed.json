@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "No Name Studio Blog",
-    "home_page_url": "http://www.nonamestudio.xyz/blog",
+    "home_page_url": "http://www.nonamestudio.xyz/bot-docs-website/blog",
     "description": "No Name Studio Blog",
     "items": [
         {
-            "id": "http://www.nonamestudio.xyz/blog/welcome",
-            "content_html": "<p>Join our <a href=\"https://bot.nonamestudio.xyz/discord\" target=\"_blank\" rel=\"noopener noreferrer\">Discord server</a>.</p><p><img loading=\"lazy\" alt=\"Docusaurus Plushie\" src=\"/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg\" width=\"1500\" height=\"500\" class=\"img_ev3q\"></p>",
-            "url": "http://www.nonamestudio.xyz/blog/welcome",
+            "id": "http://www.nonamestudio.xyz/bot-docs-website/blog/welcome",
+            "content_html": "<p>Join our <a href=\"https://bot.nonamestudio.xyz/discord\" target=\"_blank\" rel=\"noopener noreferrer\">Discord server</a>.</p><p><img loading=\"lazy\" alt=\"Docusaurus Plushie\" src=\"/bot-docs-website/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg\" width=\"1500\" height=\"500\" class=\"img_ev3q\"></p>",
+            "url": "http://www.nonamestudio.xyz/bot-docs-website/blog/welcome",
             "title": "Welcome",
             "summary": "Join our Discord server.",
             "date_modified": "2023-03-30T00:00:00.000Z",

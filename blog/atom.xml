@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.nonamestudio.xyz/blog</id>
+    <id>http://www.nonamestudio.xyz/bot-docs-website/blog</id>
     <title>No Name Studio Blog</title>
     <updated>2023-03-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.nonamestudio.xyz/blog"/>
+    <link rel="alternate" href="http://www.nonamestudio.xyz/bot-docs-website/blog"/>
     <subtitle>No Name Studio Blog</subtitle>
-    <icon>http://www.nonamestudio.xyz/img/favicon.png</icon>
+    <icon>http://www.nonamestudio.xyz/bot-docs-website/img/favicon.png</icon>
     <rights>Copyright © 2023 No Name Studio.</rights>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>http://www.nonamestudio.xyz/blog/welcome</id>
-        <link href="http://www.nonamestudio.xyz/blog/welcome"/>
+        <id>http://www.nonamestudio.xyz/bot-docs-website/blog/welcome</id>
+        <link href="http://www.nonamestudio.xyz/bot-docs-website/blog/welcome"/>
         <updated>2023-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Join our Discord server.]]></summary>
-        <content type="html"><![CDATA[<p>Join our <a href="https://bot.nonamestudio.xyz/discord" target="_blank" rel="noopener noreferrer">Discord server</a>.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p>Join our <a href="https://bot.nonamestudio.xyz/discord" target="_blank" rel="noopener noreferrer">Discord server</a>.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/bot-docs-website/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
         <author>
             <name>Le Ngo Duc Manh</name>
             <uri>https://myt.nonamestudio.xyz</uri>
