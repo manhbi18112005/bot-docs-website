@@ -1,0 +1,26 @@
+{
+  "unversionedId": "faq/official-domain-names",
+  "id": "faq/official-domain-names",
+  "title": "Official Domain Names",
+  "description": "Official Domain Names",
+  "source": "@site/../docs/faq/official-domain-names.mdx",
+  "sourceDirName": "faq",
+  "slug": "/faq/official-domain-names",
+  "permalink": "/docs/next/faq/official-domain-names",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "official-domain-names",
+    "title": "Official Domain Names",
+    "description": "Official Domain Names"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "FAQ & Troubleshooting",
+    "permalink": "/docs/next/faq"
+  }
+}

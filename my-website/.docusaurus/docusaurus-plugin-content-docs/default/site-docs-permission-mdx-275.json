@@ -1,0 +1,21 @@
+{
+  "unversionedId": "permissions",
+  "id": "permissions",
+  "title": "Permissions",
+  "description": "Here are some permissions that No Name needs to act in your servers.",
+  "source": "@site/docs/permission.mdx",
+  "sourceDirName": ".",
+  "slug": "/permissions",
+  "permalink": "/docs/permissions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680360132,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
+  "frontMatter": {
+    "id": "permissions",
+    "title": "Permissions",
+    "description": "Here are some permissions that No Name needs to act in your servers."
+  }
+}

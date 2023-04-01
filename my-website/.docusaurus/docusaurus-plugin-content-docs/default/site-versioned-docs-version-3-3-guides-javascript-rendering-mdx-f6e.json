@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/javascript-rendering",
+  "id": "version-3.3/guides/javascript-rendering",
+  "title": "JavaScript rendering",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/guides/javascript-rendering.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/javascript-rendering",
+  "permalink": "/docs/guides/javascript-rendering",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "javascript-rendering",
+    "title": "JavaScript rendering",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "CheerioCrawler",
+    "permalink": "/docs/guides/cheerio-crawler-guide"
+  },
+  "next": {
+    "title": "Proxy Management",
+    "permalink": "/docs/guides/proxy-management"
+  }
+}

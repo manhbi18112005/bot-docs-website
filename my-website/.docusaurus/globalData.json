@@ -1,0 +1,104 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "quick-start/quick-start",
+          "docs": [
+            {
+              "id": "donate",
+              "path": "/docs/donate"
+            },
+            {
+              "id": "faq/official-domain-names",
+              "path": "/docs/faq/official-domain-names",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/game-commands",
+              "path": "/docs/features/game-commands",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/images-generating-commands",
+              "path": "/docs/features/images-generating-commands",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/music-commands/music-commands",
+              "path": "/docs/features/music-commands/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/music-commands/support-platforms",
+              "path": "/docs/features/music-commands/support-platforms",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/other-commands",
+              "path": "/docs/features/other-commands",
+              "sidebar": "docs"
+            },
+            {
+              "id": "features/utility-commands",
+              "path": "/docs/features/utility-commands",
+              "sidebar": "docs"
+            },
+            {
+              "id": "feedback",
+              "path": "/docs/feedback"
+            },
+            {
+              "id": "introduction/introduction",
+              "path": "/docs/introduction/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduction/setting-up",
+              "path": "/docs/introduction/setting-up",
+              "sidebar": "docs"
+            },
+            {
+              "id": "permissions",
+              "path": "/docs/permissions"
+            },
+            {
+              "id": "quick-start/quick-start",
+              "path": "/docs/quick-start/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "support",
+              "path": "/docs/support"
+            },
+            {
+              "id": "/features",
+              "path": "/docs/features",
+              "sidebar": "docs"
+            },
+            {
+              "id": "/faq",
+              "path": "/docs/faq",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/quick-start/",
+                "label": "quick-start/quick-start"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

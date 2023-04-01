@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/jsdom-crawler",
+  "id": "version-3.3/examples/jsdom-crawler",
+  "title": "JSDOM crawler",
+  "description": "This example demonstrates how to use JSDOMCrawler to interact with a website using jsdom DOM implementation.",
+  "source": "@site/versioned_docs/version-3.3/examples/jsdom_crawler.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/jsdom-crawler",
+  "permalink": "/docs/examples/jsdom-crawler",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "jsdom-crawler",
+    "title": "JSDOM crawler"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "HTTP crawler",
+    "permalink": "/docs/examples/http-crawler"
+  },
+  "next": {
+    "title": "Dataset Map and Reduce methods",
+    "permalink": "/docs/examples/map-and-reduce"
+  }
+}

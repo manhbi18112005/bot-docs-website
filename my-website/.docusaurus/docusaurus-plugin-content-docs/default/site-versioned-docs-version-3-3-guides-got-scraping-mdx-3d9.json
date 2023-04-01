@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/got-scraping",
+  "id": "version-3.3/guides/got-scraping",
+  "title": "Got Scraping",
+  "description": "Blazing fast cURL alternative for modern web scraping",
+  "source": "@site/versioned_docs/version-3.3/guides/got_scraping.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/got-scraping",
+  "permalink": "/docs/guides/got-scraping",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "got-scraping",
+    "title": "Got Scraping",
+    "description": "Blazing fast cURL alternative for modern web scraping"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "JSDOMCrawler",
+    "permalink": "/docs/guides/jsdom-crawler-guide"
+  },
+  "next": {
+    "title": "TypeScript Projects",
+    "permalink": "/docs/guides/typescript-project"
+  }
+}

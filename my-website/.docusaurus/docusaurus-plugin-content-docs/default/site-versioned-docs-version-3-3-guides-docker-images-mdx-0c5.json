@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/docker-images",
+  "id": "version-3.3/guides/docker-images",
+  "title": "Running in Docker",
+  "description": "Example Docker images to run your crawlers",
+  "source": "@site/versioned_docs/version-3.3/guides/docker_images.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/docker-images",
+  "permalink": "/docs/guides/docker-images",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "docker-images",
+    "title": "Running in Docker",
+    "description": "Example Docker images to run your crawlers"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "TypeScript Projects",
+    "permalink": "/docs/guides/typescript-project"
+  },
+  "next": {
+    "title": "Apify Platform",
+    "permalink": "/docs/guides/apify-platform"
+  }
+}

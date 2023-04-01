@@ -1,0 +1,30 @@
+{
+  "unversionedId": "features/features",
+  "id": "features/features",
+  "title": "Features",
+  "description": "Features of the bot",
+  "source": "@site/../docs/features/index.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/",
+  "permalink": "/docs/next/features/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "features",
+    "title": "Features",
+    "description": "Features of the bot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Setting up",
+    "permalink": "/docs/next/introduction/setting-up"
+  },
+  "next": {
+    "title": "Game Commands",
+    "permalink": "/docs/next/features/game-commands"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "features/utility-commands",
+  "id": "features/utility-commands",
+  "title": "Utility Commands",
+  "description": "Utility Commands",
+  "source": "@site/docs/features/utility-commands.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/utility-commands",
+  "permalink": "/docs/features/utility-commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680360132,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
+  "frontMatter": {
+    "id": "utility-commands",
+    "title": "Utility Commands",
+    "description": "Utility Commands"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Other Commands",
+    "permalink": "/docs/features/other-commands"
+  },
+  "next": {
+    "title": "FAQ & Troubleshooting",
+    "permalink": "/docs/faq"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Upgrading",
+  "keywords": [
+    "upgrading"
+  ],
+  "slug": "/upgrading",
+  "permalink": "/docs/next/upgrading",
+  "navigation": {
+    "previous": {
+      "title": "Crawl multiple URLs",
+      "permalink": "/docs/next/examples/crawl-multiple-urls"
+    },
+    "next": {
+      "title": "Upgrading to v3",
+      "permalink": "/docs/next/upgrading/upgrading-to-v3"
+    }
+  }
+}

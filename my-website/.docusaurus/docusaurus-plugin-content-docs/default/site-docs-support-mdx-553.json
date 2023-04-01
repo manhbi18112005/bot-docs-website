@@ -1,0 +1,21 @@
+{
+  "unversionedId": "support",
+  "id": "support",
+  "title": "Support",
+  "description": "Here are some supports notes.",
+  "source": "@site/../docs/support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/docs/next/support",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "support",
+    "title": "Support",
+    "description": "Here are some supports notes."
+  }
+}

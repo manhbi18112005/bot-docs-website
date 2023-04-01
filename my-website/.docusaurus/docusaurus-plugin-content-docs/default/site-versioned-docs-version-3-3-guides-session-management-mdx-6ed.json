@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/session-management",
+  "id": "version-3.3/guides/session-management",
+  "title": "Session Management",
+  "description": "How to manage your cookies, proxy IP rotations and more",
+  "source": "@site/versioned_docs/version-3.3/guides/session_management.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/session-management",
+  "permalink": "/docs/guides/session-management",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "session-management",
+    "title": "Session Management",
+    "description": "How to manage your cookies, proxy IP rotations and more"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Proxy Management",
+    "permalink": "/docs/guides/proxy-management"
+  },
+  "next": {
+    "title": "Scaling our crawlers",
+    "permalink": "/docs/guides/scaling-crawlers"
+  }
+}

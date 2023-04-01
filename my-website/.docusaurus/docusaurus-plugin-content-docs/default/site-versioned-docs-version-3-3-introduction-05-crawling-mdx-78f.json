@@ -1,0 +1,32 @@
+{
+  "unversionedId": "introduction/crawling",
+  "id": "version-3.3/introduction/crawling",
+  "title": "Crawling the Store",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/introduction/05-crawling.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/crawling",
+  "permalink": "/docs/introduction/crawling",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "crawling",
+    "title": "Crawling the Store",
+    "sidebar_label": "Crawling",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Real-world project",
+    "permalink": "/docs/introduction/real-world-project"
+  },
+  "next": {
+    "title": "Scraping",
+    "permalink": "/docs/introduction/scraping"
+  }
+}

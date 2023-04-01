@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/skip-navigation",
+  "id": "version-3.3/examples/skip-navigation",
+  "title": "Skipping navigations for certain requests",
+  "description": "While crawling a website, you may encounter certain resources you'd like to save, but don't need the full power of a crawler to do so (like images delivered through a CDN).",
+  "source": "@site/versioned_docs/version-3.3/examples/skip-navigation.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/skip-navigation",
+  "permalink": "/docs/examples/skip-navigation",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "skip-navigation",
+    "title": "Skipping navigations for certain requests"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Puppeteer recursive crawl",
+    "permalink": "/docs/examples/puppeteer-recursive-crawl"
+  },
+  "next": {
+    "title": "Upgrading",
+    "permalink": "/docs/upgrading"
+  }
+}

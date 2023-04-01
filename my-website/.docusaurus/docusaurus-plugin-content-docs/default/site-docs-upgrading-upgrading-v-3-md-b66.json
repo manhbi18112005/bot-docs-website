@@ -1,0 +1,25 @@
+{
+  "unversionedId": "upgrading/upgrading-to-v3",
+  "id": "upgrading/upgrading-to-v3",
+  "title": "Upgrading to v3",
+  "description": "This page summarizes most of the breaking changes between Crawlee (v3) and Apify SDK (v2). Crawlee is the spiritual successor to Apify SDK, so we decided to keep the versioning and release Crawlee as v3.",
+  "source": "@site/../docs/upgrading/upgrading_v3.md",
+  "sourceDirName": "upgrading",
+  "slug": "/upgrading/upgrading-to-v3",
+  "permalink": "/docs/next/upgrading/upgrading-to-v3",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "upgrading-to-v3",
+    "title": "Upgrading to v3"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upgrading",
+    "permalink": "/docs/next/upgrading"
+  }
+}

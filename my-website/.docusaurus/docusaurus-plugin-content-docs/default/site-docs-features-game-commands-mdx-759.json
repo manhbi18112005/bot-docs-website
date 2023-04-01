@@ -1,0 +1,30 @@
+{
+  "unversionedId": "features/game-commands",
+  "id": "features/game-commands",
+  "title": "Game Commands",
+  "description": "Interesting Game Commands",
+  "source": "@site/../docs/features/game-commands.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/game-commands",
+  "permalink": "/docs/next/features/game-commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "game-commands",
+    "title": "Game Commands",
+    "description": "Interesting Game Commands"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Features",
+    "permalink": "/docs/next/features"
+  },
+  "next": {
+    "title": "Images Generating Commands",
+    "permalink": "/docs/next/features/images-generating-commands"
+  }
+}

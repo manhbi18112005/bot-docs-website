@@ -1,0 +1,18 @@
+{
+  "title": "Examples",
+  "keywords": [
+    "examples"
+  ],
+  "slug": "/examples",
+  "permalink": "/docs/examples",
+  "navigation": {
+    "previous": {
+      "title": "Setting up",
+      "permalink": "/docs/introduction/setting-up"
+    },
+    "next": {
+      "title": "Crawl multiple URLs",
+      "permalink": "/docs/examples/crawl-multiple-urls"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/puppeteer-crawler",
+  "id": "version-3.3/examples/puppeteer-crawler",
+  "title": "Puppeteer crawler",
+  "description": "This example demonstrates how to use PuppeteerCrawler in combination",
+  "source": "@site/versioned_docs/version-3.3/examples/puppeteer_crawler.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/puppeteer-crawler",
+  "permalink": "/docs/examples/puppeteer-crawler",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "puppeteer-crawler",
+    "title": "Puppeteer crawler"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Capture a screenshot using Puppeteer",
+    "permalink": "/docs/examples/capture-screenshot"
+  },
+  "next": {
+    "title": "Puppeteer recursive crawl",
+    "permalink": "/docs/examples/puppeteer-recursive-crawl"
+  }
+}

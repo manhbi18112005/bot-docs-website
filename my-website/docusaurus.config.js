@@ -3,35 +3,6 @@
 
 const { externalLinkProcessor } = require('./tools/utils/externalLink');
 
-const packages = [
-  'core',
-  'browser-pool',
-  'basic-crawler',
-  'browser-crawler',
-  'http-crawler',
-  'cheerio-crawler',
-  'puppeteer-crawler',
-  'playwright-crawler',
-  'jsdom-crawler',
-  'memory-storage',
-  'utils',
-  'types',
-];
-const packagesOrder = [
-  '@crawlee/core',
-  '@crawlee/cheerio',
-  '@crawlee/jsdom',
-  '@crawlee/playwright',
-  '@crawlee/puppeteer',
-  '@crawlee/basic',
-  '@crawlee/http',
-  '@crawlee/browser',
-  '@crawlee/memory-storage',
-  '@crawlee/browser-pool',
-  '@crawlee/utils',
-  '@crawlee/types',
-];
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'No Name Studio',
@@ -109,31 +80,12 @@ const config = {
   ]),
   plugins: [
     [
-        'docusaurus-plugin-typedoc-api',
-        {
-            projectRoot: `${__dirname}/..`,
-            changelogs: true,
-            readmes: true,
-            sortPackages: (a, b) => {
-                return packagesOrder.indexOf(a.packageName) - packagesOrder.indexOf(b.packageName);
-            },
-            packages: packages.map((name) => ({ path: `packages/${name}` })),
-            typedocOptions: {
-                excludeExternals: false,
-            },
-        },
-    ],
-    [
         '@docusaurus/plugin-client-redirects',
         {
             redirects: [
                 {
                     from: '/docs',
                     to: '/docs/quick-start',
-                },
-                {
-                    from: '/docs/next',
-                    to: '/docs/next/quick-start',
                 },
                 {
                     from: '/docs/guides/getting-started',

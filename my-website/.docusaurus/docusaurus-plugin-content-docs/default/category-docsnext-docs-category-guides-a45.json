@@ -1,0 +1,18 @@
+{
+  "title": "Guides",
+  "keywords": [
+    "guides"
+  ],
+  "slug": "/guides",
+  "permalink": "/docs/next/guides",
+  "navigation": {
+    "previous": {
+      "title": "Setting up",
+      "permalink": "/docs/next/introduction/setting-up"
+    },
+    "next": {
+      "title": "Apify Platform",
+      "permalink": "/docs/next/guides/apify-platform"
+    }
+  }
+}

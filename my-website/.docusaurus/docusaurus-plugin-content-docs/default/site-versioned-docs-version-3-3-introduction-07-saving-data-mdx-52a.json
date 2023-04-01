@@ -1,0 +1,31 @@
+{
+  "unversionedId": "introduction/saving-data",
+  "id": "version-3.3/introduction/saving-data",
+  "title": "Saving data",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/introduction/07-saving-data.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/saving-data",
+  "permalink": "/docs/introduction/saving-data",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "saving-data",
+    "title": "Saving data",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Scraping",
+    "permalink": "/docs/introduction/scraping"
+  },
+  "next": {
+    "title": "Refactoring",
+    "permalink": "/docs/introduction/refactoring"
+  }
+}

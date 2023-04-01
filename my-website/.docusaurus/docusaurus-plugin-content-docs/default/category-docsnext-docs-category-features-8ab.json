@@ -1,0 +1,18 @@
+{
+  "title": "Features",
+  "keywords": [
+    "features"
+  ],
+  "slug": "/features",
+  "permalink": "/docs/next/features",
+  "navigation": {
+    "previous": {
+      "title": "Setting up",
+      "permalink": "/docs/next/introduction/setting-up"
+    },
+    "next": {
+      "title": "Game Commands",
+      "permalink": "/docs/next/features/game-commands"
+    }
+  }
+}

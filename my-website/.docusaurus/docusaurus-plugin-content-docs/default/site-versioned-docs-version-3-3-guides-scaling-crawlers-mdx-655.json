@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/scaling-crawlers",
+  "id": "version-3.3/guides/scaling-crawlers",
+  "title": "Scaling our crawlers",
+  "description": "To infinity and beyond! ...within limits",
+  "source": "@site/versioned_docs/version-3.3/guides/scaling_crawlers.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/scaling-crawlers",
+  "permalink": "/docs/guides/scaling-crawlers",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "scaling-crawlers",
+    "title": "Scaling our crawlers",
+    "description": "To infinity and beyond! ...within limits"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Session Management",
+    "permalink": "/docs/guides/session-management"
+  },
+  "next": {
+    "title": "Avoid getting blocked",
+    "permalink": "/docs/guides/avoid-blocking"
+  }
+}

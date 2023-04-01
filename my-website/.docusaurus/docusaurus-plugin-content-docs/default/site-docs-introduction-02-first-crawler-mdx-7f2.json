@@ -1,0 +1,22 @@
+{
+  "unversionedId": "introduction/first-crawler",
+  "id": "introduction/first-crawler",
+  "title": "First crawler",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/../docs/introduction/02-first-crawler.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/first-crawler",
+  "permalink": "/docs/next/introduction/first-crawler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "first-crawler",
+    "title": "First crawler",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  }
+}

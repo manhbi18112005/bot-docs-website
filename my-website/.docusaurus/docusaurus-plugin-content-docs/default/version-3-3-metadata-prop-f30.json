@@ -1,0 +1,43 @@
+{
+  "pluginId": "default",
+  "version": "3.3",
+  "label": "3.3",
+  "banner": null,
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-3.3",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "Donate",
+        "href": "/docs/donate",
+        "docId": "donate"
+      }
+    ]
+  },
+  "docs": {
+    "donate": {
+      "id": "donate",
+      "title": "Donate",
+      "description": "Give MyT some milk :>",
+      "sidebar": "docs"
+    },
+    "introduction/introduction": {
+      "id": "introduction/introduction",
+      "title": "Introduction",
+      "description": "Welcome to the official help center of No Name Studio!"
+    },
+    "introduction/setting-up": {
+      "id": "introduction/setting-up",
+      "title": "Setting up",
+      "description": "Invite the bot"
+    },
+    "quick-start/quick-start": {
+      "id": "quick-start/quick-start",
+      "title": "Quick Start",
+      "description": "Getting Started with No Name Bot"
+    }
+  }
+}

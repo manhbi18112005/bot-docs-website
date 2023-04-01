@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/add-data-to-dataset",
+  "id": "version-3.3/examples/add-data-to-dataset",
+  "title": "Add data to dataset",
+  "description": "This example saves data to the default dataset. If the dataset doesn't exist, it will be created.",
+  "source": "@site/versioned_docs/version-3.3/examples/add_data_to_dataset.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/add-data-to-dataset",
+  "permalink": "/docs/examples/add-data-to-dataset",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "add-data-to-dataset",
+    "title": "Add data to dataset"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Accept user input",
+    "permalink": "/docs/examples/accept-user-input"
+  },
+  "next": {
+    "title": "Basic crawler",
+    "permalink": "/docs/examples/basic-crawler"
+  }
+}

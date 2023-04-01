@@ -1,0 +1,32 @@
+{
+  "unversionedId": "introduction/scraping",
+  "id": "version-3.3/introduction/scraping",
+  "title": "Scraping the Store",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/introduction/06-scraping.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/scraping",
+  "permalink": "/docs/introduction/scraping",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "scraping",
+    "title": "Scraping the Store",
+    "sidebar_label": "Scraping",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Crawling",
+    "permalink": "/docs/introduction/crawling"
+  },
+  "next": {
+    "title": "Saving data",
+    "permalink": "/docs/introduction/saving-data"
+  }
+}

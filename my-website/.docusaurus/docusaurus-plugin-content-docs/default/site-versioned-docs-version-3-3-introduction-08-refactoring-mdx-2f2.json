@@ -1,0 +1,31 @@
+{
+  "unversionedId": "introduction/refactoring",
+  "id": "version-3.3/introduction/refactoring",
+  "title": "Refactoring",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/introduction/08-refactoring.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/refactoring",
+  "permalink": "/docs/introduction/refactoring",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "refactoring",
+    "title": "Refactoring",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Saving data",
+    "permalink": "/docs/introduction/saving-data"
+  },
+  "next": {
+    "title": "Guides",
+    "permalink": "/docs/guides"
+  }
+}

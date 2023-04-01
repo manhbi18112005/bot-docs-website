@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/apify-platform",
+  "id": "guides/apify-platform",
+  "title": "Apify Platform",
+  "description": "Apify platform - large-scale and high-performance web scraping",
+  "source": "@site/../docs/guides/apify_platform.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/apify-platform",
+  "permalink": "/docs/next/guides/apify-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "apify-platform",
+    "title": "Apify Platform",
+    "description": "Apify platform - large-scale and high-performance web scraping"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Guides",
+    "permalink": "/docs/next/guides"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/docs/next/examples"
+  }
+}

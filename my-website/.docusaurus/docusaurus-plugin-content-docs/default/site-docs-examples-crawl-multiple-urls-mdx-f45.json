@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/crawl-multiple-urls",
+  "id": "examples/crawl-multiple-urls",
+  "title": "Crawl multiple URLs",
+  "description": "This example crawls the specified list of URLs.",
+  "source": "@site/../docs/examples/crawl_multiple_urls.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/crawl-multiple-urls",
+  "permalink": "/docs/next/examples/crawl-multiple-urls",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "crawl-multiple-urls",
+    "title": "Crawl multiple URLs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Examples",
+    "permalink": "/docs/next/examples"
+  },
+  "next": {
+    "title": "Upgrading",
+    "permalink": "/docs/next/upgrading"
+  }
+}

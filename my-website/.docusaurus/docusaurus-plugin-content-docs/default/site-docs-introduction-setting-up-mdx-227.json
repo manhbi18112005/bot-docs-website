@@ -1,0 +1,30 @@
+{
+  "unversionedId": "introduction/setting-up",
+  "id": "introduction/setting-up",
+  "title": "Setting up",
+  "description": "Invite the bot",
+  "source": "@site/docs/introduction/setting-up.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/setting-up",
+  "permalink": "/docs/introduction/setting-up",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680360132,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
+  "frontMatter": {
+    "id": "setting-up",
+    "title": "Setting up",
+    "description": "Invite the bot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction/"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/docs/features"
+  }
+}

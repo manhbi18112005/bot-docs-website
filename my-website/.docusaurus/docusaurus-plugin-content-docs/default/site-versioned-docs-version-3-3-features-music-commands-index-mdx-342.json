@@ -1,0 +1,30 @@
+{
+  "unversionedId": "features/music-commands/music-commands",
+  "id": "version-3.3/features/music-commands/music-commands",
+  "title": "Music Commands",
+  "description": "Music Commands",
+  "source": "@site/versioned_docs/version-3.3/features/music-commands/index.mdx",
+  "sourceDirName": "features/music-commands",
+  "slug": "/features/music-commands/",
+  "permalink": "/docs/features/music-commands/",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "music-commands",
+    "title": "Music Commands",
+    "description": "Music Commands"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Images Generating Commands",
+    "permalink": "/docs/features/images-generating-commands"
+  },
+  "next": {
+    "title": "What platforms does bot support music streaming from?",
+    "permalink": "/docs/features/music-commands/support-platforms"
+  }
+}

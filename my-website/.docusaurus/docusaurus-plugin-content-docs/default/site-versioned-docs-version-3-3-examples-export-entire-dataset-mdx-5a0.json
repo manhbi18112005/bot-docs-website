@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/export-entire-dataset",
+  "id": "version-3.3/examples/export-entire-dataset",
+  "title": "Export entire dataset to one file",
+  "description": "This Dataset example uses the exportToValue function to export the entire default dataset to a single CSV file into a key-value store named \"my-data\".",
+  "source": "@site/versioned_docs/version-3.3/examples/export_entire_dataset.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/export-entire-dataset",
+  "permalink": "/docs/examples/export-entire-dataset",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "export-entire-dataset",
+    "title": "Export entire dataset to one file"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using puppeteer-extra and playwright-extra",
+    "permalink": "/docs/examples/crawler-plugins/"
+  },
+  "next": {
+    "title": "Forms",
+    "permalink": "/docs/examples/forms"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/capture-screenshot",
+  "id": "version-3.3/examples/capture-screenshot",
+  "title": "Capture a screenshot using Puppeteer",
+  "description": "Using Puppeteer directly",
+  "source": "@site/versioned_docs/version-3.3/examples/puppeteer_capture_screenshot.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/capture-screenshot",
+  "permalink": "/docs/examples/capture-screenshot",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "capture-screenshot",
+    "title": "Capture a screenshot using Puppeteer"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Firefox browser with Playwright crawler",
+    "permalink": "/docs/examples/playwright-crawler-firefox"
+  },
+  "next": {
+    "title": "Puppeteer crawler",
+    "permalink": "/docs/examples/puppeteer-crawler"
+  }
+}

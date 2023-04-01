@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/result-storage",
+  "id": "version-3.3/guides/result-storage",
+  "title": "Result Storage",
+  "description": "Where are you going to store all of that juicy scraped data?!",
+  "source": "@site/versioned_docs/version-3.3/guides/result_storage.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/result-storage",
+  "permalink": "/docs/guides/result-storage",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "result-storage",
+    "title": "Result Storage",
+    "description": "Where are you going to store all of that juicy scraped data?!"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Request Storage",
+    "permalink": "/docs/guides/request-storage"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/guides/configuration"
+  }
+}

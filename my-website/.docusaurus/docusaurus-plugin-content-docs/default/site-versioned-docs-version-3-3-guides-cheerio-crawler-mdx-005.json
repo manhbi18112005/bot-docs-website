@@ -1,0 +1,31 @@
+{
+  "unversionedId": "guides/cheerio-crawler-guide",
+  "id": "version-3.3/guides/cheerio-crawler-guide",
+  "title": "CheerioCrawler guide",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/guides/cheerio_crawler.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/cheerio-crawler-guide",
+  "permalink": "/docs/guides/cheerio-crawler-guide",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "cheerio-crawler-guide",
+    "title": "CheerioCrawler guide",
+    "sidebar_label": "CheerioCrawler",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/guides/configuration"
+  },
+  "next": {
+    "title": "JavaScript rendering",
+    "permalink": "/docs/guides/javascript-rendering"
+  }
+}

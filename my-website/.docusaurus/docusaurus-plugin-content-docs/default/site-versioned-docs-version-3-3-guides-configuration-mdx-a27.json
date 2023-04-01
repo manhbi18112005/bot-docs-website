@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guides/configuration",
+  "id": "version-3.3/guides/configuration",
+  "title": "Configuration",
+  "description": "Configuring Crawlee parameters",
+  "source": "@site/versioned_docs/version-3.3/guides/configuration.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/configuration",
+  "permalink": "/docs/guides/configuration",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "configuration",
+    "title": "Configuration",
+    "description": "Configuring Crawlee parameters"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Result Storage",
+    "permalink": "/docs/guides/result-storage"
+  },
+  "next": {
+    "title": "CheerioCrawler",
+    "permalink": "/docs/guides/cheerio-crawler-guide"
+  }
+}

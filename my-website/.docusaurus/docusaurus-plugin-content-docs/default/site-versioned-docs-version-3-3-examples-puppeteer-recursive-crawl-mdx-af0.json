@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/puppeteer-recursive-crawl",
+  "id": "version-3.3/examples/puppeteer-recursive-crawl",
+  "title": "Puppeteer recursive crawl",
+  "description": "Run the following example to perform a recursive crawl of a website using PuppeteerCrawler.",
+  "source": "@site/versioned_docs/version-3.3/examples/puppeteer_recursive_crawl.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/puppeteer-recursive-crawl",
+  "permalink": "/docs/examples/puppeteer-recursive-crawl",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "puppeteer-recursive-crawl",
+    "title": "Puppeteer recursive crawl"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Puppeteer crawler",
+    "permalink": "/docs/examples/puppeteer-crawler"
+  },
+  "next": {
+    "title": "Skipping navigations for certain requests",
+    "permalink": "/docs/examples/skip-navigation"
+  }
+}

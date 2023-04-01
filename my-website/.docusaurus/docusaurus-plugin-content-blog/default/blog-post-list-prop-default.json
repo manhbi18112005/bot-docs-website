@@ -1,0 +1,9 @@
+{
+  "title": "All posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "unversionedId": "introduction/real-world-project",
+  "id": "version-3.3/introduction/real-world-project",
+  "title": "Getting some real-world data",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/introduction/04-real-world-project.mdx",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/real-world-project",
+  "permalink": "/docs/introduction/real-world-project",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "real-world-project",
+    "title": "Getting some real-world data",
+    "sidebar_label": "Real-world project",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Adding more URLs",
+    "permalink": "/docs/introduction/adding-urls"
+  },
+  "next": {
+    "title": "Crawling",
+    "permalink": "/docs/introduction/crawling"
+  }
+}

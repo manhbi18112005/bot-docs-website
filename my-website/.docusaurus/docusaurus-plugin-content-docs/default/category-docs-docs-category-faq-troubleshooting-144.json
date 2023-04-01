@@ -1,0 +1,19 @@
+{
+  "title": "FAQ & Troubleshooting",
+  "keywords": [
+    "faq",
+    "troubleshooting"
+  ],
+  "slug": "/faq",
+  "permalink": "/docs/faq",
+  "navigation": {
+    "previous": {
+      "title": "Utility Commands",
+      "permalink": "/docs/features/utility-commands"
+    },
+    "next": {
+      "title": "Official Domain Names",
+      "permalink": "/docs/faq/official-domain-names"
+    }
+  }
+}

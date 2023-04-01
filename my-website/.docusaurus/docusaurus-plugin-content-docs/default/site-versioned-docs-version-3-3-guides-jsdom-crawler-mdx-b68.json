@@ -1,0 +1,31 @@
+{
+  "unversionedId": "guides/jsdom-crawler-guide",
+  "id": "version-3.3/guides/jsdom-crawler-guide",
+  "title": "JSDOMCrawler guide",
+  "description": "Your first steps into the world of scraping with Crawlee",
+  "source": "@site/versioned_docs/version-3.3/guides/jsdom_crawler.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/jsdom-crawler-guide",
+  "permalink": "/docs/guides/jsdom-crawler-guide",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "jsdom-crawler-guide",
+    "title": "JSDOMCrawler guide",
+    "sidebar_label": "JSDOMCrawler",
+    "description": "Your first steps into the world of scraping with Crawlee"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Avoid getting blocked",
+    "permalink": "/docs/guides/avoid-blocking"
+  },
+  "next": {
+    "title": "Got Scraping",
+    "permalink": "/docs/guides/got-scraping"
+  }
+}

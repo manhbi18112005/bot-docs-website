@@ -1,0 +1,30 @@
+{
+  "unversionedId": "features/other-commands",
+  "id": "version-3.3/features/other-commands",
+  "title": "Other Commands",
+  "description": "Other Commands",
+  "source": "@site/versioned_docs/version-3.3/features/other-commands.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/other-commands",
+  "permalink": "/docs/features/other-commands",
+  "draft": false,
+  "tags": [],
+  "version": "3.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "other-commands",
+    "title": "Other Commands",
+    "description": "Other Commands"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "What platforms does bot support music streaming from?",
+    "permalink": "/docs/features/music-commands/support-platforms"
+  },
+  "next": {
+    "title": "Utility Commands",
+    "permalink": "/docs/features/utility-commands"
+  }
+}
