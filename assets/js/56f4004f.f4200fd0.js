@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[868],{6490:e=>{e.exports=JSON.parse('{"permalink":"/bot-docs-website/blog","page":1,"postsPerPage":15,"totalPages":1,"totalCount":1,"blogDescription":"Get the latest news about No Name Bot","blogTitle":"No Name Bot Blog"}')}}]);
