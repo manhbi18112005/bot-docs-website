@@ -216,6 +216,8 @@ function Home() {
   const {title, tagline, url, favicon} = siteConfig;
   const ogImage = `${url}/img/IntelAGENT_Logo_WithShadow.png`;
 
+  return <Redirect to='https://bot.nonamestudio.xyz' />
+
   return (
     <div>
     <Head>
@@ -405,6 +407,7 @@ function Home() {
       />
       <ContactForm/>
       <Footer />
+      
     </div>
   );
 }

@@ -86,7 +86,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 No Name Studio"
+      "copyright": "Copyright © 2023 No Name Studio"
     },
     "colorMode": {
       "defaultMode": "light",
