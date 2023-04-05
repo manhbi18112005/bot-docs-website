@@ -1,51 +1,51 @@
 {
-  "/__docusaurus/debug-f2c": {
+  "/__docusaurus/debug-833": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/__docusaurus/debug/config-490": {
+  "/__docusaurus/debug/config-571": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/__docusaurus/debug/content-633": {
+  "/__docusaurus/debug/content-299": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-dc2": {
+  "/__docusaurus/debug/globalData-2d7": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/__docusaurus/debug/metadata-9e3": {
+  "/__docusaurus/debug/metadata-295": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/__docusaurus/debug/registry-88a": {
+  "/__docusaurus/debug/registry-2db": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/__docusaurus/debug/routes-721": {
+  "/__docusaurus/debug/routes-cf1": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-79-4ff"
+      "plugin": "plugin---docusaurus-debugdab-7e4"
     }
   },
-  "/blog-d4a": {
+  "/blog-d12": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blog-3-d-3-aca"
+      "plugin": "plugin---blog-791-347"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -55,25 +55,25 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/archive-484": {
+  "/blog/archive-54b": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blog-3-d-3-aca"
+      "plugin": "plugin---blog-791-347"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/tags-1ba": {
+  "/blog/tags-4d2": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blog-3-d-3-aca"
+      "plugin": "plugin---blog-791-347"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/bot-b22": {
+  "/blog/tags/bot-882": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-3-d-3-aca"
+      "plugin": "plugin---blog-791-347"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -84,71 +84,90 @@
     "tag": "tag---blog-tags-bot-71-e-700",
     "listMetadata": "listMetadata---blog-tags-bot-79-e-414"
   },
-  "/blog/welcome-f60": {
+  "/blog/welcome-43a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-3-d-3-aca"
+      "plugin": "plugin---blog-791-347"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomecbf-613"
   },
-  "/privacy-1c6": {
+  "/feedback-246": {
+    "__comp": "__comp---site-src-pages-feedback-js-458-c3d",
+    "__context": {
+      "plugin": "plugin---feedback-35-a-747"
+    },
+    "config": "config---feedback-5-e-9-c5c"
+  },
+  "/privacy-777": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---privacy-771-98d"
+      "plugin": "plugin---feedback-35-a-747"
     },
     "content": "content---privacy-8-e-3-935"
   },
-  "/privacy-cookie-ba2": {
+  "/privacy-cookie-dd5": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---privacy-771-98d"
+      "plugin": "plugin---feedback-35-a-747"
     },
     "content": "content---privacy-cookiefeb-f95"
   },
-  "/term-1cd": {
+  "/term-fea": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---privacy-771-98d"
+      "plugin": "plugin---feedback-35-a-747"
     },
     "content": "content---termf-7-a-f87"
   },
-  "/versions-3eb": {
+  "/versions-c93": {
     "__comp": "__comp---site-src-pages-versions-js-18-b-bfe",
     "__context": {
-      "plugin": "plugin---privacy-771-98d"
+      "plugin": "plugin---feedback-35-a-747"
     },
-    "config": "config---versions-5-e-9-c5a"
+    "config": "config---feedback-5-e-9-c5c"
   },
-  "/community-00a": {
+  "/community-3d2": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---community-96-d-5cd"
+      "plugin": "plugin---community-459-e74"
     },
     "versionMetadata": "versionMetadata---community-306-8a8"
   },
-  "/community/faq/help-bfe": {
+  "/community-022": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---community-faq-helpacc-2f2"
+    "content": "content---community-93-c-e7f"
   },
-  "/docs-a2c": {
+  "/community/faq-3a5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---community-faq-99-b-cd0"
+  },
+  "/community/faq/dashboard-logout-47e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-faq-dashboard-logoutabd-688"
+  },
+  "/community/faq/nonamebot-is-offline-b03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-faq-nonamebot-is-offlinec-40-daa"
+  },
+  "/community/faq/official-domain-names-1c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-faq-official-domain-names-54-e-f93"
+  },
+  "/docs-d2d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docsdd-6-614"
+      "plugin": "plugin---docsafc-728"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/donate-28c": {
+  "/docs-640": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-4-ed-8a2"
+  },
+  "/docs/donate-e38": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-donated-22-ac2"
-  },
-  "/docs/faq-5c7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-faq-92-c-f78"
-  },
-  "/docs/faq/official-domain-names-348": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-faq-official-domain-namesbf-4-f5a"
   },
   "/docs/features-3ee": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -178,35 +197,31 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-features-utility-commandsdf-0-c6f"
   },
-  "/docs/feedback-4ea": {
+  "/docs/getting-started-9d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-feedbacka-79-1ec"
+    "content": "content---docs-getting-started-302-242"
   },
-  "/docs/introduction-5ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introduction-708-6be"
+  "/docs/others-4af": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-featuresf-79-d0c"
   },
-  "/docs/introduction/setting-up-c79": {
+  "/docs/others/frequent-searches-262": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introduction-setting-up-227-b7b"
+    "content": "content---docs-others-frequent-searches-128-f88"
   },
-  "/docs/permissions-1f3": {
+  "/docs/others/permissions-2d9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-permissions-275-6ff"
-  },
-  "/docs/quick-start-ad9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quick-start-8-b-7-520"
+    "content": "content---docs-others-permissionsd-94-2bd"
   },
   "/docs/support-4de": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-supporta-94-2d7"
   },
-  "/-4b8": {
+  "/-969": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---privacy-771-98d"
+      "plugin": "plugin---feedback-35-a-747"
     },
-    "config": "config---versions-5-e-9-c5a"
+    "config": "config---feedback-5-e-9-c5c"
   }
 }

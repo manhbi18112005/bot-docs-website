@@ -9,6 +9,7 @@ const config = {
   tagline: 'No Name Studio VN',
   url: 'http://www.nonamestudio.xyz',
   
+  staticDirectories: ['static'],
   favicon: 'img/favicon.png',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -83,14 +84,6 @@ const config = {
         '@docusaurus/plugin-client-redirects',
         {
             redirects: [
-                {
-                    from: '/docs',
-                    to: '/docs/quick-start',
-                },
-                {
-                    from: '/docs/guides/getting-started',
-                    to: '/docs/introduction',
-                },
             ],
             createRedirects(existingPath) {
                 if (!existingPath.endsWith('/')) {
@@ -135,19 +128,9 @@ const config = {
           srcDark: 'img/title.png',
         },
         items: [
-            {
-                type: 'doc',
-                docId: 'quick-start/quick-start',
-                label: 'Docs',
-                position: 'left',
-            },
-            {
-                type: 'doc',
-                docId: 'introduction/introduction',
-                label: 'Features',
-                position: 'left',
-            },
-            {to: 'blog', label: 'News', position: 'left'}, // or position: 'right'
+          {to: 'docs', label: 'Docs', position: 'left'}, // or position: 'right'
+          {to: 'blog', label: 'News', position: 'left'}, // or position: 'right'
+          {to: 'community', label: 'Community', position: 'left'}, // or position: 'right'
             {
                 type: 'docsVersionDropdown',
                 position: 'left',

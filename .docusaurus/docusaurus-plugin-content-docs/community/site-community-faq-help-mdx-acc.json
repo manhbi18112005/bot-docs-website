@@ -15,5 +15,9 @@
     "title": "Hello",
     "description": "Give MyT some milk :>"
   },
-  "sidebar": "docs"
+  "sidebar": "community",
+  "next": {
+    "title": "Official Domain Names",
+    "permalink": "/community/faq/official-domain-names"
+  }
 }

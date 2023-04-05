@@ -7,6 +7,9 @@ export default {
   "title": "No Name Studio",
   "tagline": "No Name Studio VN",
   "url": "http://www.nonamestudio.xyz",
+  "staticDirectories": [
+    "static"
+  ],
   "favicon": "img/favicon.png",
   "baseUrl": "/",
   "organizationName": "manhbi18112005",
@@ -55,7 +58,7 @@ export default {
           }
         },
         "theme": {
-          "customCss": "/workspaces/bot-docs-website/src/css/custom.css"
+          "customCss": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\src\\css\\custom.css"
         }
       }
     ]
@@ -64,16 +67,7 @@ export default {
     [
       "@docusaurus/plugin-client-redirects",
       {
-        "redirects": [
-          {
-            "from": "/docs",
-            "to": "/docs/quick-start"
-          },
-          {
-            "from": "/docs/guides/getting-started",
-            "to": "/docs/introduction"
-          }
-        ]
+        "redirects": []
       }
     ],
     [
@@ -88,7 +82,7 @@ export default {
         "id": "community",
         "path": "community",
         "routeBasePath": "community",
-        "sidebarPath": "/workspaces/bot-docs-website/sidebarsCommunity.js"
+        "sidebarPath": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\sidebarsCommunity.js"
       }
     ]
   ],
@@ -110,20 +104,18 @@ export default {
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "quick-start/quick-start",
+          "to": "docs",
           "label": "Docs",
-          "position": "left"
-        },
-        {
-          "type": "doc",
-          "docId": "introduction/introduction",
-          "label": "Features",
           "position": "left"
         },
         {
           "to": "blog",
           "label": "News",
+          "position": "left"
+        },
+        {
+          "to": "community",
+          "label": "Community",
           "position": "left"
         },
         {
@@ -438,9 +430,6 @@ export default {
   },
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
-  "staticDirectories": [
-    "static"
-  ],
   "themes": [],
   "scripts": [],
   "headTags": [],

@@ -1,7 +1,7 @@
 {
   "unversionedId": "donate",
   "id": "donate",
-  "title": "Donate",
+  "title": "Donating",
   "description": "Give MyT some milk :>",
   "source": "@site/docs/donate.mdx",
   "sourceDirName": ".",
@@ -13,12 +13,20 @@
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055,
   "formattedLastUpdatedAt": "Oct 14, 2018",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
     "id": "donate",
-    "title": "Donate",
+    "title": "Donating",
     "description": "Give MyT some milk :>",
-    "sidebar_position": 2,
-    "slug": "/donate"
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting-started"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/docs/features"
   }
 }

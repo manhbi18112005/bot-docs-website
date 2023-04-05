@@ -4,114 +4,138 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'f2c'),
+    component: ComponentCreator('/__docusaurus/debug', '833'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '490'),
+    component: ComponentCreator('/__docusaurus/debug/config', '571'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '633'),
+    component: ComponentCreator('/__docusaurus/debug/content', '299'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'dc2'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '2d7'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '9e3'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '295'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88a'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '2db'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '721'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'cf1'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'd4a'),
+    component: ComponentCreator('/blog', 'd12'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '484'),
+    component: ComponentCreator('/blog/archive', '54b'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '1ba'),
+    component: ComponentCreator('/blog/tags', '4d2'),
     exact: true
   },
   {
     path: '/blog/tags/bot',
-    component: ComponentCreator('/blog/tags/bot', 'b22'),
+    component: ComponentCreator('/blog/tags/bot', '882'),
     exact: true
   },
   {
     path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'f60'),
+    component: ComponentCreator('/blog/welcome', '43a'),
+    exact: true
+  },
+  {
+    path: '/feedback',
+    component: ComponentCreator('/feedback', '246'),
     exact: true
   },
   {
     path: '/privacy',
-    component: ComponentCreator('/privacy', '1c6'),
+    component: ComponentCreator('/privacy', '777'),
     exact: true
   },
   {
     path: '/privacy-cookie',
-    component: ComponentCreator('/privacy-cookie', 'ba2'),
+    component: ComponentCreator('/privacy-cookie', 'dd5'),
     exact: true
   },
   {
     path: '/term',
-    component: ComponentCreator('/term', '1cd'),
+    component: ComponentCreator('/term', 'fea'),
     exact: true
   },
   {
     path: '/versions',
-    component: ComponentCreator('/versions', '3eb'),
+    component: ComponentCreator('/versions', 'c93'),
     exact: true
   },
   {
     path: '/community',
-    component: ComponentCreator('/community', '00a'),
+    component: ComponentCreator('/community', '3d2'),
     routes: [
       {
-        path: '/community/faq/help',
-        component: ComponentCreator('/community/faq/help', 'bfe'),
+        path: '/community',
+        component: ComponentCreator('/community', '022'),
         exact: true,
-        sidebar: "docs"
+        sidebar: "community"
+      },
+      {
+        path: '/community/faq',
+        component: ComponentCreator('/community/faq', '3a5'),
+        exact: true,
+        sidebar: "community"
+      },
+      {
+        path: '/community/faq/dashboard-logout',
+        component: ComponentCreator('/community/faq/dashboard-logout', '47e'),
+        exact: true,
+        sidebar: "community"
+      },
+      {
+        path: '/community/faq/nonamebot-is-offline',
+        component: ComponentCreator('/community/faq/nonamebot-is-offline', 'b03'),
+        exact: true,
+        sidebar: "community"
+      },
+      {
+        path: '/community/faq/official-domain-names',
+        component: ComponentCreator('/community/faq/official-domain-names', '1c2'),
+        exact: true,
+        sidebar: "community"
       }
     ]
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a2c'),
+    component: ComponentCreator('/docs', 'd2d'),
     routes: [
       {
-        path: '/docs/donate',
-        component: ComponentCreator('/docs/donate', '28c'),
-        exact: true
-      },
-      {
-        path: '/docs/faq',
-        component: ComponentCreator('/docs/faq', '5c7'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '640'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/faq/official-domain-names',
-        component: ComponentCreator('/docs/faq/official-domain-names', '348'),
+        path: '/docs/donate',
+        component: ComponentCreator('/docs/donate', 'e38'),
         exact: true,
         sidebar: "docs"
       },
@@ -158,30 +182,26 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/docs/feedback',
-        component: ComponentCreator('/docs/feedback', '4ea'),
-        exact: true
-      },
-      {
-        path: '/docs/introduction',
-        component: ComponentCreator('/docs/introduction', '5ec'),
+        path: '/docs/getting-started',
+        component: ComponentCreator('/docs/getting-started', '9d0'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/introduction/setting-up',
-        component: ComponentCreator('/docs/introduction/setting-up', 'c79'),
+        path: '/docs/others',
+        component: ComponentCreator('/docs/others', '4af'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/permissions',
-        component: ComponentCreator('/docs/permissions', '1f3'),
-        exact: true
+        path: '/docs/others/frequent-searches',
+        component: ComponentCreator('/docs/others/frequent-searches', '262'),
+        exact: true,
+        sidebar: "docs"
       },
       {
-        path: '/docs/quick-start',
-        component: ComponentCreator('/docs/quick-start', 'ad9'),
+        path: '/docs/others/permissions',
+        component: ComponentCreator('/docs/others/permissions', '2d9'),
         exact: true,
         sidebar: "docs"
       },
@@ -194,7 +214,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '4b8'),
+    component: ComponentCreator('/', '969'),
     exact: true
   },
   {

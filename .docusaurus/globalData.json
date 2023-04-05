@@ -8,15 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "quick-start/quick-start",
+          "mainDocId": "index",
           "docs": [
             {
               "id": "donate",
-              "path": "/docs/donate"
-            },
-            {
-              "id": "faq/official-domain-names",
-              "path": "/docs/faq/official-domain-names",
+              "path": "/docs/donate",
               "sidebar": "docs"
             },
             {
@@ -50,26 +46,23 @@
               "sidebar": "docs"
             },
             {
-              "id": "feedback",
-              "path": "/docs/feedback"
-            },
-            {
-              "id": "introduction/introduction",
-              "path": "/docs/introduction/",
+              "id": "getting-started",
+              "path": "/docs/getting-started",
               "sidebar": "docs"
             },
             {
-              "id": "introduction/setting-up",
-              "path": "/docs/introduction/setting-up",
+              "id": "index",
+              "path": "/docs/",
               "sidebar": "docs"
             },
             {
-              "id": "permissions",
-              "path": "/docs/permissions"
+              "id": "others/frequent-searches",
+              "path": "/docs/others/frequent-searches",
+              "sidebar": "docs"
             },
             {
-              "id": "quick-start/quick-start",
-              "path": "/docs/quick-start/",
+              "id": "others/permissions",
+              "path": "/docs/others/permissions",
               "sidebar": "docs"
             },
             {
@@ -82,8 +75,8 @@
               "sidebar": "docs"
             },
             {
-              "id": "/faq",
-              "path": "/docs/faq",
+              "id": "/others",
+              "path": "/docs/others",
               "sidebar": "docs"
             }
           ],
@@ -91,8 +84,8 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/docs/quick-start/",
-                "label": "quick-start/quick-start"
+                "path": "/docs/",
+                "label": "index"
               }
             }
           }
@@ -108,20 +101,40 @@
           "label": "Next",
           "isLast": true,
           "path": "/community",
-          "mainDocId": "faq/help",
+          "mainDocId": "index",
           "docs": [
             {
-              "id": "faq/help",
-              "path": "/community/faq/help",
-              "sidebar": "docs"
+              "id": "faq/dashboard-logout",
+              "path": "/community/faq/dashboard-logout",
+              "sidebar": "community"
+            },
+            {
+              "id": "faq/nonamebot-is-offline",
+              "path": "/community/faq/nonamebot-is-offline",
+              "sidebar": "community"
+            },
+            {
+              "id": "faq/official-domain-names",
+              "path": "/community/faq/official-domain-names",
+              "sidebar": "community"
+            },
+            {
+              "id": "index",
+              "path": "/community/",
+              "sidebar": "community"
+            },
+            {
+              "id": "/faq",
+              "path": "/community/faq",
+              "sidebar": "community"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "docs": {
+            "community": {
               "link": {
-                "path": "/community/faq/help",
-                "label": "faq/help"
+                "path": "/community/",
+                "label": "index"
               }
             }
           }

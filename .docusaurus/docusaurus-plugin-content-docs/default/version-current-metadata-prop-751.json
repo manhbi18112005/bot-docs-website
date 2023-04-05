@@ -11,24 +11,21 @@
     "docs": [
       {
         "type": "link",
-        "label": "Quick Start",
-        "href": "/docs/quick-start/",
-        "docId": "quick-start/quick-start"
+        "label": "Introduction",
+        "href": "/docs/",
+        "docId": "index"
       },
       {
-        "type": "category",
-        "label": "Introduction",
-        "collapsed": false,
-        "items": [
-          {
-            "type": "link",
-            "label": "Setting up",
-            "href": "/docs/introduction/setting-up",
-            "docId": "introduction/setting-up"
-          }
-        ],
-        "collapsible": true,
-        "href": "/docs/introduction/"
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/docs/getting-started",
+        "docId": "getting-started"
+      },
+      {
+        "type": "link",
+        "label": "Donating",
+        "href": "/docs/donate",
+        "docId": "donate"
       },
       {
         "type": "category",
@@ -80,31 +77,32 @@
       },
       {
         "type": "category",
-        "label": "FAQ & Troubleshooting",
+        "label": "Others",
         "items": [
           {
             "type": "link",
-            "label": "Official Domain Names",
-            "href": "/docs/faq/official-domain-names",
-            "docId": "faq/official-domain-names"
+            "label": "Frequent Searches",
+            "href": "/docs/others/frequent-searches",
+            "docId": "others/frequent-searches"
+          },
+          {
+            "type": "link",
+            "label": "Permissions",
+            "href": "/docs/others/permissions",
+            "docId": "others/permissions"
           }
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/docs/faq"
+        "href": "/docs/others"
       }
     ]
   },
   "docs": {
     "donate": {
       "id": "donate",
-      "title": "Donate",
-      "description": "Give MyT some milk :>"
-    },
-    "faq/official-domain-names": {
-      "id": "faq/official-domain-names",
-      "title": "Official Domain Names",
-      "description": "Official Domain Names",
+      "title": "Donating",
+      "description": "Give MyT some milk :>",
       "sidebar": "docs"
     },
     "features/game-commands": {
@@ -143,32 +141,28 @@
       "description": "Utility Commands",
       "sidebar": "docs"
     },
-    "feedback": {
-      "id": "feedback",
-      "title": "Feedback",
-      "description": "Do you have any problems?"
+    "getting-started": {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "Give MyT some milk :>",
+      "sidebar": "docs"
     },
-    "introduction/introduction": {
-      "id": "introduction/introduction",
+    "index": {
+      "id": "index",
       "title": "Introduction",
       "description": "Welcome to the official help center of No Name Studio!",
       "sidebar": "docs"
     },
-    "introduction/setting-up": {
-      "id": "introduction/setting-up",
-      "title": "Setting up",
-      "description": "Invite the bot",
+    "others/frequent-searches": {
+      "id": "others/frequent-searches",
+      "title": "Frequent Searches",
+      "description": "Frequent Searches",
       "sidebar": "docs"
     },
-    "permissions": {
-      "id": "permissions",
+    "others/permissions": {
+      "id": "others/permissions",
       "title": "Permissions",
-      "description": "Here are some permissions that No Name needs to act in your servers."
-    },
-    "quick-start/quick-start": {
-      "id": "quick-start/quick-start",
-      "title": "Quick Start",
-      "description": "Getting Started with No Name Bot",
+      "description": "Here are some permissions that No Name needs to act in your servers.",
       "sidebar": "docs"
     },
     "support": {

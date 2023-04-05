@@ -13,14 +13,14 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/bot-docs-website/sidebarsDocs.js",
-          "contentPath": "/workspaces/bot-docs-website/docs",
-          "contentPathLocalized": "/workspaces/bot-docs-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\sidebarsDocs.js",
+          "contentPath": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\docs",
+          "contentPathLocalized": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "donate",
               "id": "donate",
-              "title": "Donate",
+              "title": "Donating",
               "description": "Give MyT some milk :>",
               "source": "@site/docs/donate.mdx",
               "sourceDirName": ".",
@@ -32,39 +32,21 @@
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
                 "id": "donate",
-                "title": "Donate",
+                "title": "Donating",
                 "description": "Give MyT some milk :>",
-                "sidebar_position": 2,
-                "slug": "/donate"
-              }
-            },
-            {
-              "unversionedId": "faq/official-domain-names",
-              "id": "faq/official-domain-names",
-              "title": "Official Domain Names",
-              "description": "Official Domain Names",
-              "source": "@site/docs/faq/official-domain-names.mdx",
-              "sourceDirName": "faq",
-              "slug": "/faq/official-domain-names",
-              "permalink": "/docs/faq/official-domain-names",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "id": "official-domain-names",
-                "title": "Official Domain Names",
-                "description": "Official Domain Names"
+                "sidebar_position": 3
               },
               "sidebar": "docs",
               "previous": {
-                "title": "FAQ & Troubleshooting",
-                "permalink": "/docs/faq"
+                "title": "Getting Started",
+                "permalink": "/docs/getting-started"
+              },
+              "next": {
+                "title": "Features",
+                "permalink": "/docs/features"
               }
             },
             {
@@ -243,42 +225,78 @@
                 "permalink": "/docs/features/other-commands"
               },
               "next": {
-                "title": "FAQ & Troubleshooting",
-                "permalink": "/docs/faq"
+                "title": "Others",
+                "permalink": "/docs/others"
               }
             },
             {
-              "unversionedId": "feedback",
-              "id": "feedback",
-              "title": "Feedback",
-              "description": "Do you have any problems?",
-              "source": "@site/docs/feedback.mdx",
+              "unversionedId": "getting-started",
+              "id": "getting-started",
+              "title": "Getting Started",
+              "description": "Give MyT some milk :>",
+              "source": "@site/docs/getting-started.mdx",
               "sourceDirName": ".",
-              "slug": "/feedback",
-              "permalink": "/docs/feedback",
+              "slug": "/getting-started",
+              "permalink": "/docs/getting-started",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
               "frontMatter": {
-                "id": "feedback",
-                "title": "Feedback",
-                "description": "Do you have any problems?",
-                "slug": "/feedback",
-                "sidebar_label": "Feedback"
+                "id": "getting-started",
+                "title": "Getting Started",
+                "description": "Give MyT some milk :>",
+                "sidebar_position": 2
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Donating",
+                "permalink": "/docs/donate"
               }
             },
             {
-              "unversionedId": "introduction/introduction",
-              "id": "introduction/introduction",
+              "unversionedId": "index",
+              "id": "index",
               "title": "Introduction",
               "description": "Welcome to the official help center of No Name Studio!",
-              "source": "@site/docs/introduction/index.mdx",
-              "sourceDirName": "introduction",
-              "slug": "/introduction/",
-              "permalink": "/docs/introduction/",
+              "source": "@site/docs/index.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Welcome to the official help center of No Name Studio!",
+                "sidebar_position": 1
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/getting-started"
+              }
+            },
+            {
+              "unversionedId": "others/frequent-searches",
+              "id": "others/frequent-searches",
+              "title": "Frequent Searches",
+              "description": "Frequent Searches",
+              "source": "@site/docs/others/frequent-searches.mdx",
+              "sourceDirName": "others",
+              "slug": "/others/frequent-searches",
+              "permalink": "/docs/others/frequent-searches",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -286,59 +304,29 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
               "frontMatter": {
-                "id": "introduction",
-                "title": "Introduction",
-                "description": "Welcome to the official help center of No Name Studio!"
+                "id": "frequent-searches",
+                "title": "Frequent Searches",
+                "description": "Frequent Searches"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Quick Start",
-                "permalink": "/docs/quick-start/"
+                "title": "Others",
+                "permalink": "/docs/others"
               },
               "next": {
-                "title": "Setting up",
-                "permalink": "/docs/introduction/setting-up"
+                "title": "Permissions",
+                "permalink": "/docs/others/permissions"
               }
             },
             {
-              "unversionedId": "introduction/setting-up",
-              "id": "introduction/setting-up",
-              "title": "Setting up",
-              "description": "Invite the bot",
-              "source": "@site/docs/introduction/setting-up.mdx",
-              "sourceDirName": "introduction",
-              "slug": "/introduction/setting-up",
-              "permalink": "/docs/introduction/setting-up",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "id": "setting-up",
-                "title": "Setting up",
-                "description": "Invite the bot"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/introduction/"
-              },
-              "next": {
-                "title": "Features",
-                "permalink": "/docs/features"
-              }
-            },
-            {
-              "unversionedId": "permissions",
-              "id": "permissions",
+              "unversionedId": "others/permissions",
+              "id": "others/permissions",
               "title": "Permissions",
               "description": "Here are some permissions that No Name needs to act in your servers.",
-              "source": "@site/docs/permission.mdx",
-              "sourceDirName": ".",
-              "slug": "/permissions",
-              "permalink": "/docs/permissions",
+              "source": "@site/docs/others/permission.mdx",
+              "sourceDirName": "others",
+              "slug": "/others/permissions",
+              "permalink": "/docs/others/permissions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -349,32 +337,11 @@
                 "id": "permissions",
                 "title": "Permissions",
                 "description": "Here are some permissions that No Name needs to act in your servers."
-              }
-            },
-            {
-              "unversionedId": "quick-start/quick-start",
-              "id": "quick-start/quick-start",
-              "title": "Quick Start",
-              "description": "Getting Started with No Name Bot",
-              "source": "@site/docs/quick-start/index.mdx",
-              "sourceDirName": "quick-start",
-              "slug": "/quick-start/",
-              "permalink": "/docs/quick-start/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "id": "quick-start",
-                "title": "Quick Start",
-                "description": "Getting Started with No Name Bot"
               },
               "sidebar": "docs",
-              "next": {
-                "title": "Introduction",
-                "permalink": "/docs/introduction/"
+              "previous": {
+                "title": "Frequent Searches",
+                "permalink": "/docs/others/frequent-searches"
               }
             },
             {
@@ -404,23 +371,15 @@
             "docs": [
               {
                 "type": "doc",
-                "id": "quick-start/quick-start"
+                "id": "index"
               },
               {
-                "type": "category",
-                "label": "Introduction",
-                "collapsed": false,
-                "link": {
-                  "type": "doc",
-                  "id": "introduction/introduction"
-                },
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "introduction/setting-up"
-                  }
-                ],
-                "collapsible": true
+                "type": "doc",
+                "id": "getting-started"
+              },
+              {
+                "type": "doc",
+                "id": "donate"
               },
               {
                 "type": "category",
@@ -473,21 +432,24 @@
               },
               {
                 "type": "category",
-                "label": "FAQ & Troubleshooting",
+                "label": "Others",
                 "link": {
                   "type": "generated-index",
-                  "title": "FAQ & Troubleshooting",
-                  "slug": "/faq",
+                  "title": "Others",
+                  "slug": "/others",
                   "keywords": [
-                    "faq",
-                    "troubleshooting"
+                    "others"
                   ],
-                  "permalink": "/docs/faq"
+                  "permalink": "/docs/others"
                 },
                 "items": [
                   {
                     "type": "doc",
-                    "id": "faq/official-domain-names"
+                    "id": "others/frequent-searches"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "others/permissions"
                   }
                 ],
                 "collapsed": true,
@@ -511,36 +473,148 @@
           "tagsPath": "/community/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/bot-docs-website/sidebarsCommunity.js",
-          "contentPath": "/workspaces/bot-docs-website/community",
-          "contentPathLocalized": "/workspaces/bot-docs-website/i18n/en/docusaurus-plugin-content-docs-community/current",
+          "sidebarFilePath": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\sidebarsCommunity.js",
+          "contentPath": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\community",
+          "contentPathLocalized": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\i18n\\en\\docusaurus-plugin-content-docs-community\\current",
           "docs": [
             {
-              "unversionedId": "faq/help",
-              "id": "faq/help",
-              "title": "Hello",
-              "description": "Give MyT some milk :>",
-              "source": "@site/community/faq/help.mdx",
+              "unversionedId": "faq/dashboard-logout",
+              "id": "faq/dashboard-logout",
+              "title": "Dashboard logout",
+              "description": "Dashboard logout",
+              "source": "@site/community/faq/dashboard-logout.mdx",
               "sourceDirName": "faq",
-              "slug": "/faq/help",
-              "permalink": "/community/faq/help",
+              "slug": "/faq/dashboard-logout",
+              "permalink": "/community/faq/dashboard-logout",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "id": "help",
-                "title": "Hello",
-                "description": "Give MyT some milk :>"
+                "id": "dashboard-logout",
+                "title": "Dashboard logout",
+                "description": "Dashboard logout"
               },
-              "sidebar": "docs"
+              "sidebar": "community",
+              "previous": {
+                "title": "FAQ & Troubleshooting",
+                "permalink": "/community/faq"
+              },
+              "next": {
+                "title": "No Name Bot is Offline",
+                "permalink": "/community/faq/nonamebot-is-offline"
+              }
+            },
+            {
+              "unversionedId": "faq/nonamebot-is-offline",
+              "id": "faq/nonamebot-is-offline",
+              "title": "No Name Bot is Offline",
+              "description": "Not responding?",
+              "source": "@site/community/faq/nonamebot-is-offline.mdx",
+              "sourceDirName": "faq",
+              "slug": "/faq/nonamebot-is-offline",
+              "permalink": "/community/faq/nonamebot-is-offline",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "nonamebot-is-offline",
+                "title": "No Name Bot is Offline",
+                "description": "Not responding?"
+              },
+              "sidebar": "community",
+              "previous": {
+                "title": "Dashboard logout",
+                "permalink": "/community/faq/dashboard-logout"
+              },
+              "next": {
+                "title": "Official Domain Names",
+                "permalink": "/community/faq/official-domain-names"
+              }
+            },
+            {
+              "unversionedId": "faq/official-domain-names",
+              "id": "faq/official-domain-names",
+              "title": "Official Domain Names",
+              "description": "Official Domain Names",
+              "source": "@site/community/faq/official-domain-names.mdx",
+              "sourceDirName": "faq",
+              "slug": "/faq/official-domain-names",
+              "permalink": "/community/faq/official-domain-names",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "official-domain-names",
+                "title": "Official Domain Names",
+                "description": "Official Domain Names"
+              },
+              "sidebar": "community",
+              "previous": {
+                "title": "No Name Bot is Offline",
+                "permalink": "/community/faq/nonamebot-is-offline"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Introduction",
+              "description": "Welcome to the official help center of No Name Studio!",
+              "source": "@site/community/index.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/community/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Welcome to the official help center of No Name Studio!",
+                "sidebar_position": 1
+              },
+              "sidebar": "community",
+              "next": {
+                "title": "FAQ & Troubleshooting",
+                "permalink": "/community/faq"
+              }
             }
           ],
           "drafts": [],
           "sidebars": {
-            "docs": [
+            "community": [
               {
                 "type": "doc",
-                "id": "faq/help"
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "FAQ & Troubleshooting",
+                "link": {
+                  "type": "generated-index",
+                  "title": "FAQ & Troubleshooting",
+                  "slug": "/faq",
+                  "keywords": [
+                    "faq",
+                    "troubleshooting"
+                  ],
+                  "permalink": "/community/faq"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "faq/dashboard-logout"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq/nonamebot-is-offline"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq/official-domain-names"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           }
@@ -638,6 +712,11 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
+      {
+        "type": "jsx",
+        "permalink": "/feedback",
+        "source": "@site/src/pages/feedback.js"
+      },
       {
         "type": "jsx",
         "permalink": "/",
