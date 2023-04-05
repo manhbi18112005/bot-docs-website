@@ -36,7 +36,7 @@ export default {
         "docs": {
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
-          "sidebarPath": "./sidebars.js",
+          "sidebarPath": "./sidebarsDocs.js",
           "rehypePlugins": [
             null
           ],
@@ -55,7 +55,7 @@ export default {
           }
         },
         "theme": {
-          "customCss": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\my-website\\src\\css\\custom.css"
+          "customCss": "/workspaces/bot-docs-website/src/css/custom.css"
         }
       }
     ]
@@ -80,6 +80,15 @@ export default {
       "docusaurus-gtm-plugin",
       {
         "id": "GTM-TXF92FT"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "community",
+        "path": "community",
+        "routeBasePath": "community",
+        "sidebarPath": "/workspaces/bot-docs-website/sidebarsCommunity.js"
       }
     ]
   ],

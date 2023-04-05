@@ -99,6 +99,35 @@
         }
       ],
       "breadcrumbs": true
+    },
+    "community": {
+      "path": "/community",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/community",
+          "mainDocId": "faq/help",
+          "docs": [
+            {
+              "id": "faq/help",
+              "path": "/community/faq/help",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/community/faq/help",
+                "label": "faq/help"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
     }
   }
 }

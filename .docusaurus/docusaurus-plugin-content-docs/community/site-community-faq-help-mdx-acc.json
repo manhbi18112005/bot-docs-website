@@ -1,0 +1,19 @@
+{
+  "unversionedId": "faq/help",
+  "id": "faq/help",
+  "title": "Hello",
+  "description": "Give MyT some milk :>",
+  "source": "@site/community/faq/help.mdx",
+  "sourceDirName": "faq",
+  "slug": "/faq/help",
+  "permalink": "/community/faq/help",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "help",
+    "title": "Hello",
+    "description": "Give MyT some milk :>"
+  },
+  "sidebar": "docs"
+}

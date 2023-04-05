@@ -47,7 +47,7 @@ const config = {
                 showLastUpdateAuthor: true,
                 showLastUpdateTime: true,
                 //path: '../docs',
-                sidebarPath: './sidebars.js',
+                sidebarPath: './sidebarsDocs.js',
                 rehypePlugins: [externalLinkProcessor],
                 disableVersioning: true,
             },
@@ -106,6 +106,16 @@ const config = {
         {
             id: 'GTM-TXF92FT',
         },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'community',
+        path: 'community',
+        routeBasePath: 'community',
+        sidebarPath: require.resolve('./sidebarsCommunity.js'),
+        // ... other options
+      },
     ],
   ],
   themeConfig:

@@ -1,6 +1,6 @@
 export default [
-  require('C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\my-website\\node_modules\\infima\\dist\\css\\default\\default.css'),
-  require('C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\my-website\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages'),
-  require('C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\my-website\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress'),
-  require('C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\my-website\\src\\css\\custom.css'),
+  require('/workspaces/bot-docs-website/node_modules/infima/dist/css/default/default.css'),
+  require('/workspaces/bot-docs-website/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
+  require('/workspaces/bot-docs-website/node_modules/@docusaurus/theme-classic/lib/nprogress'),
+  require('/workspaces/bot-docs-website/src/css/custom.css'),
 ];
