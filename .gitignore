@@ -35,6 +35,8 @@ build
 # Dependency directories
 node_modules/
 jspm_packages/
+.docusaurus/
+.docusaurus
 
 # TypeScript v1 declaration files
 typings/
@@ -74,5 +76,3 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
-.docusaurus/

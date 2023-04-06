@@ -552,6 +552,32 @@
               "previous": {
                 "title": "No Name Bot is Offline",
                 "permalink": "/community/faq/nonamebot-is-offline"
+              },
+              "next": {
+                "title": "Suggestions and Feedback",
+                "permalink": "/community/faq/suggestions-and-feedback"
+              }
+            },
+            {
+              "unversionedId": "faq/suggestions-and-feedback",
+              "id": "faq/suggestions-and-feedback",
+              "title": "Suggestions and Feedback",
+              "description": "So you got something amazing you think should be in the bot? Excellent, we love to hear all the ideas people come up with and want to see added to the bot!",
+              "source": "@site/community/faq/suggestions-and-feedback.mdx",
+              "sourceDirName": "faq",
+              "slug": "/faq/suggestions-and-feedback",
+              "permalink": "/community/faq/suggestions-and-feedback",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "suggestions-and-feedback",
+                "title": "Suggestions and Feedback"
+              },
+              "sidebar": "community",
+              "previous": {
+                "title": "Official Domain Names",
+                "permalink": "/community/faq/official-domain-names"
               }
             },
             {
@@ -611,6 +637,10 @@
                   {
                     "type": "doc",
                     "id": "faq/official-domain-names"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq/suggestions-and-feedback"
                   }
                 ],
                 "collapsed": true,

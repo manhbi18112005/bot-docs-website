@@ -36,6 +36,12 @@
             "label": "Official Domain Names",
             "href": "/community/faq/official-domain-names",
             "docId": "faq/official-domain-names"
+          },
+          {
+            "type": "link",
+            "label": "Suggestions and Feedback",
+            "href": "/community/faq/suggestions-and-feedback",
+            "docId": "faq/suggestions-and-feedback"
           }
         ],
         "collapsed": true,
@@ -61,6 +67,12 @@
       "id": "faq/official-domain-names",
       "title": "Official Domain Names",
       "description": "Official Domain Names",
+      "sidebar": "community"
+    },
+    "faq/suggestions-and-feedback": {
+      "id": "faq/suggestions-and-feedback",
+      "title": "Suggestions and Feedback",
+      "description": "So you got something amazing you think should be in the bot? Excellent, we love to hear all the ideas people come up with and want to see added to the bot!",
       "sidebar": "community"
     },
     "index": {

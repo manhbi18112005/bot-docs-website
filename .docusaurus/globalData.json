@@ -119,6 +119,11 @@
               "sidebar": "community"
             },
             {
+              "id": "faq/suggestions-and-feedback",
+              "path": "/community/faq/suggestions-and-feedback",
+              "sidebar": "community"
+            },
+            {
               "id": "index",
               "path": "/community/",
               "sidebar": "community"

@@ -127,7 +127,7 @@
     },
     "config": "config---feedback-5-e-9-c5c"
   },
-  "/community-3d2": {
+  "/community-725": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---community-459-e74"
@@ -153,6 +153,10 @@
   "/community/faq/official-domain-names-1c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---community-faq-official-domain-names-54-e-f93"
+  },
+  "/community/faq/suggestions-and-feedback-6e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-faq-suggestions-and-feedbackf-8-e-3a6"
   },
   "/docs-d2d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
@@ -203,7 +207,7 @@
   },
   "/docs/others-4af": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-featuresf-79-d0c"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-othersf-79-4c0"
   },
   "/docs/others/frequent-searches-262": {
     "__comp": "__comp---theme-doc-item-178-a40",

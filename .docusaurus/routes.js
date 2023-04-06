@@ -89,7 +89,7 @@ export default [
   },
   {
     path: '/community',
-    component: ComponentCreator('/community', '3d2'),
+    component: ComponentCreator('/community', '725'),
     routes: [
       {
         path: '/community',
@@ -118,6 +118,12 @@ export default [
       {
         path: '/community/faq/official-domain-names',
         component: ComponentCreator('/community/faq/official-domain-names', '1c2'),
+        exact: true,
+        sidebar: "community"
+      },
+      {
+        path: '/community/faq/suggestions-and-feedback',
+        component: ComponentCreator('/community/faq/suggestions-and-feedback', '6e6'),
         exact: true,
         sidebar: "community"
       }
