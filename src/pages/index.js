@@ -35,7 +35,7 @@ function Hero() {
                             <div className={styles.heroButtons}>
                                 
                                 <Link to="docs" className={styles.getStarted}>Get Started</Link>
-                                <Link to="https://botapp.nonamestudio.com/dashboard" className={styles.inviteBot}>Dashboard</Link>
+                                <Link to="https://botapp.nonamestudio.xyz/dashboard" className={styles.inviteBot}>Dashboard</Link>
                                 <iframe src="https://ghbtns.com/github-btn.html?user=manhbi18112005&repo=BotNoName&type=star&count=true&size=large" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
                             </div>
                         </div>

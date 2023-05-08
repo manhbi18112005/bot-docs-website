@@ -160,7 +160,7 @@ const config = {
                 className: 'icon',
             },
             {
-                href: 'https://bot.nonamestudio.xyz/dashboard',
+                href: 'https://botapp.nonamestudio.xyz/dashboard',
                 label: 'Dashboard',
                 title: 'No Name Bot Main App',
                 position: 'right',
