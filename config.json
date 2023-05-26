@@ -1,10 +1,10 @@
 {
     "index_name": "No Name Bot Documentation",
     "start_urls": [
-      "https://help.nonamestudio.xyz/"
+      "https://help.nnsvn.me/"
     ],
     "sitemap_urls": [
-      "https://help.nonamestudio.xyz/sitemap.xml"
+      "https://help.nnsvn.me/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [

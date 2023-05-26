@@ -10,7 +10,7 @@ hide_table_of_contents: false
 
 ## What the User should know at a glance
 
-* This Platform and the Features are provided by: **No Name Studio**, Vietnam. **Contact email**: *support@nonamestudio.xyz*
+* This Platform and the Features are provided by: **No Name Studio**, Vietnam. **Contact email**: *support@nnsvn.me*
 
 * The right of withdrawal only applies to European Consumers. The right of withdrawal, also commonly called the right of cancellation in the UK, is consistently referred to as “the right of withdrawal” within this document.
 
@@ -21,13 +21,13 @@ hide_table_of_contents: false
 ## 1. PURPOSE
 
 The purpose of these terms of use (the **“Terms”**) is to define the terms and conditions of use applicable to the users (a **“User”**, **“Features User”** **“you”** or **“your”**), when using our software application (bot) running automated tasks over Discord (the **“Bot”** or the **“No Name Studio”**)), our
-platform located at https://bot.nonamestudio.xyz/, including the Application Program Interfaces (API) (the **“Platform”** or the **“Website”**) and related features offered from time to time on the Platform, including through the License (the **“Features”**).
+platform located at https://bot.nnsvn.me/, including the Application Program Interfaces (API) (the **“Platform”** or the **“Website”**) and related features offered from time to time on the Platform, including through the License (the **“Features”**).
 
 ## 2. ACCEPTANCE OF TERMS – CHANGE OF TERMS
 
 Before using any of the Features, you must first agree to these Terms. By accessing the Features or by otherwise using them, you expressly confirm that you fully and irrevocably agree to these Terms.
 
-You also agree that personal data and electronic communications on our Platform or through the use of the Features will be processed in accordance with our data privacy policy, available on https://help.nonamestudio.xyz/privacy.html
+You also agree that personal data and electronic communications on our Platform or through the use of the Features will be processed in accordance with our data privacy policy, available on https://help.nnsvn.me/privacy.html
 
 We reserve the right, at our sole discretion, to modify or replace the Terms at any time. The most current version of these Terms will be posted on the Platform. You shall be responsible for reviewing and becoming familiar with any such modifications.
 
@@ -422,7 +422,7 @@ To learn more about the use of their Personal Data, Users may refer to the priva
 By using the Features, you agree that we may provide you with any notices or other communications, including marketing, relating to your use of the Features: (a) via email (in each case to the address that you provide), SMS message, or telephone call (in each case to the phone
 number that you provide), (b) by posting to the Website and/or (c) via Discord. For notices made by email, the date of receipt will be deemed the date on which such notice is transmitted. You will always be given the option to unsubscribe from receiving any marketing material from us.
 
-Notices to us should be sent electronically to at: support@nonamestudio.xyz
+Notices to us should be sent electronically to at: support@nnsvn.me
 
 ### 9.11. Section Titles
 
@@ -462,7 +462,7 @@ As a result, any European Consumer can use such platform for resolving any dispu
 ##### Example withdrawal form
 Addressed to:
 No Name Studio, Vietnam
-***support@nonamestudio.xyz***
+***support@nnsvn.me***
 I/We hereby give notice that I/we withdraw from my/our contract of sale of the following goods/for the
 provision of the following service:
 _____________________________________________ (insert a description of the goods/services that are

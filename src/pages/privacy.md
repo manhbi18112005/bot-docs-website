@@ -15,7 +15,7 @@ This Privacy Policy outlines how **No Name Studio** collects data from users and
 
 No Name Studio, Thanh Hoa 440000, Vietnam
 
-Registered users may contact us to make enquiries or to the accuracy of their personally identifiable information and to request the update, correction or deletion of such information should they wish to do so. Any query, comments or concerns can be sent to us by email at: support@nonamestudio.xyz
+Registered users may contact us to make enquiries or to the accuracy of their personally identifiable information and to request the update, correction or deletion of such information should they wish to do so. Any query, comments or concerns can be sent to us by email at: support@nnsvn.me
 
 ## Types of Data collected
 

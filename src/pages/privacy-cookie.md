@@ -60,7 +60,7 @@ Users may also manage certain categories of Trackers used on mobile apps by opti
 ## Owner and Data Controller
 No Name Studio, Thanh Hoa 440000, Vietnam  
 
-Registered users may contact us to make enquiries or to the accuracy of their personally identifiable information and to request the update, correction or deletion of such information should they wish to do so. Any query, comments or concerns can be sent to us by email at: support@nonamestudio.xyz  
+Registered users may contact us to make enquiries or to the accuracy of their personally identifiable information and to request the update, correction or deletion of such information should they wish to do so. Any query, comments or concerns can be sent to us by email at: support@nnsvn.me  
 
 
 Since the use of third-party Trackers through this Website cannot be fully controlled by the Owner, any specific references to third-party Trackers are to be considered indicative. In order to obtain complete information, Users are kindly requested to consult the privacy policies of the respective third-party services listed in this document.  

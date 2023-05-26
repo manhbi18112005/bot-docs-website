@@ -35,7 +35,7 @@ function Hero() {
                             <div className={styles.heroButtons}>
                                 
                                 <Link to="docs" className={styles.getStarted}>Get Started</Link>
-                                <Link to="https://botapp.nonamestudio.xyz/dashboard" className={styles.inviteBot}>Dashboard</Link>
+                                <Link to="https://botapp.nnsvn.me/dashboard" className={styles.inviteBot}>Dashboard</Link>
                                 <iframe src="https://ghbtns.com/github-btn.html?user=manhbi18112005&repo=BotNoName&type=star&count=true&size=large" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ function Hero() {
                     </div>
                     <div className={styles.codeBlock}>
                         <CodeBlock className="language-bash">
-                            https://bot.nonamestudio.xyz
+                            https://bot.nnsvn.me
                         </CodeBlock>
                     </div>
                 </div>
@@ -142,7 +142,7 @@ function Features() {
                 <div className="col col--6">
                     <h2>I love this song hehe</h2>
                     <p>
-                        <a href="https://bot.nonamestudio.xyz/discord" target="_blank" rel="noreferrer"><b> Meet our community on Discord</b></a>.
+                        <a href="https://bot.nnsvn.me/discord" target="_blank" rel="noreferrer"><b> Meet our community on Discord</b></a>.
                     </p>
                 </div>
             </div>

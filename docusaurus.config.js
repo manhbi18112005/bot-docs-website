@@ -7,7 +7,7 @@ const { externalLinkProcessor } = require('./tools/utils/externalLink');
 const config = {
   title: 'No Name Studio',
   tagline: 'No Name Studio VN',
-  url: 'http://www.nonamestudio.xyz',
+  url: 'http://www.nnsvn.me',
   
   staticDirectories: ['static'],
   favicon: 'img/favicon.png',
@@ -136,11 +136,11 @@ const config = {
                 position: 'left',
                 dropdownItemsAfter: [
                     {
-                        href: 'https://en.bot.nonamestudio.xyz',
+                        href: 'https://en.bot.nnsvn.me',
                         label: 'EN',
                     },
                     {
-                        href: 'https://vn.bot.nonamestudio.xyz',
+                        href: 'https://vn.bot.nnsvn.me',
                         label: 'VI',
                     },
                 ],
@@ -160,7 +160,7 @@ const config = {
                 className: 'icon',
             },
             {
-                href: 'https://botapp.nonamestudio.xyz/dashboard',
+                href: 'https://botapp.nnsvn.me/dashboard',
                 label: 'Dashboard',
                 title: 'No Name Bot Main App',
                 position: 'right',
@@ -203,7 +203,7 @@ const config = {
           items: [
             {
               label: 'Email',
-              href: 'mailto:support.team@nonamestudio.xyz',
+              href: 'mailto:support.team@nnsvn.me',
             },
             {
               label: 'Github',
