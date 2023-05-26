@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.nonamestudio.xyz/blog</id>
+    <id>http://www.nnsvn.me/blog</id>
     <title>No Name Studio Blog</title>
     <updated>2023-05-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.nonamestudio.xyz/blog"/>
+    <link rel="alternate" href="http://www.nnsvn.me/blog"/>
     <subtitle>No Name Studio Blog</subtitle>
-    <icon>http://www.nonamestudio.xyz/img/favicon.png</icon>
+    <icon>http://www.nnsvn.me/img/favicon.png</icon>
     <rights>Copyright © 2023 No Name Studio.</rights>
     <entry>
         <title type="html"><![CDATA[Bot dashboard website revamp]]></title>
-        <id>http://www.nonamestudio.xyz/blog/2023/05/04/newsneakpeak</id>
-        <link href="http://www.nonamestudio.xyz/blog/2023/05/04/newsneakpeak"/>
+        <id>http://www.nnsvn.me/blog/2023/05/04/newsneakpeak</id>
+        <link href="http://www.nnsvn.me/blog/2023/05/04/newsneakpeak"/>
         <updated>2023-05-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi there, it has been a very long time since my latest update. Although I regularly pushed new updates to Github, I was so lazy to write a short blog post about it. I will try to be more active in the future.]]></summary>
         <content type="html"><![CDATA[<p>Hi there, it has been a very long time since my latest update. Although I regularly pushed new updates to Github, I was so lazy to write a short blog post about it. I will try to be more active in the future.</p><p>So in the past few months, I have been struggling with exams, exams and exams... <del>genshin is great thru</del> I spent time on coding mainly on weekend or holiday, and it was all about the website. The old code I borrowed from Github is totally a mess (I have no idea why he copied the same style for 10 pages literally), therefore reusing the old code is not a great idea. I need to write a new codebase totally from scratch, which you all know costs a lot of time. I have to admit that I am not a good front-end developer, so I spent a lot of time on learning and trying new things. I am still learning, and I will keep learning. ==lol copilot wrote the last sentence==. Between React and Bootstrap, React is better for big production, greater performance, but it takes double the time 😭. </p><p>So basically I started taking drafts on my IPAD, then I chose the most compatitable and <strong>easiest</strong> to start working on. By dividing into small components, I can reuse the code very effectively. Besides, I decided to transfer the current subdomain and use a new web homepage from React. I am still working on it, and I will try to finish it as soon as possible.</p><p><img loading="lazy" alt="sc" src="/assets/images/sc150708-ff3451c845d55110468e4cd6967f8519.png" width="1920" height="1080" class="img_ev3q"></p><p>In the above image, you can see that on the same page, the old code has 2404 lines, meanwhile the new one has only 58. The most obvious advantage is that you can understand the code clearly and my server will spend less time compiling.</p><p><img loading="lazy" alt="Old UI" src="/assets/images/oldsite-57a5b10902f0ab829482de6e25042845.png" width="1920" height="1080" class="img_ev3q">
 <img loading="lazy" alt="New UI" src="/assets/images/newsite-5b07354a8e6512178d2e15745e15db2a.png" width="1920" height="1080" class="img_ev3q"></p><p>Also you can easily compare the new layout with the former. While it depends on personal tastes, I believe the new one is more modernized and cleaner.</p><p>So that all for this blog, I will need several weeks to migrate the current features to new UI, and also time for testing, so stay tuned!!!</p>]]></content>
         <author>
             <name>Le Ngo Duc Manh</name>
-            <uri>https://myt.nonamestudio.xyz</uri>
+            <uri>https://myt.nnsvn.me</uri>
         </author>
         <category label="dashboard" term="dashboard"/>
         <category label="website" term="website"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>http://www.nonamestudio.xyz/blog/welcome</id>
-        <link href="http://www.nonamestudio.xyz/blog/welcome"/>
+        <id>http://www.nnsvn.me/blog/welcome</id>
+        <link href="http://www.nnsvn.me/blog/welcome"/>
         <updated>2023-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Join our Discord server.]]></summary>
-        <content type="html"><![CDATA[<p>Join our <a href="https://bot.nonamestudio.xyz/discord" target="_blank" rel="noopener noreferrer">Discord server</a>.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p>Join our <a href="https://bot.nnsvn.me/discord" target="_blank" rel="noopener noreferrer">Discord server</a>.</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
         <author>
             <name>Le Ngo Duc Manh</name>
-            <uri>https://myt.nonamestudio.xyz</uri>
+            <uri>https://myt.nnsvn.me</uri>
         </author>
         <category label="bot" term="bot"/>
     </entry>
