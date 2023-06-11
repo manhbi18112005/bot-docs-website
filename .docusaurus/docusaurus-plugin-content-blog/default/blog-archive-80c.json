@@ -1,6 +1,53 @@
 {
   "blogPosts": [
     {
+      "id": "/2023/05/04/newsneakpeak",
+      "metadata": {
+        "permalink": "/blog/2023/05/04/newsneakpeak",
+        "source": "@site/blog/2023-05-04-newsneakpeak/index.mdx",
+        "title": "Bot dashboard website revamp",
+        "description": "Hi there, it has been a very long time since my latest update. Although I regularly pushed new updates to Github, I was so lazy to write a short blog post about it. I will try to be more active in the future.",
+        "date": "2023-05-04T00:00:00.000Z",
+        "formattedDate": "May 4, 2023",
+        "tags": [
+          {
+            "label": "dashboard",
+            "permalink": "/blog/tags/dashboard"
+          },
+          {
+            "label": "website",
+            "permalink": "/blog/tags/website"
+          }
+        ],
+        "readingTime": 1.2066666666666668,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Le Ngo Duc Manh",
+            "title": "Founder of No Name Studio",
+            "url": "https://myt.nnsvn.me",
+            "imageURL": "https://github.com/manhbi18112005.png",
+            "key": "myt"
+          }
+        ],
+        "frontMatter": {
+          "title": "Bot dashboard website revamp",
+          "authors": [
+            "myt"
+          ],
+          "tags": [
+            "dashboard",
+            "website"
+          ]
+        },
+        "nextItem": {
+          "title": "Welcome",
+          "permalink": "/blog/welcome"
+        }
+      },
+      "content": "Hi there, it has been a very long time since my latest update. Although I regularly pushed new updates to Github, I was so lazy to write a short blog post about it. I will try to be more active in the future.\r\n\r\nSo in the past few months, I have been struggling with exams, exams and exams... ~~genshin is great thru~~ I spent time on coding mainly on weekend or holiday, and it was all about the website. The old code I borrowed from Github is totally a mess (I have no idea why he copied the same style for 10 pages literally), therefore reusing the old code is not a great idea. I need to write a new codebase totally from scratch, which you all know costs a lot of time. I have to admit that I am not a good front-end developer, so I spent a lot of time on learning and trying new things. I am still learning, and I will keep learning. ==lol copilot wrote the last sentence==. Between React and Bootstrap, React is better for big production, greater performance, but it takes double the time 😭. \r\n\r\nSo basically I started taking drafts on my IPAD, then I chose the most compatitable and **easiest** to start working on. By dividing into small components, I can reuse the code very effectively. Besides, I decided to transfer the current subdomain and use a new web homepage from React. I am still working on it, and I will try to finish it as soon as possible.\r\n\r\n![sc](./sc150708.png)\r\n\r\nIn the above image, you can see that on the same page, the old code has 2404 lines, meanwhile the new one has only 58. The most obvious advantage is that you can understand the code clearly and my server will spend less time compiling.\r\n\r\n![Old UI](./oldsite.png)\r\n![New UI](./newsite.png)\r\n\r\nAlso you can easily compare the new layout with the former. While it depends on personal tastes, I believe the new one is more modernized and cleaner.\r\n\r\nSo that all for this blog, I will need several weeks to migrate the current features to new UI, and also time for testing, so stay tuned!!!"
+    },
+    {
       "id": "welcome",
       "metadata": {
         "permalink": "/blog/welcome",
@@ -21,7 +68,7 @@
           {
             "name": "Le Ngo Duc Manh",
             "title": "Founder of No Name Studio",
-            "url": "https://myt.nonamestudio.xyz",
+            "url": "https://myt.nnsvn.me",
             "imageURL": "https://github.com/manhbi18112005.png",
             "key": "myt"
           }
@@ -35,9 +82,13 @@
           "tags": [
             "bot"
           ]
+        },
+        "prevItem": {
+          "title": "Bot dashboard website revamp",
+          "permalink": "/blog/2023/05/04/newsneakpeak"
         }
       },
-      "content": "Join our [Discord server](https://bot.nonamestudio.xyz/discord).\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)"
+      "content": "Join our [Discord server](https://bot.nnsvn.me/discord).\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)"
     }
   ]
 }

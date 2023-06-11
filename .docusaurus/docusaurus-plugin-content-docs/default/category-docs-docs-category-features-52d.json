@@ -7,8 +7,8 @@
   "permalink": "/docs/features",
   "navigation": {
     "previous": {
-      "title": "Donating",
-      "permalink": "/docs/donate"
+      "title": "Changelog",
+      "permalink": "/docs/changelog"
     },
     "next": {
       "title": "Game Commands",

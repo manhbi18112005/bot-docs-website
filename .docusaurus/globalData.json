@@ -11,6 +11,11 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "changelog",
+              "path": "/docs/changelog",
+              "sidebar": "docs"
+            },
+            {
               "id": "donate",
               "path": "/docs/donate",
               "sidebar": "docs"

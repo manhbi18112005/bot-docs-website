@@ -2,6 +2,10 @@
   "title": "All posts",
   "items": [
     {
+      "title": "Bot dashboard website revamp",
+      "permalink": "/blog/2023/05/04/newsneakpeak"
+    },
+    {
       "title": "Welcome",
       "permalink": "/blog/welcome"
     }

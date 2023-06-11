@@ -28,6 +28,12 @@
         "docId": "donate"
       },
       {
+        "type": "link",
+        "label": "Changelog",
+        "href": "/docs/changelog",
+        "docId": "changelog"
+      },
+      {
         "type": "category",
         "label": "Features",
         "items": [
@@ -99,6 +105,12 @@
     ]
   },
   "docs": {
+    "changelog": {
+      "id": "changelog",
+      "title": "Changelog",
+      "description": "All full list of changes committed to the bot and dashboard!",
+      "sidebar": "docs"
+    },
     "donate": {
       "id": "donate",
       "title": "Donating",

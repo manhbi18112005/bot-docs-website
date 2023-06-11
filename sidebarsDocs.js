@@ -3,6 +3,7 @@ module.exports = {
     'index',
     'getting-started',
     'donate',
+    'changelog',
       {
           type: 'category',
           label: 'Features',

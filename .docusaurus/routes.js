@@ -39,7 +39,12 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'd12'),
+    component: ComponentCreator('/blog', '413'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/05/04/newsneakpeak',
+    component: ComponentCreator('/blog/2023/05/04/newsneakpeak', '365'),
     exact: true
   },
   {
@@ -58,13 +63,33 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/dashboard',
+    component: ComponentCreator('/blog/tags/dashboard', '0dc'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/website',
+    component: ComponentCreator('/blog/tags/website', '08c'),
+    exact: true
+  },
+  {
     path: '/blog/welcome',
     component: ComponentCreator('/blog/welcome', '43a'),
     exact: true
   },
   {
+    path: '/discord',
+    component: ComponentCreator('/discord', '3b8'),
+    exact: true
+  },
+  {
     path: '/feedback',
     component: ComponentCreator('/feedback', '246'),
+    exact: true
+  },
+  {
+    path: '/invite',
+    component: ComponentCreator('/invite', '4bd'),
     exact: true
   },
   {
@@ -131,11 +156,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd2d'),
+    component: ComponentCreator('/docs', '196'),
     routes: [
       {
         path: '/docs',
         component: ComponentCreator('/docs', '640'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/changelog',
+        component: ComponentCreator('/docs/changelog', '573'),
         exact: true,
         sidebar: "docs"
       },
