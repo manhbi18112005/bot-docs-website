@@ -2,6 +2,10 @@
   "title": "All posts",
   "items": [
     {
+      "title": "No Name Bot Changelog - Version 8.0.0",
+      "permalink": "/blog/2023/07/17/8.0.0update"
+    },
+    {
       "title": "Bot dashboard website revamp",
       "permalink": "/blog/2023/05/04/newsneakpeak"
     },

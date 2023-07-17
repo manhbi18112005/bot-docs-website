@@ -74,14 +74,14 @@ function Features() {
                 </div>
                 <div className="col col--6">
                     <div className="image-showcase-container">
-                    <img src={('/img/showcase/leaderboard.png')}/>
+                    <img src={('https://cdn.nnsvn.me/botapp/img/showcase/leaderboard.png')}/>
                     </div>
                 </div>
             </div>
             <div className="row">
                 <div className="col col--6">
                     <div className="image-showcase-container">
-                    <img src={('/img/showcase/music.png')}/>
+                    <img src={('https://cdn.nnsvn.me/botapp/img/showcase/music.png')}/>
                     </div>
                 </div>
                 <div className="col col--6">
@@ -97,7 +97,7 @@ function Features() {
                 </div>
                 <div className="col col--6">
                     <div className="image-showcase-container">
-                    <img src={('/img/showcase/chatbot.png')}/>
+                    <img src={('https://cdn.nnsvn.me/botapp/img/showcase/chatbot.png')}/>
                     </div>
                 </div>
             </div>
@@ -105,7 +105,7 @@ function Features() {
             <div className="row">
                 <div className="col col--6">
                     <div className="image-showcase-container">
-                    <img src={('/img/showcase/dashboard.png')}/>
+                    <img src={('https://cdn.nnsvn.me/botapp/img/showcase/dashboard.png')}/>
                     </div>
                 </div>
                 <div className="col col--6">
@@ -122,7 +122,7 @@ function Features() {
                 </div>
                 <div className="col col--6">
                     <div className="image-showcase-container">
-                    <img src={('/img/showcase/meme.png')}/>
+                    <img src={('https://cdn.nnsvn.me/botapp/img/showcase/meme.png')}/>
                     </div>
                 </div>
             </div>
@@ -215,14 +215,6 @@ export default function Home() {
             description={siteConfig.description}>
             <Hero />
             <Features />
-            <Highlights />
-            <div className="container">
-                <div className="row">
-                    <div className="col text--center padding-top--lg padding-bottom--xl">
-                        <SvgLogo className={styles.bottomLogo} />
-                    </div>
-                </div>
-            </div>
         </Layout>
     );
 }

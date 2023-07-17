@@ -25,18 +25,13 @@ function Versions(props) {
                     <header className="postHeader">
                         <h1>{siteConfig.title} Versions</h1>
                     </header>
-                    <p>
-                        New versions of Apify SDK are released once a month or
-                        so. With major releases once a year.
-                    </p>
                     <h3 id="latest">Current version (Stable)</h3>
                     <table className="versions">
                         <tbody>
                             <tr>
                                 <th>{latestVersion}</th>
                                 <td>
-                                    {/* You are supposed to change this href where appropriate
-                        Example: href="<baseUrl>/docs(/:language)/:id" */}
+                                    {}
                                     <a
                                         href={`${siteConfig.baseUrl}${
                                             siteConfig.docsUrl
@@ -59,10 +54,6 @@ function Versions(props) {
                             </tr>
                         </tbody>
                     </table>
-                    <p>
-                        This is the version that is configured automatically
-                        when you first install Apify SDK.
-                    </p>
                     <h3 id="rc">Pre-release versions</h3>
                     <table className="versions">
                         <tbody>

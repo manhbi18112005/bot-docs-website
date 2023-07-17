@@ -59,6 +59,10 @@ export default {
         },
         "theme": {
           "customCss": "C:\\Users\\ASUS_ROG\\Downloads\\New-Website\\src\\css\\custom.css"
+        },
+        "gtag": {
+          "trackingID": "G-KDC153NL83",
+          "anonymizeIP": true
         }
       }
     ]
@@ -73,7 +77,7 @@ export default {
     [
       "docusaurus-gtm-plugin",
       {
-        "id": "GTM-TXF92FT"
+        "id": "G-KDC153NL83"
       }
     ],
     [

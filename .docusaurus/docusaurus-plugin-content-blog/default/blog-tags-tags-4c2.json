@@ -2,11 +2,21 @@
   {
     "label": "dashboard",
     "permalink": "/blog/tags/dashboard",
-    "count": 1
+    "count": 2
   },
   {
     "label": "website",
     "permalink": "/blog/tags/website",
+    "count": 2
+  },
+  {
+    "label": "update",
+    "permalink": "/blog/tags/update",
+    "count": 1
+  },
+  {
+    "label": "changelog",
+    "permalink": "/blog/tags/changelog",
     "count": 1
   },
   {

@@ -39,12 +39,17 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '413'),
+    component: ComponentCreator('/blog', '781'),
     exact: true
   },
   {
     path: '/blog/2023/05/04/newsneakpeak',
     component: ComponentCreator('/blog/2023/05/04/newsneakpeak', '365'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/07/17/8.0.0update',
+    component: ComponentCreator('/blog/2023/07/17/8.0.0update', '158'),
     exact: true
   },
   {
@@ -63,13 +68,23 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/changelog',
+    component: ComponentCreator('/blog/tags/changelog', '6e4'),
+    exact: true
+  },
+  {
     path: '/blog/tags/dashboard',
-    component: ComponentCreator('/blog/tags/dashboard', '0dc'),
+    component: ComponentCreator('/blog/tags/dashboard', 'b31'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/update',
+    component: ComponentCreator('/blog/tags/update', '8f0'),
     exact: true
   },
   {
     path: '/blog/tags/website',
-    component: ComponentCreator('/blog/tags/website', '08c'),
+    component: ComponentCreator('/blog/tags/website', 'd29'),
     exact: true
   },
   {
@@ -100,6 +115,11 @@ export default [
   {
     path: '/privacy-cookie',
     component: ComponentCreator('/privacy-cookie', 'dd5'),
+    exact: true
+  },
+  {
+    path: '/support',
+    component: ComponentCreator('/support', 'c2b'),
     exact: true
   },
   {

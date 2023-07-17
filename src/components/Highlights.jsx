@@ -24,42 +24,12 @@ const FeatureList = [
         ),
     },
     {
-        title: 'Headless browsers',
-        Svg: require('../../static/img/features/works-everywhere.svg').default,
-        description: (
-            <>
-                Switch your crawlers from HTTP to headless browsers in 3 lines of code. Crawlee builds on top of <b>Puppeteer
-                and Playwright</b> and adds its own <b>anti-blocking features and human-like fingerprints</b>. Chrome, Firefox and more.
-            </>
-        ),
-    },
-    {
-        title: 'Automatic scaling and proxy management',
-        Svg: require('../../static/img/features/auto-scaling.svg').default,
-        description: (
-            <>
-                Crawlee automatically manages concurrency based on available system resources and smartly rotates proxies.
-                Proxies that often time-out, return network errors or bad HTTP codes like 401 or 403 are discarded.
-            </>
-        ),
-    },
-    {
         title: 'Queue and Storage',
         Svg: require('../../static/img/features/storage.svg').default,
         description: (
             <>
                 You can save files, screenshots and JSON results to disk with one line of code or plug an adapter
                 for your DB. Your URLs are kept in a queue that ensures their uniqueness and that you don't lose progress when something fails.
-            </>
-        ),
-    },
-    {
-        title: 'Helpful utils and configurability',
-        Svg: require('../../static/img/features/node-requests.svg').default,
-        description: (
-            <>
-                Crawlee includes tools for extracting social handles or phone numbers, infinite scrolling, blocking
-                unwanted assets and many more. It works great out of the box, but also provides rich configuration options.
             </>
         ),
     },
