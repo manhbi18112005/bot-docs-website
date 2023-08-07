@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4821],{1641:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var n=t(7294);class o extends n.Component{componentDidMount(){window.location.href="https://discord.com/api/oauth2/authorize?client_id=736915194772586598&permissions=8&scope=bot%20applications.commands"}render(){return null}}const i=o}}]);
