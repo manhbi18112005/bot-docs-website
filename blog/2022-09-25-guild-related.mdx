@@ -1,0 +1,50 @@
+---
+layout: post
+title: Guilds Related Shortcuts
+subtitle: Some really complicated coding related to guilds
+tags: [guild]
+comments: true
+---
+
+### Get guild name from its ID
+
+{% highlight javascript linenos %}
+interaction.client.guilds.fetch(channelID).then((guild) => console.log(guild.name))
+{% endhighlight %}
+
+### Get subcommand
+
+```javascript
+const sub = interaction.options._subcommand;
+```
+
+{: .box-note}
+**Note:** This can be used too.
+```javascript
+const sub = interaction.options.getSubcommand();
+```
+
+### Check Bot Permission
+```javascript
+if (!interaction.guild.members.me.permissions.has("ManageChannels"))
+```
+
+```javascript
+if (interaction.guild.members.me.permissions.has([PermissionsBitField.Flags.BanMembers]) === false)
+```
+
+### Get Channel
+
+{% highlight javascript linenos %}
+interaction.guild.channels.fetch('741480944367566904').then(channel => console.log(`${channel.type}`)).catch(console.error);
+{% endhighlight %}
+
+### Get Channel by name
+
+```javascript
+      const search = args.join(" ");
+      const tcByName = message.guild.findMatchingChannels(search);
+      if (tcByName.length === 0) return message.safeReply(`No channels found matching \`${search}\`!`);
+      if (tcByName.length > 1) return message.safeReply(`Multiple channels found matching \`${search}\`!`);
+      [targetChannel] = tcByName;
+```
