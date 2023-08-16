@@ -165,7 +165,7 @@ const config = {
             className: "icon",
           },
           {
-            href: "https://b.nnsvn.me/dashboard",
+            href: "https://cp.nnsvn.me/dashboard",
             label: "Dashboard",
             title: "No Name Bot Main App",
             position: "right",
