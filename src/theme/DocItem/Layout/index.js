@@ -54,10 +54,10 @@ export default function DocItemLayout({ children }) {
 
                     <Giscus
                         id="giscus-comments"
-                        repo="apify/crawlee"
-                        repoId="MDEwOlJlcG9zaXRvcnk2NjY3MDgxOQ="
-                        category="Comments"
-                        categoryId="DIC_kwDOA_lQ484CQufN"
+                        repo="manhbi18112005/bot-docs-website"
+                        repoId="MDEwOlJlcG9zaXRvcnk0MDcwNjUxNTc="
+                        category="General"
+                        categoryId="DIC_kwDOGENSRc4CcEiz"
                         mapping="pathname"
                         reactionsEnabled="1"
                         emitMetadata="0"

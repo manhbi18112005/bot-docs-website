@@ -152,7 +152,7 @@ export default {
           "className": "icon"
         },
         {
-          "href": "https://botapp.nnsvn.me/dashboard",
+          "href": "https://cp.nnsvn.me/dashboard",
           "label": "Dashboard",
           "title": "No Name Bot Main App",
           "position": "right",

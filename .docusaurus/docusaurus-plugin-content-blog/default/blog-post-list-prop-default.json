@@ -2,8 +2,8 @@
   "title": "All posts",
   "items": [
     {
-      "title": "No Name Bot Changelog - Version 8.0.0",
-      "permalink": "/blog/2023/07/17/8.0.0update"
+      "title": "No Name Bot Changelog - Version 7.0.0",
+      "permalink": "/blog/2023/07/17/7.0.0update"
     },
     {
       "title": "Bot dashboard website revamp",
@@ -12,6 +12,14 @@
     {
       "title": "Welcome",
       "permalink": "/blog/welcome"
+    },
+    {
+      "title": "Syntax Related Shortcuts",
+      "permalink": "/blog/2022/09/26/syntax-related"
+    },
+    {
+      "title": "Guilds Related Shortcuts",
+      "permalink": "/blog/2022/09/25/guild-related"
     }
   ]
 }

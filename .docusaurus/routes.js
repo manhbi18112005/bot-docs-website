@@ -39,7 +39,17 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '781'),
+    component: ComponentCreator('/blog', '62d'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/09/25/guild-related',
+    component: ComponentCreator('/blog/2022/09/25/guild-related', '2b3'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/09/26/syntax-related',
+    component: ComponentCreator('/blog/2022/09/26/syntax-related', 'bc6'),
     exact: true
   },
   {
@@ -48,8 +58,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2023/07/17/8.0.0update',
-    component: ComponentCreator('/blog/2023/07/17/8.0.0update', '158'),
+    path: '/blog/2023/07/17/7.0.0update',
+    component: ComponentCreator('/blog/2023/07/17/7.0.0update', 'd9b'),
     exact: true
   },
   {
@@ -69,22 +79,32 @@ export default [
   },
   {
     path: '/blog/tags/changelog',
-    component: ComponentCreator('/blog/tags/changelog', '6e4'),
+    component: ComponentCreator('/blog/tags/changelog', '0de'),
     exact: true
   },
   {
     path: '/blog/tags/dashboard',
-    component: ComponentCreator('/blog/tags/dashboard', 'b31'),
+    component: ComponentCreator('/blog/tags/dashboard', '164'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/guild',
+    component: ComponentCreator('/blog/tags/guild', '0f3'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/syntax',
+    component: ComponentCreator('/blog/tags/syntax', '809'),
     exact: true
   },
   {
     path: '/blog/tags/update',
-    component: ComponentCreator('/blog/tags/update', '8f0'),
+    component: ComponentCreator('/blog/tags/update', 'cba'),
     exact: true
   },
   {
     path: '/blog/tags/website',
-    component: ComponentCreator('/blog/tags/website', 'd29'),
+    component: ComponentCreator('/blog/tags/website', '041'),
     exact: true
   },
   {
