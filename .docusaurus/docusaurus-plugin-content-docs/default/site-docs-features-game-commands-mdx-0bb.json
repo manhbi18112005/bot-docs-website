@@ -1,5 +1,4 @@
 {
-  "unversionedId": "features/game-commands",
   "id": "features/game-commands",
   "title": "Game Commands",
   "description": "Interesting Game Commands",
@@ -8,11 +7,12 @@
   "slug": "/features/game-commands",
   "permalink": "/docs/features/game-commands",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680367484,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
   "frontMatter": {
     "id": "game-commands",
     "title": "Game Commands",

@@ -13,25 +13,29 @@
         "type": "link",
         "label": "Introduction",
         "href": "/docs/",
-        "docId": "index"
+        "docId": "index",
+        "unlisted": false
       },
       {
         "type": "link",
         "label": "Getting Started",
         "href": "/docs/getting-started",
-        "docId": "getting-started"
+        "docId": "getting-started",
+        "unlisted": false
       },
       {
         "type": "link",
         "label": "Donating",
         "href": "/docs/donate",
-        "docId": "donate"
+        "docId": "donate",
+        "unlisted": false
       },
       {
         "type": "link",
         "label": "Changelog",
         "href": "/docs/changelog",
-        "docId": "changelog"
+        "docId": "changelog",
+        "unlisted": false
       },
       {
         "type": "category",
@@ -41,13 +45,15 @@
             "type": "link",
             "label": "Game Commands",
             "href": "/docs/features/game-commands",
-            "docId": "features/game-commands"
+            "docId": "features/game-commands",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Images Generating Commands",
             "href": "/docs/features/images-generating-commands",
-            "docId": "features/images-generating-commands"
+            "docId": "features/images-generating-commands",
+            "unlisted": false
           },
           {
             "type": "category",
@@ -59,7 +65,8 @@
                 "type": "link",
                 "label": "What platforms does bot support music streaming from?",
                 "href": "/docs/features/music-commands/support-platforms",
-                "docId": "features/music-commands/support-platforms"
+                "docId": "features/music-commands/support-platforms",
+                "unlisted": false
               }
             ],
             "href": "/docs/features/music-commands/"
@@ -68,13 +75,15 @@
             "type": "link",
             "label": "Other Commands",
             "href": "/docs/features/other-commands",
-            "docId": "features/other-commands"
+            "docId": "features/other-commands",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Utility Commands",
             "href": "/docs/features/utility-commands",
-            "docId": "features/utility-commands"
+            "docId": "features/utility-commands",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -89,13 +98,15 @@
             "type": "link",
             "label": "Frequent Searches",
             "href": "/docs/others/frequent-searches",
-            "docId": "others/frequent-searches"
+            "docId": "others/frequent-searches",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Permissions",
             "href": "/docs/others/permissions",
-            "docId": "others/permissions"
+            "docId": "others/permissions",
+            "unlisted": false
           }
         ],
         "collapsed": true,

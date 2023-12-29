@@ -11,7 +11,7 @@ import { useDocsVersion, useLayoutDoc } from '@docusaurus/theme-common/internal'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import React from 'react';
 
-const versions = require('../../../versions.json');
+import versions from '../../../versions.json';
 
 const stable = versions[0];
 

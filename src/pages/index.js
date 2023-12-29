@@ -33,9 +33,8 @@ function Hero() {
                     <div className="row">
                         <div className="col">
                             <div className={styles.heroButtons}>
-                                
-                                <Link to="docs" className={styles.getStarted}>Get Started</Link>
                                 <Link to="https://cp.nnsvn.me/dashboard" className={styles.inviteBot}>Dashboard</Link>
+                                <Link to="docs" className={styles.getStarted}>Documentation</Link>
                                 <iframe src="https://ghbtns.com/github-btn.html?user=manhbi18112005&repo=BotNoName&type=star&count=true&size=large" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
                             </div>
                         </div>
@@ -47,7 +46,7 @@ function Hero() {
                     </div>
                     <div className={styles.codeBlock}>
                         <CodeBlock className="language-bash">
-                            https://bot.nnsvn.me
+                            https://cp.nnsvn.me/dashboard
                         </CodeBlock>
                     </div>
                 </div>
@@ -214,7 +213,6 @@ export default function Home() {
             title={`${siteConfig.title} · ${siteConfig.tagline}`}
             description={siteConfig.description}>
             <Hero />
-            <Features />
         </Layout>
     );
 }

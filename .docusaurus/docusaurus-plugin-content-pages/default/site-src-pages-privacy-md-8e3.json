@@ -8,5 +8,6 @@
     "title": "Privacy",
     "description": "Privacy Policy of No Name Studio",
     "hide_table_of_contents": false
-  }
+  },
+  "unlisted": false
 }

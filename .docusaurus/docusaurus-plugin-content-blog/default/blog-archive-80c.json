@@ -50,6 +50,7 @@
             "changelog"
           ]
         },
+        "unlisted": false,
         "nextItem": {
           "title": "Bot dashboard website revamp",
           "permalink": "/blog/2023/05/04/newsneakpeak"
@@ -97,6 +98,7 @@
             "website"
           ]
         },
+        "unlisted": false,
         "prevItem": {
           "title": "No Name Bot Changelog - Version 7.0.0",
           "permalink": "/blog/2023/07/17/7.0.0update"
@@ -144,6 +146,7 @@
             "bot"
           ]
         },
+        "unlisted": false,
         "prevItem": {
           "title": "Bot dashboard website revamp",
           "permalink": "/blog/2023/05/04/newsneakpeak"
@@ -182,6 +185,7 @@
           ],
           "comments": true
         },
+        "unlisted": false,
         "prevItem": {
           "title": "Welcome",
           "permalink": "/blog/welcome"
@@ -191,7 +195,7 @@
           "permalink": "/blog/2022/09/25/guild-related"
         }
       },
-      "content": "### HyperLink\r\n\r\n```javascript\r\n[Text](Link)\r\n```"
+      "content": "### HyperLink\r\n\r\n```js\r\n[Text](Link)\r\n```"
     },
     {
       "id": "/2022/09/25/guild-related",
@@ -208,7 +212,7 @@
             "permalink": "/blog/tags/guild"
           }
         ],
-        "readingTime": 0.36,
+        "readingTime": 0.31666666666666665,
         "hasTruncateMarker": false,
         "authors": [],
         "frontMatter": {
@@ -220,12 +224,13 @@
           ],
           "comments": true
         },
+        "unlisted": false,
         "prevItem": {
           "title": "Syntax Related Shortcuts",
           "permalink": "/blog/2022/09/26/syntax-related"
         }
       },
-      "content": "### Get guild name from its ID\r\n\r\n{% highlight javascript linenos %}\r\ninteraction.client.guilds.fetch(channelID).then((guild) => console.log(guild.name))\r\n{% endhighlight %}\r\n\r\n### Get subcommand\r\n\r\n```javascript\r\nconst sub = interaction.options._subcommand;\r\n```\r\n\r\n{: .box-note}\r\n**Note:** This can be used too.\r\n```javascript\r\nconst sub = interaction.options.getSubcommand();\r\n```\r\n\r\n### Check Bot Permission\r\n```javascript\r\nif (!interaction.guild.members.me.permissions.has(\"ManageChannels\"))\r\n```\r\n\r\n```javascript\r\nif (interaction.guild.members.me.permissions.has([PermissionsBitField.Flags.BanMembers]) === false)\r\n```\r\n\r\n### Get Channel\r\n\r\n{% highlight javascript linenos %}\r\ninteraction.guild.channels.fetch('741480944367566904').then(channel => console.log(`${channel.type}`)).catch(console.error);\r\n{% endhighlight %}\r\n\r\n### Get Channel by name\r\n\r\n```javascript\r\n      const search = args.join(\" \");\r\n      const tcByName = message.guild.findMatchingChannels(search);\r\n      if (tcByName.length === 0) return message.safeReply(`No channels found matching \\`${search}\\`!`);\r\n      if (tcByName.length > 1) return message.safeReply(`Multiple channels found matching \\`${search}\\`!`);\r\n      [targetChannel] = tcByName;\r\n```"
+      "content": "### Get guild name from its ID\r\n\r\n```js\r\ninteraction.client.guilds.fetch(channelID).then((guild) => console.log(guild.name))\r\n```\r\n\r\n### Get subcommand\r\n\r\n```js\r\nconst sub = interaction.options._subcommand;\r\n```\r\n\r\n:::note\r\nThis can be used too.\r\n:::note\r\n```js\r\nconst sub = interaction.options.getSubcommand();\r\n```\r\n\r\n### Check Bot Permission\r\n```js\r\nif (!interaction.guild.members.me.permissions.has(\"ManageChannels\"))\r\n```\r\n\r\n```js\r\nif (interaction.guild.members.me.permissions.has([PermissionsBitField.Flags.BanMembers]) === false)\r\n```\r\n\r\n### Get Channel\r\n\r\n```js\r\ninteraction.guild.channels.fetch('741480944367566904').then(channel => console.log(`${channel.type}`)).catch(console.error);\r\n```\r\n\r\n### Get Channel by name\r\n\r\n```js\r\n      const search = args.join(\" \");\r\n      const tcByName = message.guild.findMatchingChannels(search);\r\n      if (tcByName.length === 0) return message.safeReply(`No channels found matching \\`${search}\\`!`);\r\n      if (tcByName.length > 1) return message.safeReply(`Multiple channels found matching \\`${search}\\`!`);\r\n      [targetChannel] = tcByName;\r\n```"
     }
   ]
 }

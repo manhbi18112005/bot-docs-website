@@ -13,7 +13,8 @@
         "type": "link",
         "label": "Introduction",
         "href": "/community/",
-        "docId": "index"
+        "docId": "index",
+        "unlisted": false
       },
       {
         "type": "category",
@@ -23,25 +24,29 @@
             "type": "link",
             "label": "Dashboard logout",
             "href": "/community/faq/dashboard-logout",
-            "docId": "faq/dashboard-logout"
+            "docId": "faq/dashboard-logout",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "No Name Bot is Offline",
             "href": "/community/faq/nonamebot-is-offline",
-            "docId": "faq/nonamebot-is-offline"
+            "docId": "faq/nonamebot-is-offline",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Official Domain Names",
             "href": "/community/faq/official-domain-names",
-            "docId": "faq/official-domain-names"
+            "docId": "faq/official-domain-names",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Suggestions and Feedback",
             "href": "/community/faq/suggestions-and-feedback",
-            "docId": "faq/suggestions-and-feedback"
+            "docId": "faq/suggestions-and-feedback",
+            "unlisted": false
           }
         ],
         "collapsed": true,

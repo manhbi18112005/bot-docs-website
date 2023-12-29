@@ -6,11 +6,11 @@
 export default {
   "title": "No Name Studio",
   "tagline": "No Name Studio VN",
-  "url": "http://www.nnsvn.me",
+  "url": "http://bot.nnsvn.me",
   "staticDirectories": [
     "static"
   ],
-  "favicon": "img/favicon.png",
+  "favicon": "https://cdn.nnsvn.me/img/brand/logo.svg",
   "baseUrl": "/",
   "organizationName": "manhbi18112005",
   "projectName": "bot-docs-website",
@@ -442,6 +442,12 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    }
   }
 };

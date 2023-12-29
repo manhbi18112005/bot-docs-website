@@ -32,6 +32,7 @@
       "bot"
     ]
   },
+  "unlisted": false,
   "prevItem": {
     "title": "Bot dashboard website revamp",
     "permalink": "/blog/2023/05/04/newsneakpeak"

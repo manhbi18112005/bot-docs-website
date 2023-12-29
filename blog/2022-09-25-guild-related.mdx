@@ -8,40 +8,41 @@ comments: true
 
 ### Get guild name from its ID
 
-{% highlight javascript linenos %}
+```js
 interaction.client.guilds.fetch(channelID).then((guild) => console.log(guild.name))
-{% endhighlight %}
+```
 
 ### Get subcommand
 
-```javascript
+```js
 const sub = interaction.options._subcommand;
 ```
 
-{: .box-note}
-**Note:** This can be used too.
-```javascript
+:::note
+This can be used too.
+:::note
+```js
 const sub = interaction.options.getSubcommand();
 ```
 
 ### Check Bot Permission
-```javascript
+```js
 if (!interaction.guild.members.me.permissions.has("ManageChannels"))
 ```
 
-```javascript
+```js
 if (interaction.guild.members.me.permissions.has([PermissionsBitField.Flags.BanMembers]) === false)
 ```
 
 ### Get Channel
 
-{% highlight javascript linenos %}
+```js
 interaction.guild.channels.fetch('741480944367566904').then(channel => console.log(`${channel.type}`)).catch(console.error);
-{% endhighlight %}
+```
 
 ### Get Channel by name
 
-```javascript
+```js
       const search = args.join(" ");
       const tcByName = message.guild.findMatchingChannels(search);
       if (tcByName.length === 0) return message.safeReply(`No channels found matching \`${search}\`!`);

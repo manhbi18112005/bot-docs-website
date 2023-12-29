@@ -1,5 +1,4 @@
 {
-  "unversionedId": "features/utility-commands",
   "id": "features/utility-commands",
   "title": "Utility Commands",
   "description": "Utility Commands",
@@ -8,11 +7,12 @@
   "slug": "/features/utility-commands",
   "permalink": "/docs/features/utility-commands",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680367484,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
   "frontMatter": {
     "id": "utility-commands",
     "title": "Utility Commands",

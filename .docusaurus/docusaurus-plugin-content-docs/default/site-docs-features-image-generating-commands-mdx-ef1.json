@@ -1,5 +1,4 @@
 {
-  "unversionedId": "features/images-generating-commands",
   "id": "features/images-generating-commands",
   "title": "Images Generating Commands",
   "description": "Making yourself an interesting meme? :))",
@@ -8,11 +7,12 @@
   "slug": "/features/images-generating-commands",
   "permalink": "/docs/features/images-generating-commands",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "lastUpdatedBy": "๖ۣۜŇŇ_MyTツ",
+  "lastUpdatedAt": 1680367484,
+  "formattedLastUpdatedAt": "Apr 1, 2023",
   "frontMatter": {
     "id": "images-generating-commands",
     "title": "Images Generating Commands",

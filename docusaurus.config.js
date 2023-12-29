@@ -7,10 +7,10 @@ const { externalLinkProcessor } = require("./tools/utils/externalLink");
 const config = {
   title: "No Name Studio",
   tagline: "No Name Studio VN",
-  url: "http://www.nnsvn.me",
+  url: "http://bot.nnsvn.me",
 
   staticDirectories: ["static"],
-  favicon: "img/favicon.png",
+  favicon: "https://cdn.nnsvn.me/img/brand/logo.svg",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -233,8 +233,8 @@ const config = {
       },
       prism: {
         defaultLanguage: "typescript",
-        theme: require("prism-react-renderer/themes/github"),
-        darkTheme: require("prism-react-renderer/themes/dracula"),
+        theme: require('prism-react-renderer').themes.github,
+        darkTheme: require('prism-react-renderer').themes.dracula,
         additionalLanguages: ["docker", "log"],
       },
     }),

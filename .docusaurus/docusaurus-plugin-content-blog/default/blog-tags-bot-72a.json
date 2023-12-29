@@ -2,5 +2,6 @@
   "label": "bot",
   "permalink": "/blog/tags/bot",
   "allTagsPath": "/blog/tags",
-  "count": 1
+  "count": 1,
+  "unlisted": false
 }
