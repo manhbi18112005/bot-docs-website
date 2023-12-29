@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbot_docs_website=self.webpackChunkbot_docs_website||[]).push([[911],{9089:s=>{s.exports=JSON.parse('{"label":"dashboard","permalink":"/blog/tags/dashboard","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
